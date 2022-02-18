@@ -21,7 +21,7 @@ country = sys.argv[1]
 #We create a dataframe where only product ID and link are stored
 df = pd.DataFrame(columns=['Id', 'Link'])
 file_name = 'Feed_url.csv'
-dict_path = '/home/joseromero/autofeed/dictionaries/'
+dict_path = '{}/dictionaries/'.format(project_path)
 url = f'https://shop.samsung.com/{country}/googleShoppingFeed'
 
 try:
@@ -37,6 +37,7 @@ try:
 
 except:
     print('Not able to reach Samsung Feed')
+    sys.exit()
 try:
     df1 = pd.read_csv(dict_path + dict_path + f'./url_dictionary_{country.upper()}.csv', index_col=False)
 except:
@@ -61,7 +62,7 @@ for x in df['Link']:
             link = x
         enlacefinal.append(link)
     except:
-        enlacefinal.append('Not possible to get the final URL')
+        enlacefinal.append('Error getting the final link')
 
 df['Final_Link'] = enlacefinal
 df.loc[df['Id'].str.startswith('SM-'), 'Final_Link'] = df['Final_Link']+'buy/'

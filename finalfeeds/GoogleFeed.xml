@@ -13,9 +13,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-dw60m5050fs-dw60m5050fs-ec-frontsilver-117549068?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>589.90 EUR</g:price>
-  <g:sale_price>499.00 EUR</g:sale_price>
+  <g:sale_price>479.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A+ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A+</g:product_type>
 </item>
 <item>
@@ -27,24 +27,10 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-dishwashers-dw60m6040fs-dw60m6040fs-ec-frontsilver-70658852?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>679.89 EUR</g:price>
-  <g:sale_price>579.00 EUR</g:sale_price>
-  <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A++</g:product_type>
-</item>
-<item>
-  <g:id>HAF-CIN/EXP</g:id>
-  <g:gtin>8808993705788</g:gtin>
-  <g:title>Filtro HAF-CIN/EXP</g:title>
-  <g:description>Compre já o Filtro HAF-CIN/EXP na Samsung. Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/home-appliance-accessories/refrigerators-filter-haf-cinexp-haf-cin-exp/?cid=pt_pd_ppc_google_filtro-haf-cin-exp-haf-cin-exp_ongoing_da-accessories-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/pt-refrigerators-filter-haf-cinexp-haf-cin-exp-frontwhite-106239123?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
-  <g:price>59.90 EUR</g:price>
-  <g:sale_price>59.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Accessories | Electrodomesticos Accessorios | Produtos | Eletrodomesticos | Electrodomesticos Accessorios</g:product_type>
+  <g:price>679.89 EUR</g:price>
+  <g:sale_price>559.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A++</g:product_type>
 </item>
 <item>
   <g:id>MS23K3513AW/EC</g:id>
@@ -57,7 +43,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>134.89 EUR</g:price>
-  <g:sale_price>119.90 EUR</g:sale_price>
+  <g:sale_price>114.90 EUR</g:sale_price>
   <g:product_type>Produtos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Encastre | Micro-ondas | Micro-ondas Simples</g:product_type>
 </item>
 <item>
@@ -69,10 +55,24 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-refrigerator--bottom-freezer-rl4363fbasl-ef-frontsilver-61445848?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>1199.90 EUR</g:price>
   <g:sale_price>999.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
+</item>
+<item>
+  <g:id>EP-TA845XBEGWW</g:id>
+  <g:gtin>8806090104527</g:gtin>
+  <g:title>Carregador Rápido 45W</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-note/?cid=pt_pd_ppc_google_carregador-rapido-45w-ep-ta845xbegww_ongoing_im-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt/galaxy-note10/gallery/pt-charger-2019-power-ep-ta845xbegww-frontblack-176367649?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>49.90 EUR</g:price>
+  <g:sale_price>49.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | Acessorios Mobile</g:product_type>
 </item>
 <item>
   <g:id>VG-SGSM11S/XC</g:id>
@@ -97,7 +97,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-without-bag-sc45w0-vcc45w0s36-xep-frontblue-97519344?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>114.89 EUR</g:price>
   <g:sale_price>114.89 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador sem saco | Produtos | Eletrodomesticos | Aspirador | Aspirador sem saco</g:product_type>
@@ -113,7 +113,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>639.90 EUR</g:price>
-  <g:sale_price>549.00 EUR</g:sale_price>
+  <g:sale_price>529.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A++</g:product_type>
 </item>
 <item>
@@ -195,9 +195,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-dw60r7050fs-dw60r7050fs-ec-frontsilver-219762783?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>849.91 EUR</g:price>
-  <g:sale_price>679.00 EUR</g:sale_price>
+  <g:sale_price>659.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A+++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A+++</g:product_type>
 </item>
 <item>
@@ -211,22 +211,8 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>749.89 EUR</g:price>
-  <g:sale_price>599.00 EUR</g:sale_price>
+  <g:sale_price>589.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A+++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A+++</g:product_type>
-</item>
-<item>
-  <g:id>SM-P610NZAAPHE</g:id>
-  <g:gtin>8806090480898</g:gtin>
-  <g:title>Galaxy Tab S6 Lite (Wi-Fi)</g:title>
-  <g:description>O Galaxy Tab S6 Lite é o seu super companheiro portátil e de confiança para tirar notas. Tem um ecrã grande de 10,4 polegadas num design fino e leve, One UI 2 no sistema operativo Android e uma S Pen incluída e pronta a utilizar. Quer esteja a desenhar, a estudar ou a jogar, este é o tablet perfeito para aproveitar o momento.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s6-lite-gray-64gb-sm-p610nzaaphe/buy/?cid=pt_pd_ppc_google_galaxy-tab-s6-lite-wi-fi-sm-p610nzaaphe_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-p610nzaaphe/gallery/pt-galaxy-tab-s6-lite-p610-396398-sm-p610nzaaphe-471439021?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>399.90 EUR</g:price>
-  <g:sale_price>399.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
   <g:id>SM-P615NZAEPHE</g:id>
@@ -239,7 +225,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>519.90 EUR</g:price>
-  <g:sale_price>519.90 EUR</g:sale_price>
+  <g:sale_price>419.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -253,7 +239,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>439.90 EUR</g:price>
-  <g:sale_price>439.90 EUR</g:sale_price>
+  <g:sale_price>379.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -267,21 +253,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>479.90 EUR</g:price>
-  <g:sale_price>479.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
-</item>
-<item>
-  <g:id>SM-P610NZBAPHE</g:id>
-  <g:gtin>8806090480935</g:gtin>
-  <g:title>Galaxy Tab S6 Lite (Wi-Fi)</g:title>
-  <g:description>O Galaxy Tab S6 Lite é o seu super companheiro portátil e de confiança para tirar notas. Tem um ecrã grande de 10,4 polegadas num design fino e leve, One UI 2 no sistema operativo Android e uma S Pen incluída e pronta a utilizar. Quer esteja a desenhar, a estudar ou a jogar, este é o tablet perfeito para aproveitar o momento.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s6-lite-blue-64gb-sm-p610nzbaphe/buy/?cid=pt_pd_ppc_google_galaxy-tab-s6-lite-wi-fi-sm-p610nzbaphe_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-p610nzbaphe/gallery/pt-galaxy-tab-s6-lite-p610-396398-sm-p610nzbaphe-471439092?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>399.90 EUR</g:price>
-  <g:sale_price>399.90 EUR</g:sale_price>
+  <g:sale_price>419.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -295,7 +267,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>729.89 EUR</g:price>
-  <g:sale_price>599.00 EUR</g:sale_price>
+  <g:sale_price>659.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -309,7 +281,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>589.90 EUR</g:price>
-  <g:sale_price>499.00 EUR</g:sale_price>
+  <g:sale_price>549.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -337,7 +309,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>389.90 EUR</g:price>
-  <g:sale_price>349.00 EUR</g:sale_price>
+  <g:sale_price>369.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -351,7 +323,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>839.91 EUR</g:price>
-  <g:sale_price>689.00 EUR</g:sale_price>
+  <g:sale_price>769.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -397,20 +369,6 @@
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
-  <g:id>SM-N980FZAGEUB</g:id>
-  <g:gtin>8806090596537</g:gtin>
-  <g:title>Samsung Galaxy Note20</g:title>
-  <g:description>Compre já online o Samsung Galaxy Note20 em Mystic Gray com 256GB de memória e câmara com 8K. Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-note20/buy/?modelCode=SM-N980FZAGEUB&cid=pt_pd_ppc_google_galaxy-note20-sm-n980fzageub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/pt/galaxy-note20/gallery/pt-galaxy-note20-n980-sm-n980fzageub-frontmysticgray-272535128?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>989.90 EUR</g:price>
-  <g:sale_price>989.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy Note Series | Galaxy Note20 | Note20 Ultra 5G</g:product_type>
-</item>
-<item>
   <g:id>SM-N980FZNGEUB</g:id>
   <g:gtin>8806090596865</g:gtin>
   <g:title>Samsung Galaxy Note20</g:title>
@@ -421,7 +379,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>989.90 EUR</g:price>
-  <g:sale_price>989.90 EUR</g:sale_price>
+  <g:sale_price>749.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Note Series | Galaxy Note20 | Note20 Ultra 5G</g:product_type>
 </item>
 <item>
@@ -537,6 +495,20 @@
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
+  <g:id>SM-T976BZKAEUB</g:id>
+  <g:gtin>8806090613357</g:gtin>
+  <g:title>Samsung Galaxy Tab S7+ (5G) Mystic Black 128GB</g:title>
+  <g:description>Descubra já o Samsung Galaxy Tab S7 Plus 5G com 128GB e 12,4 Polegadas. S Pen incluída. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s7-plus-12-4-inch-mystic-black-128gb-5g-sm-t976bzkaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s7plus-5g-sm-t976bzkaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-galaxy-tab-s7-plus-5g-t976-sm-t976bzkaeub-287876595?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1169.90 EUR</g:price>
+  <g:sale_price>1039.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
+</item>
+<item>
   <g:id>EP-N5105TBEGWW</g:id>
   <g:gtin>8806090075506</g:gtin>
   <g:title>Acessórios Galaxy Note 10: Capas e Carregadores</g:title>
@@ -549,6 +521,20 @@
   <g:price>69.90 EUR</g:price>
   <g:sale_price>69.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Acessorios Mobile</g:product_type>
+</item>
+<item>
+  <g:id>SM-R220NZKAEUB</g:id>
+  <g:gtin>8806090724664</g:gtin>
+  <g:title>Samsung Galaxy Fit2 Preto</g:title>
+  <g:description>Compre já online a Samsung Galaxy Fit2 Preto. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/watches/galaxy-fit/galaxy-fit2-black-sm-r220nzkaeub/buy/?cid=pt_pd_ppc_google_galaxy-fit2-sm-r220nzkaeub_ongoing_im-wearables-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-galaxy-fit2-r220-sm-r220nzkaeub-frontblack-304134971?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>49.90 EUR</g:price>
+  <g:sale_price>39.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Wearables | Pulseiras Desportivas</g:product_type>
 </item>
 <item>
   <g:id>SM-G781BZBDEUB</g:id>
@@ -575,7 +561,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>268.35 EUR</g:price>
-  <g:sale_price>268.35 EUR</g:sale_price>
+  <g:sale_price>189.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -603,7 +589,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>529.90 EUR</g:price>
-  <g:sale_price>369.00 EUR</g:sale_price>
+  <g:sale_price>359.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -631,7 +617,7 @@
   <g:condition>new</g:condition>
   <g:availability>preorder</g:availability>
   <g:price>724.90 EUR</g:price>
-  <g:sale_price>579.00 EUR</g:sale_price>
+  <g:sale_price>559.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -643,9 +629,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww90t554dan-s3/gallery/pt-front-loading-washer-ww10t554daws1-ww90t554dan-s3-333111625?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>839.91 EUR</g:price>
-  <g:sale_price>579.00 EUR</g:sale_price>
+  <g:sale_price>589.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -673,7 +659,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>919.90 EUR</g:price>
-  <g:sale_price>729.00 EUR</g:sale_price>
+  <g:sale_price>699.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -687,7 +673,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>969.90 EUR</g:price>
-  <g:sale_price>819.00 EUR</g:sale_price>
+  <g:sale_price>769.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -699,9 +685,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww80t554dtw-s3/gallery/pt-front-loading-washer-ww10t554daws1-359541-ww80t554dtw-s3-333189487?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>699.89 EUR</g:price>
-  <g:sale_price>499.00 EUR</g:sale_price>
+  <g:sale_price>459.99 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -715,7 +701,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>869.91 EUR</g:price>
-  <g:sale_price>699.00 EUR</g:sale_price>
+  <g:sale_price>639.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -727,9 +713,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-front-loading-washer-ww80ta046aeef-ww90ta026te-ep-frontwhite-299187248?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>619.90 EUR</g:price>
-  <g:sale_price>459.00 EUR</g:sale_price>
+  <g:sale_price>399.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -743,7 +729,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>879.91 EUR</g:price>
-  <g:sale_price>729.00 EUR</g:sale_price>
+  <g:sale_price>699.00 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -755,7 +741,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/wd90t734dbh-s3/gallery/pt-combo-wd10t734dbhs7-wd90t734dbh-s3-337284650?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>1144.90 EUR</g:price>
   <g:sale_price>859.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
@@ -769,9 +755,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-combo-wd10t634dbhs7-wd10t634dbh-s3-frontwhite-319854560?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>1114.90 EUR</g:price>
-  <g:sale_price>899.00 EUR</g:sale_price>
+  <g:sale_price>849.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -797,9 +783,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-buds-pro-r190-sm-r190nzkaeub-363262784?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Wearables | Galaxy Buds</g:product_type>
 </item>
 <item>
@@ -825,24 +811,10 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-buds-pro-r190-sm-r190nzsaeub-363262793?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Wearables | Galaxy Buds</g:product_type>
-</item>
-<item>
-  <g:id>SM-G991BZIDEUB</g:id>
-  <g:gtin>8806090887550</g:gtin>
-  <g:title>Samsung Galaxy S21 5G</g:title>
-  <g:description>Não perca mais tempo e compre já o seu! Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZIDEUB&cid=pt_pd_ppc_google_galaxy-s21-5g-sm-g991bzideub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-5g-g991-sm-g991bzideub-368964759?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>879.91 EUR</g:price>
-  <g:sale_price>679.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
 </item>
 <item>
   <g:id>SM-G996BZKDEUB</g:id>
@@ -853,7 +825,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-5g-g996-sm-g996bzkdeub-368907418?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>1079.90 EUR</g:price>
   <g:sale_price>779.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
@@ -867,9 +839,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-buds-pro-r190-sm-r190nzvaeub-363262812?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Wearables | Galaxy Buds</g:product_type>
 </item>
 <item>
@@ -895,7 +867,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-ultra-5g-g988-sm-g998bzkdeub-368998986?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1279.90 EUR</g:price>
   <g:sale_price>979.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
@@ -909,7 +881,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-smarttag-ei-t5300-ei-t5300bbegeu-363377781?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>29.90 EUR</g:price>
   <g:sale_price>29.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Galaxy SmartTag | Produtos | Accessories | Acessorios Mobile | Galaxy SmartTag</g:product_type>
@@ -929,20 +901,6 @@
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
 </item>
 <item>
-  <g:id>SM-G991BZVGEUB</g:id>
-  <g:gtin>8806090892189</g:gtin>
-  <g:title>Samsung Galaxy S21 5G</g:title>
-  <g:description>Não perca mais tempo e compre já o seu! Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZVGEUB&cid=pt_pd_ppc_google_galaxy-s21-5g-sm-g991bzvgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-5g-g991-sm-g991bzvgeub-368964816?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>929.90 EUR</g:price>
-  <g:sale_price>729.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
-</item>
-<item>
   <g:id>SM-G998BZKHEUB</g:id>
   <g:gtin>8806090886911</g:gtin>
   <g:title>Samsung Galaxy S21 Ultra 5G</g:title>
@@ -957,20 +915,6 @@
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
 </item>
 <item>
-  <g:id>SM-G996BZSDEUB</g:id>
-  <g:gtin>8806090882180</g:gtin>
-  <g:title>Samsung Galaxy S21+ 5G</g:title>
-  <g:description>Não perca mais tempo e compre já o seu! Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G996BZSDEUB&cid=pt_pd_ppc_google_galaxy-s21plus-5g-sm-g996bzsdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-5g-g996-sm-g996bzsdeub-368907494?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>1079.90 EUR</g:price>
-  <g:sale_price>779.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
-</item>
-<item>
   <g:id>SM-G991BZWGEUB</g:id>
   <g:gtin>8806090886638</g:gtin>
   <g:title>Samsung Galaxy S21 5G</g:title>
@@ -979,7 +923,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-5g-g991-sm-g991bzwgeub-368964854?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>929.90 EUR</g:price>
   <g:sale_price>729.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
@@ -1007,7 +951,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ep-ta800nbegeu/gallery/pt-wall-charger-for-super-fast-charging-25w-368677-ep-ta800nbegeu-363361609?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>19.90 EUR</g:price>
   <g:sale_price>19.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Acessorios Mobile</g:product_type>
@@ -1049,7 +993,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ep-ta800nwegeu/gallery/pt-wall-charger-for-super-fast-charging-25w-368677-ep-ta800nwegeu-363361686?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>19.90 EUR</g:price>
   <g:sale_price>19.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Acessorios Mobile</g:product_type>
@@ -1121,7 +1065,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>789.91 EUR</g:price>
-  <g:sale_price>599.00 EUR</g:sale_price>
+  <g:sale_price>579.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -1135,7 +1079,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>154.89 EUR</g:price>
-  <g:sale_price>129.90 EUR</g:sale_price>
+  <g:sale_price>124.90 EUR</g:sale_price>
   <g:product_type>Produtos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Encastre | Micro-ondas | Micro-ondas Simples</g:product_type>
 </item>
 <item>
@@ -1149,7 +1093,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>924.90 EUR</g:price>
-  <g:sale_price>699.00 EUR</g:sale_price>
+  <g:sale_price>689.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -1161,7 +1105,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vc07k41e0vl-ep/gallery/pt-vc4100k-canister-with-more-consistent-suction-without-tangles-vc07k41e0vl-ep-396625326?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>139.90 EUR</g:price>
   <g:sale_price>129.90 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador sem saco | Produtos | Eletrodomesticos | Aspirador | Aspirador sem saco</g:product_type>
@@ -1177,7 +1121,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>729.89 EUR</g:price>
-  <g:sale_price>599.00 EUR</g:sale_price>
+  <g:sale_price>559.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Maquinas de secar roupa | Produtos | Eletrodomesticos | Maquina de roupa | Maquinas de secar roupa</g:product_type>
 </item>
 <item>
@@ -1191,7 +1135,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>679.89 EUR</g:price>
-  <g:sale_price>569.00 EUR</g:sale_price>
+  <g:sale_price>539.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Maquinas de secar roupa | Produtos | Eletrodomesticos | Maquina de roupa | Maquinas de secar roupa</g:product_type>
 </item>
 <item>
@@ -1219,7 +1163,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>399.00 EUR</g:price>
-  <g:sale_price>359.00 EUR</g:sale_price>
+  <g:sale_price>299.00 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador Vertical | Produtos | Eletrodomesticos | Aspirador | Aspirador Vertical</g:product_type>
 </item>
 <item>
@@ -1233,7 +1177,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>329.90 EUR</g:price>
-  <g:sale_price>329.90 EUR</g:sale_price>
+  <g:sale_price>259.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -1247,7 +1191,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>509.90 EUR</g:price>
-  <g:sale_price>419.90 EUR</g:sale_price>
+  <g:sale_price>389.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -1259,9 +1203,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a325fzbgeub/gallery/pt-galaxy-a32-a325-sm-a325fzbgeub-404116335?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>299.90 EUR</g:price>
-  <g:sale_price>299.90 EUR</g:sale_price>
+  <g:sale_price>239.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -1275,7 +1219,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>299.90 EUR</g:price>
-  <g:sale_price>299.90 EUR</g:sale_price>
+  <g:sale_price>239.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -1287,7 +1231,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls32am500nrxen/gallery/pt-smart-m5-32m50a-378417-ls32am500nrxen-399698066?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>299.00 EUR</g:price>
   <g:sale_price>214.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
@@ -1329,7 +1273,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe65qn800atxxc/gallery/pt-neo-qled-8k-qn800a-qe65qn800atxxc-401640462?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>3999.98 EUR</g:price>
   <g:sale_price>2499.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
@@ -1357,7 +1301,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe85qn900atxxc/gallery/pt-qled-tv-qe85qn900atxxc-front-silver-457136417?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>11999.99 EUR</g:price>
   <g:sale_price>8999.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
@@ -1373,7 +1317,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>2499.99 EUR</g:price>
-  <g:sale_price>1599.00 EUR</g:sale_price>
+  <g:sale_price>1499.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1401,7 +1345,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>2199.99 EUR</g:price>
-  <g:sale_price>1499.00 EUR</g:sale_price>
+  <g:sale_price>1399.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1415,7 +1359,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>7999.99 EUR</g:price>
-  <g:sale_price>5499.00 EUR</g:sale_price>
+  <g:sale_price>4999.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1443,7 +1387,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>5499.99 EUR</g:price>
-  <g:sale_price>3799.00 EUR</g:sale_price>
+  <g:sale_price>3499.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1471,7 +1415,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>769.89 EUR</g:price>
-  <g:sale_price>619.00 EUR</g:sale_price>
+  <g:sale_price>599.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -1485,7 +1429,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>839.91 EUR</g:price>
-  <g:sale_price>639.00 EUR</g:sale_price>
+  <g:sale_price>629.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -1513,7 +1457,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1079.90 EUR</g:price>
-  <g:sale_price>899.00 EUR</g:sale_price>
+  <g:sale_price>879.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -1539,9 +1483,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww10t534daw-s3/gallery/pt-front-loading-washer-ww10t534daws1-376280-ww10t534daw-s3-391119159?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>769.89 EUR</g:price>
-  <g:sale_price>629.00 EUR</g:sale_price>
+  <g:sale_price>599.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -1583,7 +1527,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>599.99 EUR</g:price>
-  <g:sale_price>480.00 EUR</g:sale_price>
+  <g:sale_price>479.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1597,7 +1541,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>914.90 EUR</g:price>
-  <g:sale_price>749.00 EUR</g:sale_price>
+  <g:sale_price>729.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -1611,7 +1555,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>819.91 EUR</g:price>
-  <g:sale_price>699.00 EUR</g:sale_price>
+  <g:sale_price>669.00 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -1625,7 +1569,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>2099.91 EUR</g:price>
-  <g:sale_price>1699.00 EUR</g:sale_price>
+  <g:sale_price>1649.99 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1639,7 +1583,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1799.90 EUR</g:price>
-  <g:sale_price>1499.00 EUR</g:sale_price>
+  <g:sale_price>1459.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1665,9 +1609,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rs67a8811s9-ef/gallery/pt-rs8000nc-7-383602-rs67a8811s9-ef-419798807?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>1569.90 EUR</g:price>
-  <g:sale_price>1259.00 EUR</g:sale_price>
+  <g:sale_price>1229.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1709,7 +1653,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1439.90 EUR</g:price>
-  <g:sale_price>1159.00 EUR</g:sale_price>
+  <g:sale_price>1129.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1751,7 +1695,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>349.00 EUR</g:price>
-  <g:sale_price>299.90 EUR</g:sale_price>
+  <g:sale_price>269.00 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador Vertical | Produtos | Eletrodomesticos | Aspirador | Aspirador Vertical</g:product_type>
 </item>
 <item>
@@ -1765,7 +1709,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>949.99 EUR</g:price>
-  <g:sale_price>600.00 EUR</g:sale_price>
+  <g:sale_price>599.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | QLED TV</g:product_type>
 </item>
 <item>
@@ -1793,7 +1737,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>179.90 EUR</g:price>
-  <g:sale_price>134.90 EUR</g:sale_price>
+  <g:sale_price>149.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -1807,7 +1751,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1249.99 EUR</g:price>
-  <g:sale_price>899.99 EUR</g:sale_price>
+  <g:sale_price>849.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1819,7 +1763,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rs6ha8891sl-ef/gallery/pt-rs8000nc--h-386414-rs6ha8891sl-ef-431811767?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>2699.90 EUR</g:price>
   <g:sale_price>1999.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
@@ -1835,7 +1779,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1334.89 EUR</g:price>
-  <g:sale_price>1069.00 EUR</g:sale_price>
+  <g:sale_price>999.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | EcoBubble | Produtos | Eletrodomesticos | Maquina de roupa | EcoBubble</g:product_type>
 </item>
 <item>
@@ -1853,18 +1797,18 @@
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
-  <g:id>MG23A7013CT/EC</g:id>
-  <g:gtin>8806092062757</g:gtin>
-  <g:title>Micro-Ondas Samsung Grill de Encastre 23L</g:title>
-  <g:description>Compre já o Micro-Ondas Samsung Grill de Encastre 23L. Envio grátis.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/microwave-ovens/grill/mq7000a-mg23a7013ct-ec/?cid=pt_pd_ppc_google_mg23a7013ct-micro-ondas-grill-de-encastre,-23l-mg23a7013ct-ec_ongoing_da-microwave-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mg23a7013ct-ec/gallery/pt-mq7000a-mg23a7013ct-ec-417151094?$320_320_PNG$</g:image_link>
+  <g:id>QE85Q60AAUXXC</g:id>
+  <g:gtin>8806090985584</g:gtin>
+  <g:title>Televisão Samsung Q60A Smart 4K QLED TV 2021 85 polegadas</g:title>
+  <g:description>Compre já a Televisão Samsung Q60A Smart 4K QLED TV 2021 85 polegadas. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/qled-tv/q60a-85-inch-qled-4k-smart-tv-qe85q60aauxxc/?cid=pt_pd_ppc_google_q60a-smart-4k-qled-tv-2021-qe85q60aauxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe85q60aauxxc/gallery/pt-qled-tv-qe85q60aauxxc-front-black-457270228?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>279.90 EUR</g:price>
-  <g:sale_price>259.00 EUR</g:sale_price>
-  <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
+  <g:availability>in stock</g:availability>
+  <g:price>2799.98 EUR</g:price>
+  <g:sale_price>2199.00 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
   <g:id>SM-M127FLBWEUB</g:id>
@@ -1877,7 +1821,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>199.90 EUR</g:price>
-  <g:sale_price>199.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -1891,7 +1835,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>179.90 EUR</g:price>
-  <g:sale_price>134.90 EUR</g:sale_price>
+  <g:sale_price>149.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -1905,7 +1849,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>199.90 EUR</g:price>
-  <g:sale_price>199.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -1919,7 +1863,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>179.90 EUR</g:price>
-  <g:sale_price>134.90 EUR</g:sale_price>
+  <g:sale_price>149.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -1931,9 +1875,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m127fzkweub/gallery/pt-galaxy-m12-m127-sm-m127fzkweub-414156940?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>199.90 EUR</g:price>
-  <g:sale_price>199.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -1947,7 +1891,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1579.90 EUR</g:price>
-  <g:sale_price>1199.00 EUR</g:sale_price>
+  <g:sale_price>1179.99 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1961,7 +1905,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1689.90 EUR</g:price>
-  <g:sale_price>1349.00 EUR</g:sale_price>
+  <g:sale_price>1299.99 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1989,7 +1933,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1069.90 EUR</g:price>
-  <g:sale_price>1069.90 EUR</g:sale_price>
+  <g:sale_price>799.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Produtos | Eletrodomesticos | Frigorificos</g:product_type>
 </item>
 <item>
@@ -2003,7 +1947,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1399.99 EUR</g:price>
-  <g:sale_price>899.99 EUR</g:sale_price>
+  <g:sale_price>849.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2017,7 +1961,7 @@
   <g:condition>new</g:condition>
   <g:availability>preorder</g:availability>
   <g:price>969.90 EUR</g:price>
-  <g:sale_price>849.00 EUR</g:sale_price>
+  <g:sale_price>799.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Produtos | Eletrodomesticos | Frigorificos</g:product_type>
 </item>
 <item>
@@ -2031,7 +1975,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>854.90 EUR</g:price>
-  <g:sale_price>739.00 EUR</g:sale_price>
+  <g:sale_price>699.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Produtos | Eletrodomesticos | Frigorificos</g:product_type>
 </item>
 <item>
@@ -2045,7 +1989,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1179.90 EUR</g:price>
-  <g:sale_price>969.00 EUR</g:sale_price>
+  <g:sale_price>959.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Produtos | Eletrodomesticos | Frigorificos</g:product_type>
 </item>
 <item>
@@ -2087,7 +2031,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>799.99 EUR</g:price>
-  <g:sale_price>680.00 EUR</g:sale_price>
+  <g:sale_price>679.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2157,7 +2101,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>299.00 EUR</g:price>
-  <g:sale_price>269.00 EUR</g:sale_price>
+  <g:sale_price>239.00 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Produtos | Eletrodomesticos | Aspirador</g:product_type>
 </item>
 <item>
@@ -2171,21 +2115,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>799.99 EUR</g:price>
-  <g:sale_price>699.99 EUR</g:sale_price>
-  <g:product_type>Produtos | Soundbars</g:product_type>
-</item>
-<item>
-  <g:id>HW-A450/ZF</g:id>
-  <g:gtin>8806092081703</g:gtin>
-  <g:title>Coluna Samsung Soundbar A450 300W 2.1 2021</g:title>
-  <g:description>Compre já a Coluna Samsung Soundbar A450 300W 2.1 2021. Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/audio-devices/soundbar/a450-black-hw-a450-zf/?cid=pt_pd_ppc_google_soundbar-a450-300w-2.1-2021-hw-a450-zf_ongoing_vd-audio-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/hw-a450-zf/gallery/pt-hw-a450-hw-a450-zf-420481797?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>249.99 EUR</g:price>
-  <g:sale_price>199.99 EUR</g:sale_price>
+  <g:sale_price>649.99 EUR</g:sale_price>
   <g:product_type>Produtos | Soundbars</g:product_type>
 </item>
 <item>
@@ -2199,7 +2129,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1199.99 EUR</g:price>
-  <g:sale_price>750.00 EUR</g:sale_price>
+  <g:sale_price>749.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | QLED TV</g:product_type>
 </item>
 <item>
@@ -2213,7 +2143,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>189.99 EUR</g:price>
-  <g:sale_price>150.00 EUR</g:sale_price>
+  <g:sale_price>149.99 EUR</g:sale_price>
   <g:product_type>Produtos | Soundbars</g:product_type>
 </item>
 <item>
@@ -2239,9 +2169,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-t736bzkaeub/gallery/pt-galaxy-tab-s7-fe-5g-t736-sm-t736bzkaeub-453674977?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>679.89 EUR</g:price>
-  <g:sale_price>679.89 EUR</g:sale_price>
+  <g:sale_price>599.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -2255,7 +2185,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>739.89 EUR</g:price>
-  <g:sale_price>739.89 EUR</g:sale_price>
+  <g:sale_price>639.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -2269,7 +2199,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>679.89 EUR</g:price>
-  <g:sale_price>679.89 EUR</g:sale_price>
+  <g:sale_price>599.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -2339,7 +2269,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>599.99 EUR</g:price>
-  <g:sale_price>449.99 EUR</g:sale_price>
+  <g:sale_price>439.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | Crystal UHD</g:product_type>
 </item>
 <item>
@@ -2381,7 +2311,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>849.99 EUR</g:price>
-  <g:sale_price>669.99 EUR</g:sale_price>
+  <g:sale_price>659.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2407,7 +2337,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77e500b-eu/gallery/pt-870-evo-sata-3-2-5-ssd-mz-77e500b-eu-407733943?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>69.81 EUR</g:price>
   <g:sale_price>69.81 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
@@ -2477,7 +2407,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue75au9005kxxc/gallery/pt-uhd-4k-tv-ue75au9005kxxc-ue--au----uxxc-458071671?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>1700.00 EUR</g:price>
   <g:sale_price>1099.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
@@ -2493,7 +2423,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1799.99 EUR</g:price>
-  <g:sale_price>1099.00 EUR</g:sale_price>
+  <g:sale_price>999.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | Neo QLED</g:product_type>
 </item>
 <item>
@@ -2509,20 +2439,6 @@
   <g:price>52.23 EUR</g:price>
   <g:sale_price>52.23 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
-</item>
-<item>
-  <g:id>LC27G75TQSRXEN</g:id>
-  <g:gtin>8806092001992</g:gtin>
-  <g:title>Monitor Gaming Odyssey G7 Black 27</g:title>
-  <g:description>Compre já online o Monitor Gaming Odyssey G7 Black 27. Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-g7-27-inch-240hz-1ms-curved-lc27g75tqsrxen/?cid=pt_pd_ppc_google_monitor-gaming-odyssey-g7-lc27g75tqsrxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc27g75tqsrxen/gallery/pt-odyssey-g7-c27g75t-lc27g75tqsrxen-444450332?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>649.00 EUR</g:price>
-  <g:sale_price>649.00 EUR</g:sale_price>
-  <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
 </item>
 <item>
   <g:id>MZ-77E1T0B/EU</g:id>
@@ -2661,7 +2577,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>4499.99 EUR</g:price>
-  <g:sale_price>4499.00 EUR</g:sale_price>
+  <g:sale_price>3749.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2673,7 +2589,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-portable-ssd-t7-touch-mu-pc1t0k-ww-frontblack-211484064?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>143.77 EUR</g:price>
   <g:sale_price>143.77 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
@@ -2731,7 +2647,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1999.99 EUR</g:price>
-  <g:sale_price>1329.00 EUR</g:sale_price>
+  <g:sale_price>1299.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2745,7 +2661,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1049.99 EUR</g:price>
-  <g:sale_price>799.99 EUR</g:sale_price>
+  <g:sale_price>899.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | The Frame | Produtos | TV | Lifestyle TV | The Frame</g:product_type>
 </item>
 <item>
@@ -2759,7 +2675,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1499.98 EUR</g:price>
-  <g:sale_price>999.99 EUR</g:sale_price>
+  <g:sale_price>1099.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2815,7 +2731,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>209.90 EUR</g:price>
-  <g:sale_price>209.90 EUR</g:sale_price>
+  <g:sale_price>149.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -2829,7 +2745,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>179.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>129.00 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -2843,7 +2759,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>179.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>129.00 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -2861,62 +2777,6 @@
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
-  <g:id>LC32G73TQSRXEN</g:id>
-  <g:gtin>8806092002098</g:gtin>
-  <g:title>Monitor Gaming Odissey  G7 G73TQSRXEN</g:title>
-  <g:description>nan</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-g7-32-inch-240hz-1ms-curved-lc32g73tqsrxen/?cid=pt_pd_ppc_google_monitor-gaming-odissey--g7-g73tqsrxen-lc32g73tqsrxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc32g73tqsrxen/gallery/pt-odyssey-g7-c27g75t-392754-lc32g73tqsrxen-458971918?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>649.00 EUR</g:price>
-  <g:sale_price>469.99 EUR</g:sale_price>
-  <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
-</item>
-<item>
-  <g:id>LC32G75TQSRXEN</g:id>
-  <g:gtin>8806092002111</g:gtin>
-  <g:title>Monitor Gaming Odyssey G7</g:title>
-  <g:description>nan</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-g7-32-inch-240hz-1ms-curved-lc32g75tqsrxen/?cid=pt_pd_ppc_google_monitor-gaming-odyssey-g7-lc32g75tqsrxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc32g75tqsrxen/gallery/pt-odyssey-g7-c27g75t-lc32g75tqsrxen-444450501?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>599.00 EUR</g:price>
-  <g:sale_price>429.99 EUR</g:sale_price>
-  <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
-</item>
-<item>
-  <g:id>LC27G73TQSRXEN</g:id>
-  <g:gtin>8806092001978</g:gtin>
-  <g:title>Monitor Gaming Odissey  G7 G73TQSRXEN</g:title>
-  <g:description>nan</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-g7-27-inch-240hz-1ms-curved-lc27g73tqsrxen/?cid=pt_pd_ppc_google_monitor-gaming-odissey--g7-g73tqsrxen-lc27g73tqsrxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc27g73tqsrxen/gallery/pt-odyssey-g7-c27g75t-392754-lc27g73tqsrxen-458971718?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>549.00 EUR</g:price>
-  <g:sale_price>394.99 EUR</g:sale_price>
-  <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
-</item>
-<item>
-  <g:id>LS32AM501NUXEN</g:id>
-  <g:gtin>8806092231160</g:gtin>
-  <g:title>Monitor Smart com Apps Smart TV </g:title>
-  <g:description>Para todos os  âmbitos da sua vida, seja qual for o seu estilo. Trabalhe a partir de casa sem um PC, permaneça conectado ao Office 365 e aceda ao computador do escritório sem que tenha de sair de casa. Tire um maior partido do seu tempo livre com o hub de entretenimento integrado. Onde quer que o coloque, este monitor encaixa na perfeição.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/flat/smart-m5-32-inch-smart-tv-apps-white-ls32am501nuxen/?cid=pt_pd_ppc_google_monitor-smart-com-apps-smart-tv--ls32am501nuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls32am501nuxen/gallery/pt-smart-m5-m50a32-ls32am501nuxen-458853605?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>319.00 EUR</g:price>
-  <g:sale_price>229.99 EUR</g:sale_price>
-  <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
-</item>
-<item>
   <g:id>LS27AM501NUXEN</g:id>
   <g:gtin>8806092231580</g:gtin>
   <g:title>Monitor Smart com Apps Smart TV </g:title>
@@ -2925,9 +2785,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls27am501nuxen/gallery/pt-smart-m5-m50a32-392688-ls27am501nuxen-459696488?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>299.00 EUR</g:price>
-  <g:sale_price>214.99 EUR</g:sale_price>
+  <g:sale_price>299.00 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
@@ -2939,7 +2799,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc32g53tqwrxen/gallery/pt-odyssey-g5-g55t-360281-lc32g53tqwrxen-458205934?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>349.00 EUR</g:price>
   <g:sale_price>249.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
@@ -2955,7 +2815,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>3999.98 EUR</g:price>
-  <g:sale_price>3199.00 EUR</g:sale_price>
+  <g:sale_price>3999.98 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2969,21 +2829,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>4999.99 EUR</g:price>
-  <g:sale_price>3999.00 EUR</g:sale_price>
-  <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
-</item>
-<item>
-  <g:id>QE75LST7TCUXXC</g:id>
-  <g:gtin>8806092204942</g:gtin>
-  <g:title>The Terrace Smart QLED TV 4K Exterior 2021</g:title>
-  <g:description> eamp;lt;spam eamp;gt;</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/lifestyle-tvs/the-terrace/the-terrace-75-inch-4k-outdoor-tv-lst7t-black-qe75lst7tcuxxc/?cid=pt_pd_ppc_google_the-terrace-smart-qled-tv-4k-exterior-2021-qe75lst7tcuxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe75lst7tcuxxc/gallery/pt-the-terrace-qe75lst7tcuxxc-front-black-458201356?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>6499.98 EUR</g:price>
-  <g:sale_price>5199.00 EUR</g:sale_price>
+  <g:sale_price>4999.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2997,7 +2843,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>259.90 EUR</g:price>
-  <g:sale_price>259.90 EUR</g:sale_price>
+  <g:sale_price>199.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -3009,9 +2855,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a225fzwgeub/gallery/pt-galaxy-a22-a225-sm-a225fzwgeub-460105064?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>259.90 EUR</g:price>
-  <g:sale_price>259.90 EUR</g:sale_price>
+  <g:sale_price>199.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -3025,7 +2871,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>279.90 EUR</g:price>
-  <g:sale_price>279.90 EUR</g:sale_price>
+  <g:sale_price>219.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -3039,7 +2885,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>249.90 EUR</g:price>
-  <g:sale_price>249.90 EUR</g:sale_price>
+  <g:sale_price>199.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -3053,7 +2899,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>279.90 EUR</g:price>
-  <g:sale_price>279.90 EUR</g:sale_price>
+  <g:sale_price>219.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -3067,7 +2913,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>249.90 EUR</g:price>
-  <g:sale_price>249.90 EUR</g:sale_price>
+  <g:sale_price>199.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -3081,7 +2927,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1859.90 EUR</g:price>
-  <g:sale_price>1859.90 EUR</g:sale_price>
+  <g:sale_price>1699.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Z Fold3</g:product_type>
 </item>
 <item>
@@ -3095,7 +2941,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1959.89 EUR</g:price>
-  <g:sale_price>1959.89 EUR</g:sale_price>
+  <g:sale_price>1799.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Z Fold3</g:product_type>
 </item>
 <item>
@@ -3109,7 +2955,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1859.90 EUR</g:price>
-  <g:sale_price>1859.90 EUR</g:sale_price>
+  <g:sale_price>1699.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Z Fold3</g:product_type>
 </item>
 <item>
@@ -3123,7 +2969,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1959.89 EUR</g:price>
-  <g:sale_price>1959.89 EUR</g:sale_price>
+  <g:sale_price>1799.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Z Fold3</g:product_type>
 </item>
 <item>
@@ -3137,7 +2983,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1859.90 EUR</g:price>
-  <g:sale_price>1859.90 EUR</g:sale_price>
+  <g:sale_price>1699.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Z Fold3</g:product_type>
 </item>
 <item>
@@ -3151,7 +2997,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>422.26 EUR</g:price>
-  <g:sale_price>334.90 EUR</g:sale_price>
+  <g:sale_price>379.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3165,7 +3011,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>422.26 EUR</g:price>
-  <g:sale_price>334.90 EUR</g:sale_price>
+  <g:sale_price>379.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3179,7 +3025,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1959.89 EUR</g:price>
-  <g:sale_price>1959.89 EUR</g:sale_price>
+  <g:sale_price>1799.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Z Fold3</g:product_type>
 </item>
 <item>
@@ -3193,7 +3039,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>402.26 EUR</g:price>
-  <g:sale_price>319.90 EUR</g:sale_price>
+  <g:sale_price>349.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3207,7 +3053,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>402.26 EUR</g:price>
-  <g:sale_price>319.90 EUR</g:sale_price>
+  <g:sale_price>349.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3221,7 +3067,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>372.26 EUR</g:price>
-  <g:sale_price>269.90 EUR</g:sale_price>
+  <g:sale_price>329.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3235,7 +3081,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>372.26 EUR</g:price>
-  <g:sale_price>269.90 EUR</g:sale_price>
+  <g:sale_price>329.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3249,35 +3095,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>322.26 EUR</g:price>
-  <g:sale_price>249.90 EUR</g:sale_price>
-  <g:product_type>nan</g:product_type>
-</item>
-<item>
-  <g:id>SM-R865FZKAPHE</g:id>
-  <g:gtin>8806092614567</g:gtin>
-  <g:title>Galaxy Watch4 4G (40mm)</g:title>
-  <g:description>Track your activities and fitness scores on your watch and phone. Count steps, check calories, and stay on the grid with GPS. Galaxy Watch4 detects physical activity to track your routines and supports more than 90 exercises for a more accurate report of your workouts.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-4g-sm-r865fzkaphe/buy/?cid=pt_pd_ppc_google_galaxy-watch4-4g-40mm-sm-r865fzkaphe_ongoing_im-wearables-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-watch4-400386-sm-r865fzkaphe-482248448?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>322.26 EUR</g:price>
-  <g:sale_price>249.90 EUR</g:sale_price>
-  <g:product_type>nan</g:product_type>
-</item>
-<item>
-  <g:id>SM-R865FZSAPHE</g:id>
-  <g:gtin>8806092614512</g:gtin>
-  <g:title>Galaxy Watch4 4G (40mm)</g:title>
-  <g:description>Track your activities and fitness scores on your watch and phone. Count steps, check calories, and stay on the grid with GPS. Galaxy Watch4 detects physical activity to track your routines and supports more than 90 exercises for a more accurate report of your workouts.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-silver-4g-sm-r865fzsaphe/buy/?cid=pt_pd_ppc_google_galaxy-watch4-4g-40mm-sm-r865fzsaphe_ongoing_im-wearables-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-watch4-400386-sm-r865fzsaphe-482248461?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>322.26 EUR</g:price>
-  <g:sale_price>249.90 EUR</g:sale_price>
+  <g:sale_price>279.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3291,7 +3109,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>302.26 EUR</g:price>
-  <g:sale_price>229.90 EUR</g:sale_price>
+  <g:sale_price>249.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3303,9 +3121,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-watch4-sm-r870nzkaphe-481872514?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>302.26 EUR</g:price>
-  <g:sale_price>229.90 EUR</g:sale_price>
+  <g:sale_price>249.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3319,7 +3137,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>302.26 EUR</g:price>
-  <g:sale_price>229.90 EUR</g:sale_price>
+  <g:sale_price>249.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3333,7 +3151,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>352.26 EUR</g:price>
-  <g:sale_price>269.90 EUR</g:sale_price>
+  <g:sale_price>299.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3347,7 +3165,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>352.26 EUR</g:price>
-  <g:sale_price>269.90 EUR</g:sale_price>
+  <g:sale_price>299.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3359,9 +3177,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-watch4-400448-sm-r875fzsaphe-482282699?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>352.26 EUR</g:price>
-  <g:sale_price>269.90 EUR</g:sale_price>
+  <g:sale_price>299.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3375,7 +3193,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>149.90 EUR</g:price>
-  <g:sale_price>119.90 EUR</g:sale_price>
+  <g:sale_price>129.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3389,7 +3207,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>149.90 EUR</g:price>
-  <g:sale_price>119.90 EUR</g:sale_price>
+  <g:sale_price>129.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3401,9 +3219,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-buds2-r177-sm-r177nzkaphe-482311832?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>149.90 EUR</g:price>
-  <g:sale_price>119.90 EUR</g:sale_price>
+  <g:sale_price>129.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3417,7 +3235,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>149.90 EUR</g:price>
-  <g:sale_price>119.90 EUR</g:sale_price>
+  <g:sale_price>129.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3431,7 +3249,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>272.26 EUR</g:price>
-  <g:sale_price>219.90 EUR</g:sale_price>
+  <g:sale_price>229.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3459,7 +3277,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>272.26 EUR</g:price>
-  <g:sale_price>219.90 EUR</g:sale_price>
+  <g:sale_price>229.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3529,7 +3347,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>452.26 EUR</g:price>
-  <g:sale_price>349.90 EUR</g:sale_price>
+  <g:sale_price>399.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3543,7 +3361,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>452.26 EUR</g:price>
-  <g:sale_price>349.90 EUR</g:sale_price>
+  <g:sale_price>399.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3585,7 +3403,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>272.26 EUR</g:price>
-  <g:sale_price>219.90 EUR</g:sale_price>
+  <g:sale_price>229.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -3597,7 +3415,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-s-pen-fold-edition-pf926-ej-pf926bbegeu-481823331?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>49.90 EUR</g:price>
   <g:sale_price>49.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Acessorios Mobile | Acessorios Galaxy Z Fold3</g:product_type>
@@ -3711,7 +3529,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>609.90 EUR</g:price>
-  <g:sale_price>609.90 EUR</g:sale_price>
+  <g:sale_price>529.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -3725,7 +3543,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>659.90 EUR</g:price>
-  <g:sale_price>659.90 EUR</g:sale_price>
+  <g:sale_price>579.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -3739,7 +3557,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>609.90 EUR</g:price>
-  <g:sale_price>609.90 EUR</g:sale_price>
+  <g:sale_price>529.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -3753,7 +3571,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>609.90 EUR</g:price>
-  <g:sale_price>609.90 EUR</g:sale_price>
+  <g:sale_price>529.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -3767,7 +3585,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>659.90 EUR</g:price>
-  <g:sale_price>659.90 EUR</g:sale_price>
+  <g:sale_price>579.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -3781,7 +3599,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>609.90 EUR</g:price>
-  <g:sale_price>609.90 EUR</g:sale_price>
+  <g:sale_price>529.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -3795,7 +3613,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>659.90 EUR</g:price>
-  <g:sale_price>659.90 EUR</g:sale_price>
+  <g:sale_price>579.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
@@ -3813,20 +3631,6 @@
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
 </item>
 <item>
-  <g:id>SM-A127FZBKEUB</g:id>
-  <g:gtin>8806092684607</g:gtin>
-  <g:title>Galaxy A12 (A127)</g:title>
-  <g:description>Aumente o seu campo de visão com o ecrã Infinity-V de 6,5 polegadas do Galaxy A12 e descubra tudo o que tem estado a perder. Graças  à tecnologia HD+, pode ver os conteúdos que mais gosta de uma forma mais nítida, definida e clara.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a12-nacho-blue-128gb-sm-a127fzbkeub/buy/?cid=pt_pd_ppc_google_galaxy-a12-a127-sm-a127fzbkeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a127fzbkeub/gallery/pt-galaxy-a12-a127-sm-a127fzbkeub-479600349?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>229.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
-</item>
-<item>
   <g:id>SM-A127FZBVEUB</g:id>
   <g:gtin>8806092684454</g:gtin>
   <g:title>Galaxy A12 (A127)</g:title>
@@ -3841,34 +3645,6 @@
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
-  <g:id>SM-A127FZKKEUB</g:id>
-  <g:gtin>8806092684386</g:gtin>
-  <g:title>Galaxy A12 (A127)</g:title>
-  <g:description>Aumente o seu campo de visão com o ecrã Infinity-V de 6,5 polegadas do Galaxy A12 e descubra tudo o que tem estado a perder. Graças  à tecnologia HD+, pode ver os conteúdos que mais gosta de uma forma mais nítida, definida e clara.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a12-nacho-black-128gb-sm-a127fzkkeub/buy/?cid=pt_pd_ppc_google_galaxy-a12-a127-sm-a127fzkkeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a127fzkkeub/gallery/pt-galaxy-a12-a127-sm-a127fzkkeub-479600401?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>229.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
-</item>
-<item>
-  <g:id>SM-A127FZKUEUB</g:id>
-  <g:gtin>8806092684300</g:gtin>
-  <g:title>Galaxy A12 (A127)</g:title>
-  <g:description>Aumente o seu campo de visão com o ecrã Infinity-V de 6,5 polegadas do Galaxy A12 e descubra tudo o que tem estado a perder. Graças  à tecnologia HD+, pode ver os conteúdos que mais gosta de uma forma mais nítida, definida e clara.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a12-nacho-black-32gb-sm-a127fzkueub/buy/?cid=pt_pd_ppc_google_galaxy-a12-a127-sm-a127fzkueub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a127fzkueub/gallery/pt-galaxy-a12-a127-sm-a127fzkueub-479600418?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>169.90 EUR</g:price>
-  <g:sale_price>169.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
-</item>
-<item>
   <g:id>SM-A127FZKVEUB</g:id>
   <g:gtin>8806092684225</g:gtin>
   <g:title>Galaxy A12 (A127)</g:title>
@@ -3879,7 +3655,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>199.90 EUR</g:price>
-  <g:sale_price>199.90 EUR</g:sale_price>
+  <g:sale_price>154.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -3891,9 +3667,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225flbgeub/gallery/pt-galaxy-m22-m225-sm-m225flbgeub-503980897?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>189.90 EUR</g:sale_price>
+  <g:sale_price>209.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -3907,7 +3683,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>239.90 EUR</g:sale_price>
+  <g:sale_price>209.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -3919,9 +3695,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225fzwgeub/gallery/pt-galaxy-m22-m225-sm-m225fzwgeub-503980945?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>189.90 EUR</g:sale_price>
+  <g:sale_price>209.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -3964,7 +3740,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>399.90 EUR</g:price>
-  <g:sale_price>399.90 EUR</g:sale_price>
+  <g:sale_price>299.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -3978,7 +3754,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>399.90 EUR</g:price>
-  <g:sale_price>399.90 EUR</g:sale_price>
+  <g:sale_price>299.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
@@ -3992,22 +3768,8 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>399.90 EUR</g:price>
-  <g:sale_price>399.90 EUR</g:sale_price>
+  <g:sale_price>299.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
-</item>
-<item>
-  <g:id>WD12T504DWW/S3</g:id>
-  <g:gtin>8806092225374</g:gtin>
-  <g:title>WD12T504DWW, Máq. Lavar e Secar, EcoBubble, 12kg</g:title>
-  <g:description>Desfrute de limpeza eficiente, mesmo a baixas temperaturas* com a tecnologia Eco Bubble™. O detergente é transformado em espuma, para penetrar rapidamente nos tecidos e remover a sujidade facilmente, enquanto poupa energia e protege as cores e texturas** dos tecidos.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/washers-and-dryers/washer-dryer-combo/wd5100t-front-loading-ai-control-air-wash-drum-clean-12kg-white-wd12t504dww-s3/?cid=pt_pd_ppc_google_wd12t504dww,-maq.-lavar-e-secar,-ecobubble,-12kg-wd12t504dww-s3_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/wd12t504dww-s3/gallery/pt-combo-wd85t504dbesa-wd12t504dww-s3-464355656?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>1049.90 EUR</g:price>
-  <g:sale_price>869.00 EUR</g:sale_price>
-  <g:product_type>Produtos | Maquina de roupa | EcoBubble | Produtos | Eletrodomesticos | Maquina de roupa | EcoBubble</g:product_type>
 </item>
 <item>
   <g:id>SM-M526BLBGEUB</g:id>
@@ -4048,7 +3810,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1099.90 EUR</g:price>
-  <g:sale_price>1099.90 EUR</g:sale_price>
+  <g:sale_price>949.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4062,7 +3824,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1099.90 EUR</g:price>
-  <g:sale_price>1099.90 EUR</g:sale_price>
+  <g:sale_price>949.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4076,7 +3838,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1099.90 EUR</g:price>
-  <g:sale_price>1099.90 EUR</g:sale_price>
+  <g:sale_price>949.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4090,7 +3852,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1099.90 EUR</g:price>
-  <g:sale_price>1099.90 EUR</g:sale_price>
+  <g:sale_price>949.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4104,7 +3866,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1149.90 EUR</g:price>
-  <g:sale_price>1149.90 EUR</g:sale_price>
+  <g:sale_price>999.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4118,7 +3880,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1149.90 EUR</g:price>
-  <g:sale_price>1149.90 EUR</g:sale_price>
+  <g:sale_price>999.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4132,7 +3894,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1149.90 EUR</g:price>
-  <g:sale_price>1149.90 EUR</g:sale_price>
+  <g:sale_price>999.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4146,7 +3908,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1149.90 EUR</g:price>
-  <g:sale_price>1149.90 EUR</g:sale_price>
+  <g:sale_price>999.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -4192,6 +3954,20 @@
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
+  <g:id>SM-A528BZKIEUB</g:id>
+  <g:gtin>8806092956469</g:gtin>
+  <g:title>Galaxy A52s 5G (SM-A528)</g:title>
+  <g:description>Integrado no hardware e software do telefone desde o início, o Samsung Knox protege o seu telefone a partir do momento em que é ligado. Através de várias camadas de segurança, protege as suas informações mais sensíveis contra malware e ameaças maliciosas.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a52s-5g/buy/?modelCode=SM-A528BZKIEUB&cid=pt_pd_ppc_google_galaxy-a52s-5g-sm-a528-sm-a528bzkieub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528bzkieub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528bzkieub-518156812?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>539.90 EUR</g:price>
+  <g:sale_price>419.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
+</item>
+<item>
   <g:id>SM-A528BLVCEUB</g:id>
   <g:gtin>8806092956957</g:gtin>
   <g:title>Galaxy A52s 5G (SM-A528)</g:title>
@@ -4200,7 +3976,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528blvceub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528blvceub-518156758?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>479.90 EUR</g:price>
   <g:sale_price>479.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
@@ -4312,9 +4088,9 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe55qn750atxxc/gallery/pt-neo-qled-8k-qn700a-qe55qn750atxxc-530444944?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>2499.99 EUR</g:price>
-  <g:sale_price>1999.00 EUR</g:sale_price>
+  <g:sale_price>1499.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | Neo QLED</g:product_type>
 </item>
 <item>
@@ -4328,7 +4104,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>3499.99 EUR</g:price>
-  <g:sale_price>1999.00 EUR</g:sale_price>
+  <g:sale_price>1899.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | Neo QLED</g:product_type>
 </item>
 <item>
@@ -4396,7 +4172,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-portable-ssd-t5-mu-pa1t0b-eu-frontblack-141439305?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>125.90 EUR</g:price>
   <g:sale_price>125.90 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
@@ -4420,7 +4196,7 @@
   <g:gtin>8806092947740</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-pink-gold-32gb-sm-x200nidaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nidaeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-pink-gold-32gb-sm-x200nidaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nidaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nidaeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nidaeub-530585023?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4434,7 +4210,7 @@
   <g:gtin>8806092947733</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-pink-gold-64gb-sm-x200nideeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nideeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-pink-gold-64gb-sm-x200nideeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nideeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nideeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nideeub-530585046?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4448,7 +4224,7 @@
   <g:gtin>8806092947726</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-pink-gold-128gb-sm-x200nidfeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nidfeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-pink-gold-128gb-sm-x200nidfeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nidfeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nidfeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nidfeub-530585069?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4462,7 +4238,7 @@
   <g:gtin>8806092947719</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-dark-gray-32gb-sm-x200nzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzaaeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-dark-gray-32gb-sm-x200nzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nzaaeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nzaaeub-530585092?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4476,7 +4252,7 @@
   <g:gtin>8806092947696</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-dark-gray-64gb-sm-x200nzaeeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzaeeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-dark-gray-64gb-sm-x200nzaeeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzaeeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nzaeeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nzaeeub-530585115?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4490,7 +4266,7 @@
   <g:gtin>8806092947689</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-dark-gray-128gb-sm-x200nzafeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzafeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-dark-gray-128gb-sm-x200nzafeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzafeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nzafeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nzafeub-530585138?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4504,7 +4280,7 @@
   <g:gtin>8806092947672</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-32gb-sm-x200nzsaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzsaeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-32gb-sm-x200nzsaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzsaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nzsaeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nzsaeub-530585161?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4518,7 +4294,7 @@
   <g:gtin>8806092947665</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-64gb-sm-x200nzseeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzseeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-64gb-sm-x200nzseeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzseeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nzseeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nzseeub-530585184?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4532,7 +4308,7 @@
   <g:gtin>8806092947658</g:gtin>
   <g:title>Galaxy Tab A8 WiFi</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-128gb-sm-x200nzsfeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzsfeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-128gb-sm-x200nzsfeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-wifi-sm-x200nzsfeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x200nzsfeub/gallery/pt-galaxy-a8-sm-x200-sm-x200nzsfeub-530585207?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4546,7 +4322,7 @@
   <g:gtin>8806092952126</g:gtin>
   <g:title>Galaxy Tab A8 4G</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-dark-gray-32gb-sm-x205nzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzaaeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-dark-gray-32gb-sm-x205nzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x205nzaaeub/gallery/pt-galaxy-a8-sm-x205-sm-x205nzaaeub-530591222?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4560,7 +4336,7 @@
   <g:gtin>8806092952096</g:gtin>
   <g:title>Galaxy Tab A8 4G</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-dark-gray-64gb-sm-x205nzaeeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzaeeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-dark-gray-64gb-sm-x205nzaeeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzaeeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x205nzaeeub/gallery/pt-galaxy-a8-sm-x205-sm-x205nzaeeub-530591245?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4574,7 +4350,7 @@
   <g:gtin>8806092952089</g:gtin>
   <g:title>Galaxy Tab A8 4G</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-dark-gray-128gb-sm-x205nzafeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzafeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-dark-gray-128gb-sm-x205nzafeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzafeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x205nzafeub/gallery/pt-galaxy-a8-sm-x205-sm-x205nzafeub-530591268?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4588,7 +4364,7 @@
   <g:gtin>8806092952065</g:gtin>
   <g:title>Galaxy Tab A8 4G</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-silver-32gb-sm-x205nzsaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzsaeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-silver-32gb-sm-x205nzsaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzsaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x205nzsaeub/gallery/pt-galaxy-a8-sm-x205-sm-x205nzsaeub-530591291?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4602,7 +4378,7 @@
   <g:gtin>8806092952058</g:gtin>
   <g:title>Galaxy Tab A8 4G</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-silver-64gb-sm-x205nzseeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzseeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-silver-64gb-sm-x205nzseeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzseeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x205nzseeub/gallery/pt-galaxy-a8-sm-x205-sm-x205nzseeub-530591314?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4616,7 +4392,7 @@
   <g:gtin>8806092952034</g:gtin>
   <g:title>Galaxy Tab A8 4G</g:title>
   <g:description>Com a Samsung TV Plus, o Galaxy Tab A8 oferece-lhe conteúdos de televisivos gratuitos, a qualquer hora e em qualquer lugar. Desfrute de milhares de horas de notícias, desporto, filmes, conteúdos infantis e muito mais. Basta iniciar a app Samsung TV Plus e usar o GUIA para ver o que está a dar e aquilo que se segue.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-silver-128gb-sm-x205nzsfeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzsfeub_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-lte-silver-128gb-sm-x205nzsfeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a8-4g-sm-x205nzsfeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-x205nzsfeub/gallery/pt-galaxy-a8-sm-x205-sm-x205nzsfeub-530591337?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -4652,5 +4428,985 @@
   <g:price>59.99 EUR</g:price>
   <g:sale_price>59.99 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BDRDEUB</g:id>
+  <g:gtin>8806092878693</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BDRDEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bdrdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bdrdeub-530885167?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1279.90 EUR</g:price>
+  <g:sale_price>1279.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BDRGEUB</g:id>
+  <g:gtin>8806092879256</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BDRGEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bdrgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bdrgeub-530885204?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1379.90 EUR</g:price>
+  <g:sale_price>1379.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BDRHEUB</g:id>
+  <g:gtin>8806092883574</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BDRHEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bdrheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bdrheub-530885241?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1479.90 EUR</g:price>
+  <g:sale_price>1479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BDRPEUB</g:id>
+  <g:gtin>8806094210583</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BDRPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bdrpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bdrpeub-530885278?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1679.90 EUR</g:price>
+  <g:sale_price>1679.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BLBDEUB</g:id>
+  <g:gtin>8806094306927</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BLBDEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908blbdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908blbdeub-530887452?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1279.90 EUR</g:price>
+  <g:sale_price>1279.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BLBGEUB</g:id>
+  <g:gtin>8806094306903</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BLBGEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908blbgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908blbgeub-530887489?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1379.90 EUR</g:price>
+  <g:sale_price>1379.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BLBHEUB</g:id>
+  <g:gtin>8806094306880</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BLBHEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908blbheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908blbheub-530887526?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1479.90 EUR</g:price>
+  <g:sale_price>1479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZADEUB</g:id>
+  <g:gtin>8806094306842</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZADEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908bzadeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908bzadeub-530887600?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1279.90 EUR</g:price>
+  <g:sale_price>1279.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZAGEUB</g:id>
+  <g:gtin>8806094306828</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZAGEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908bzageub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908bzageub-530887638?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1379.90 EUR</g:price>
+  <g:sale_price>1379.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZAHEUB</g:id>
+  <g:gtin>8806094306750</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZAHEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908bzaheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908bzaheub-530887675?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1479.90 EUR</g:price>
+  <g:sale_price>1479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZGHEUB</g:id>
+  <g:gtin>8806094053265</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZGHEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzgheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzgheub-530885405?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1479.90 EUR</g:price>
+  <g:sale_price>1479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZGPEUB</g:id>
+  <g:gtin>8806094210538</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZGPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzgpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzgpeub-530885442?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1679.90 EUR</g:price>
+  <g:sale_price>1679.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZKDEUB</g:id>
+  <g:gtin>8806092879140</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZKDEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzkdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzkdeub-530885479?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1279.90 EUR</g:price>
+  <g:sale_price>1279.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZKGEUB</g:id>
+  <g:gtin>8806092879027</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZKGEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzkgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzkgeub-530885517?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1379.90 EUR</g:price>
+  <g:sale_price>1379.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZKHEUB</g:id>
+  <g:gtin>8806092883505</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZKHEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzkheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzkheub-530885554?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1479.90 EUR</g:price>
+  <g:sale_price>1479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZKPEUB</g:id>
+  <g:gtin>8806094210491</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZKPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzkpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzkpeub-530885591?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1679.90 EUR</g:price>
+  <g:sale_price>1679.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZRDEUB</g:id>
+  <g:gtin>8806094306712</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZRDEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908bzrdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908bzrdeub-530887769?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1279.90 EUR</g:price>
+  <g:sale_price>1279.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZRGEUB</g:id>
+  <g:gtin>8806094306637</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZRGEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908bzrgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908bzrgeub-530887806?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1379.90 EUR</g:price>
+  <g:sale_price>1379.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZRHEUB</g:id>
+  <g:gtin>8806094306613</g:gtin>
+  <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZRHEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-exclusivo-loja-online-sm-s908bzrheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-411284-sm-s908bzrheub-530887843?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1479.90 EUR</g:price>
+  <g:sale_price>1479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZWDEUB</g:id>
+  <g:gtin>8806092878921</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZWDEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzwdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzwdeub-530885628?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1279.90 EUR</g:price>
+  <g:sale_price>1279.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S908BZWPEUB</g:id>
+  <g:gtin>8806094210453</g:gtin>
+  <g:title>Galaxy S22 Ultra</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZWPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzwpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzwpeub-530885740?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1679.90 EUR</g:price>
+  <g:sale_price>1679.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BIDDEUB</g:id>
+  <g:gtin>8806092980426</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BIDDEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906biddeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906biddeub-530861881?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BIDGEUB</g:id>
+  <g:gtin>8806092980358</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BIDGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bidgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bidgeub-530861900?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BLBDEUB</g:id>
+  <g:gtin>8806094319538</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BLBDEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906blbdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906blbdeub-530861919?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BLBGEUB</g:id>
+  <g:gtin>8806094319514</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BLBGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906blbgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906blbgeub-530861938?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZADEUB</g:id>
+  <g:gtin>8806094319477</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZADEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzadeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzadeub-530861957?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZAGEUB</g:id>
+  <g:gtin>8806094319446</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZAGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzageub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzageub-530861976?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZEDEUB</g:id>
+  <g:gtin>8806094319415</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZEDEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzedeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzedeub-530861995?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZEGEUB</g:id>
+  <g:gtin>8806094319392</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZEGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzegeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzegeub-530862014?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZGDEUB</g:id>
+  <g:gtin>8806092980280</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZGDEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzgdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzgdeub-530862033?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZGGEUB</g:id>
+  <g:gtin>8806092980495</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZGGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzggeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzggeub-530862052?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZKDEUB</g:id>
+  <g:gtin>8806092881266</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZKDEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzkdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzkdeub-530862071?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZKGEUB</g:id>
+  <g:gtin>8806092881020</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZKGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzkgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzkgeub-530862090?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZVDEUB</g:id>
+  <g:gtin>8806094319354</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZVDEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzvdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzvdeub-530862109?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZVGEUB</g:id>
+  <g:gtin>8806094319323</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZVGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzvgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzvgeub-530862128?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZWDEUB</g:id>
+  <g:gtin>8806092880795</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZWDEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzwdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzwdeub-530862147?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1079.90 EUR</g:price>
+  <g:sale_price>1079.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S906BZWGEUB</g:id>
+  <g:gtin>8806092880627</g:gtin>
+  <g:title>Galaxy S22+</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZWGEUB&cid=pt_pd_ppc_google_galaxy-s22plus-sm-s906bzwgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-plus-s906-sm-s906bzwgeub-530862166?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1129.90 EUR</g:price>
+  <g:sale_price>1129.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BIDDEUB</g:id>
+  <g:gtin>8806092987333</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BIDDEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901biddeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901biddeub-530879580?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BIDGEUB</g:id>
+  <g:gtin>8806092987265</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BIDGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bidgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bidgeub-530879600?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BLBDEUB</g:id>
+  <g:gtin>8806094305937</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BLBDEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901blbdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901blbdeub-530879619?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BLBGEUB</g:id>
+  <g:gtin>8806094306002</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BLBGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901blbgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901blbgeub-530879638?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZADEUB</g:id>
+  <g:gtin>8806094306187</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZADEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzadeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzadeub-530879657?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZAGEUB</g:id>
+  <g:gtin>8806094306149</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZAGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzageub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzageub-530879676?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZEDEUB</g:id>
+  <g:gtin>8806094306125</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZEDEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzedeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzedeub-530879695?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZEGEUB</g:id>
+  <g:gtin>8806094306095</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZEGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzegeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzegeub-530879715?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZGDEUB</g:id>
+  <g:gtin>8806092987203</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZGDEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzgdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzgdeub-530879734?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZGGEUB</g:id>
+  <g:gtin>8806092987128</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZGGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzggeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzggeub-530879753?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZKDEUB</g:id>
+  <g:gtin>8806092878624</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZKDEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzkdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzkdeub-530879772?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZKGEUB</g:id>
+  <g:gtin>8806092878563</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZKGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzkgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzkgeub-530879791?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZVDEUB</g:id>
+  <g:gtin>8806094306057</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZVDEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzvdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzvdeub-530879810?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZVGEUB</g:id>
+  <g:gtin>8806094306033</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZVGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzvgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzvgeub-530879829?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZWDEUB</g:id>
+  <g:gtin>8806092878518</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZWDEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzwdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzwdeub-530879848?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>879.90 EUR</g:price>
+  <g:sale_price>879.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-S901BZWGEUB</g:id>
+  <g:gtin>8806092878433</g:gtin>
+  <g:title>Galaxy S22</g:title>
+  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZWGEUB&cid=pt_pd_ppc_google_galaxy-s22-sm-s901bzwgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzwgeub-530879867?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>929.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
+</item>
+<item>
+  <g:id>SM-X700NZAAEUB</g:id>
+  <g:gtin>8806094147483</g:gtin>
+  <g:title>Galaxy Tab S8 (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-wi-fi-graphite-128gb-sm-x700nzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-wi-fi-sm-x700nzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-wifi-x700-sm-x700nzaaeub-530874525?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>809.90 EUR</g:price>
+  <g:sale_price>809.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X700NZABEUB</g:id>
+  <g:gtin>8806094147452</g:gtin>
+  <g:title>Galaxy Tab S8 (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-wi-fi-graphite-256gb-sm-x700nzabeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-wi-fi-sm-x700nzabeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-wifi-x700-sm-x700nzabeub-530874546?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>859.90 EUR</g:price>
+  <g:sale_price>859.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X700NZSAEUB</g:id>
+  <g:gtin>8806094147445</g:gtin>
+  <g:title>Galaxy Tab S8 (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-wi-fi-silver-128gb-sm-x700nzsaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-wi-fi-sm-x700nzsaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-wifi-x700-sm-x700nzsaeub-530874567?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>809.90 EUR</g:price>
+  <g:sale_price>809.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X706BZAAEUB</g:id>
+  <g:gtin>8806094170634</g:gtin>
+  <g:title>Galaxy Tab S8 5G</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-5g-graphite-128gb-sm-x706bzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-5g-sm-x706bzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-5g-x706-sm-x706bzaaeub-530877835?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>969.90 EUR</g:price>
+  <g:sale_price>969.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X706BZABEUB</g:id>
+  <g:gtin>8806094170511</g:gtin>
+  <g:title>Galaxy Tab S8 5G</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-5g-graphite-256gb-sm-x706bzabeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-5g-sm-x706bzabeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-5g-x706-sm-x706bzabeub-530877856?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1019.90 EUR</g:price>
+  <g:sale_price>1019.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X800NIDAEUB</g:id>
+  <g:gtin>8806094149609</g:gtin>
+  <g:title>Galaxy Tab S8+ (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-plus-wi-fi-pink-gold-128gb-sm-x800nidaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8plus-wi-fi-sm-x800nidaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-wifi-x800-sm-x800nidaeub-530879008?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1019.90 EUR</g:price>
+  <g:sale_price>1019.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X800NZAAEUB</g:id>
+  <g:gtin>8806094150315</g:gtin>
+  <g:title>Galaxy Tab S8+ (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-plus-wi-fi-graphite-128gb-sm-x800nzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8plus-wi-fi-sm-x800nzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-wifi-x800-sm-x800nzaaeub-530879050?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1019.90 EUR</g:price>
+  <g:sale_price>1019.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X800NZSAEUB</g:id>
+  <g:gtin>8806094150148</g:gtin>
+  <g:title>Galaxy Tab S8+ (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-plus-wi-fi-silver-128gb-sm-x800nzsaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8plus-wi-fi-sm-x800nzsaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-wifi-x800-sm-x800nzsaeub-530879092?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1019.90 EUR</g:price>
+  <g:sale_price>1019.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X800NZSBEUB</g:id>
+  <g:gtin>8806094150100</g:gtin>
+  <g:title>Galaxy Tab S8+ (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-plus-wi-fi-silver-256gb-sm-x800nzsbeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8plus-wi-fi-sm-x800nzsbeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-wifi-x800-sm-x800nzsbeub-530879113?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1069.90 EUR</g:price>
+  <g:sale_price>1069.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X806BZAAEUB</g:id>
+  <g:gtin>8806094149357</g:gtin>
+  <g:title>Galaxy Tab S8+ 5G</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-plus-5g-graphite-128gb-sm-x806bzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8plus-5g-sm-x806bzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-5g-x806-sm-x806bzaaeub-530881225?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1179.90 EUR</g:price>
+  <g:sale_price>1179.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X806BZABEUB</g:id>
+  <g:gtin>8806094149289</g:gtin>
+  <g:title>Galaxy Tab S8+ 5G</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-plus-5g-graphite-256gb-sm-x806bzabeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8plus-5g-sm-x806bzabeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-5g-x806-sm-x806bzabeub-530881246?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1229.90 EUR</g:price>
+  <g:sale_price>1229.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X900NZAAEUB</g:id>
+  <g:gtin>8806094150391</g:gtin>
+  <g:title>Galaxy Tab S8 Ultra (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-wi-fi-graphite-128gb-sm-x900nzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-ultra-wi-fi-sm-x900nzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaaeub-530870561?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1229.90 EUR</g:price>
+  <g:sale_price>1229.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X900NZAEEUB</g:id>
+  <g:gtin>8806094247633</g:gtin>
+  <g:title>Galaxy Tab S8 Ultra (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-wi-fi-graphite-256gb-sm-x900nzaeeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-ultra-wi-fi-sm-x900nzaeeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaeeub-530870582?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1329.90 EUR</g:price>
+  <g:sale_price>1329.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X900NZAFEUB</g:id>
+  <g:gtin>8806094202649</g:gtin>
+  <g:title>Galaxy Tab S8 Ultra (Wi-Fi)</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-wi-fi-graphite-512gb-sm-x900nzafeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-ultra-wi-fi-sm-x900nzafeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzafeub-530870603?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1549.90 EUR</g:price>
+  <g:sale_price>1549.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X906BZAAEUB</g:id>
+  <g:gtin>8806094148503</g:gtin>
+  <g:title>Galaxy Tab S8 Ultra 5G</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-5g-graphite-128gb-sm-x906bzaaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-ultra-5g-sm-x906bzaaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-ultra-5g-x906-sm-x906bzaaeub-530887253?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1379.90 EUR</g:price>
+  <g:sale_price>1379.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-X906BZAEEUB</g:id>
+  <g:gtin>8806094226249</g:gtin>
+  <g:title>Galaxy Tab S8 Ultra 5G</g:title>
+  <g:description> </g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-5g-graphite-256gb-sm-x906bzaeeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s8-ultra-5g-sm-x906bzaeeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-ultra-5g-x906-sm-x906bzaeeub-530887274?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>1479.90 EUR</g:price>
+  <g:sale_price>1479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
+</item>
+<item>
+  <g:id>WW12T504DTW/S3</g:id>
+  <g:gtin>8806092192409</g:gtin>
+  <g:title>WW12T504DTW, Máq. Lavar Roupa EcoBubble, 12kg</g:title>
+  <g:description>Mantenha o interior da máquina impecavelmente limpo. O ciclo Limpar Tambor remove 99,9% das bactérias* causadoras de maus odores. Não precisa de detergentes, pois utiliza uma combinação de demolhar, pulsar e centrifugar a alta velocidade e avisa-o automaticamente quando precisa de limpeza**.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/washers-and-dryers/washing-machines/ww5300t-front-loading-eco-bubble-ai-control-12kg-white-ww12t504dtw-s3/?cid=pt_pd_ppc_google_ww12t504dtw,-maq.-lavar-roupa-ecobubble,-12kg-ww12t504dtw-s3_ongoing_da-washing-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww12t504dtw-s3/gallery/pt-front-loading-washer-ww85t504daesa-ww12t504dtw-s3-464369480?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>914.90 EUR</g:price>
+  <g:sale_price>769.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Maquina de roupa | EcoBubble | Produtos | Eletrodomesticos | Maquina de roupa | EcoBubble</g:product_type>
 </item></channel>
 </rss>

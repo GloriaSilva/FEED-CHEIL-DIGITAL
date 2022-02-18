@@ -15,8 +15,10 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import html
 from config import project_path, templates_path, result_path, database_info
+import os
+from Utils import generate_random_int
 
-
+sendErrorActive = False
 
 # Class
 class FeedCheil:
@@ -26,11 +28,10 @@ class FeedCheil:
         self.mydb = create_engine('mysql+pymysql://' + database_info['user'] + ':' + database_info['passw'] + '@' + database_info['host'] + ':' + str(database_info['port']) + '/' + database_info['database'] , echo=False)
 
         # paths to files
-        #
-        self.dictionariesPath = '{project_path}/autofeed/dictionaries/'.format(project_path)
-        #self.resultPath = '{project_path}/autofeed/finalfeeds/'
+        self.dictionariesPath = f'{project_path}/src/dictionaries'
         self.resultPath = result_path
         self.templatePath = templates_path
+
         #Init dataFrame
         pd.DataFrame.to_xml = FeedCheil.to_xml
         # define rows
@@ -38,7 +39,8 @@ class FeedCheil:
         #define country variable
         self.country = country
         #Samsung feed URL
-        self.url = f'https://shop.samsung.com/{country}/googleShoppingFeed'
+        self.url = f'https://shop.samsung.com/{country}/googleShoppingFeed?{generate_random_int(100000)}'
+        self.Google_feed_maestroCSV = f'{self.dictionariesPath}/maestro/GoogleFeed_maestro_{self.platform}_{self.country}.csv'
 
     #Cheil personal "To XML" function
     def to_xml(df, country='pt', filename=None, mode='w'):
@@ -67,6 +69,9 @@ class FeedCheil:
 
     # Send Error fucntion. When there is a problem collecting Samsung Feed, an emails is sent.
     def sendError(self):
+        if not self.sendErrorActive:
+            return
+            
         query = 'SELECT email FROM `accounts`'
         mails = pd.read_sql(query, con = self.mydb)
         mailslist = mails['email'].tolist()
@@ -101,6 +106,8 @@ class FeedCheil:
         print ("successfully sent email to %s:" % (msg['To']))
 
 
+    def filterXMLid(self,xml_id_tag):
+        return xml_id_tag is None or xml_id_tag.text == "" or any([ prefix in xml_id_tag.text for prefix in ['ET-','EF-','HAF-']])
     #The following functions are all developed in the child classes
     def openFileAndScrap(self):
         #This function gets the specific Samsung Feed that any platform needs
@@ -114,7 +121,7 @@ class FeedCheil:
         #Links from url_dictionary (each country has its own) are linked to the product ID. Also, the cid is added at the end of the url
         pass
 
-    def run(self, platform):
+    def run(self):
         # Init process
         self.begin_time = datetime.datetime.now()
         print(datetime.datetime.now())
@@ -122,16 +129,14 @@ class FeedCheil:
         self.openFileAndScrap()
         #In case the url_dictionary file specific for any country is not available, the program will get the previous version. it should only work the first time
         #Think about erase it after the solution is in production
-        try:
-            dic = pd.read_csv(self.dictionariesPath + f'url_dictionary_{self.country}.csv', index_col=0, squeeze=True)
-        except:
-            dic = pd.read_csv(self.dictionariesPath + 'url_dictionary.csv', index_col=0, squeeze=True)
+    
+        dic = pd.read_csv(f'{self.dictionariesPath}/url/url_dictionary_{self.country}.csv', index_col=0).squeeze("columns")
 
         #Creating the dictionary object which connects the product ID with the final URL obtained after all the redirections
         dictionary = dict(zip(dic['Id'],dic['Link']))
 
         #Importing the file with the feed obtained from the function openFileAndScrap
-        df = pd.read_csv(self.dictionariesPath + 'GoogleFeed_maestro.csv', encoding='latin')
+        df = pd.read_csv(self.Google_feed_maestroCSV, encoding='latin')
         #The following rows clear the dataframe from any row which has no ImageLink or Price
         index_to_drop = df.query('Image_Link == "" | Price == "" ').index
         df.drop(index_to_drop, inplace=True)
@@ -140,8 +145,8 @@ class FeedCheil:
 
         #The following logic aims to generate the field "categories" which classifies each product. This field is used for creating the "cid".
         col  = 'Id'
-        conditions  = [ df[col].str.match('SM-A') | df[col].str.match('SM-G') | df[col].str.match('SM-N') | df[col].str.match('SM-F') | df[col].str.match('SM-M'),
-        df[col].str.match('SM-P') | df[col].str.match('SM-T'),
+        conditions  = [ df[col].str.match('SM-A') | df[col].str.match('SM-G') | df[col].str.match('SM-N') | df[col].str.match('SM-F') | df[col].str.match('SM-M') | df[col].str.match('SM-S'),
+        df[col].str.match('SM-P') | df[col].str.match('SM-T') | df[col].str.match('SM-X'),
         df[col].str.match('SM-R'),
         df[col].str.match('EF-') | df[col].str.match('EP-') | df[col].str.match('EB-') | df[col].str.match('ET-') | df[col].str.match('GP-'),
         df[col].str.match('DV') | df[col].str.match('WW'),
@@ -169,7 +174,7 @@ class FeedCheil:
         tracking = dict(zip(df['Id'],df['TrackingId']))
 
         #We import the dictionary which allows us to handle HTML entities
-        dictlan_from_csv = pd.read_csv(self.dictionariesPath + 'dict_language.csv', header=None, index_col=0, squeeze=True).to_dict()
+        dictlan_from_csv = pd.read_csv(self.dictionariesPath + '/language/dict_language.csv', header=None, index_col=0).squeeze("columns").to_dict()
         #We apply the dictionary to all Titles and Descriptions in our feed
         df['Title'] = df['Title'].replace(dictlan_from_csv, regex=True)
         df['Description'] = df['Description'].replace(dictlan_from_csv, regex=True).fillna(df['Description'])
@@ -177,18 +182,16 @@ class FeedCheil:
 
         #We apply cleanCSV and setLink fucntions to the df we are working with
         df = self.cleanCSV(df)
-        df = self.setLink(df, tracking)
-
-        #We save a backup copy of our dataframe
-        df.to_csv(self.dictionariesPath + 'csvfile.csv')
-
+        df = self.setLink(df,tracking)
+        
         #We handle any NA on Link field
         df['Link'].fillna('', inplace=True)
+        
         #We correct those URLs whic contains the "modelCode" as the cid is another parameter and not the first one
         df.loc[df['Link'].str.contains('\?modelCode='), 'Link'] = df['Link'].replace({'\?cid': '&cid'}, regex=True).fillna(df['Link'])
 
         #We import another dictionary to replace any symbol with funny characters which could break an URL.
-        inverse_dictlan_from_csv = pd.read_csv(self.dictionariesPath + 'inverse_dict_language.csv', header=None, index_col=0, squeeze=True).to_dict()
+        inverse_dictlan_from_csv = pd.read_csv(self.dictionariesPath + '/language/inverse_dict_language.csv', header=None, index_col=0, squeeze=True).to_dict()
         #We use that dictionary to handle those characters
         df['Link'] = df['Link'].replace(inverse_dictlan_from_csv, regex=True)
         #The function unescape from html module cleans the URLs where some HTML entities could create problems and make the URL break
@@ -201,27 +204,18 @@ class FeedCheil:
         df['Link'] = df['Link'].replace(values_to_replace_regex, '',regex=True)
         #Also, we replace the "+" symbol for the description
         df['Link'] = df['Link'].replace('\+','plus', regex=True)
+        #Cleaning any product which has no link
+        df = df.dropna(subset=['Link'])
 
-        print('Removing accessories linked to microsite')
-        #Accesories are products that we do not want in our feed. Therefore, we look those IDs which belong to them. We use those to drop them to the dataframe
-        try:
-            index_to_drop = df.query('Id.str.startswith("ET-") | Id.str.startswith("EF-")').index
-            df.drop(index_to_drop,inplace=True)
-        except:
-            print('Not "ET-" or "EF-" elements found"')
-        print('Accessories removed')
 
         #We apply certain rules in terms of column names, data types and final characther cleaning.
         df = self.setDF(df)
-        #Cleaning any product which has no link
-        index_to_drop = df[df['g:link'].str.startswith('http') != True].index
-        df.drop(index_to_drop, inplace=True)
-
+        
         print(df.columns)
         print('Finished')
         print(self.csvFile)
         #Exporting the final result, the platform Feed, as a csv file
-        df.to_csv(self.resultPath + self.csvFile, sep = ",", index=False)
+        df.to_csv(os.path.join(self.resultPath,self.csvFile), sep = ",", index=False)
 
         #Before exporting the XML version we apply new considerations avoiding the XML break
         df['g:title'] = df['g:title'].str.replace('&','and')
@@ -229,7 +223,7 @@ class FeedCheil:
         #We use the CDATA label for allowing literal strings wihtin the XML witout breaking.
         df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA[ '+ x +']]>')
         print(self.xmlFile)
-        df.to_xml(filename = self.resultPath + self.xmlFile, country=self.country)
+        df.to_xml(filename = os.path.join(self.resultPath,self.xmlFile), country=self.country)
 
         #Process finish
         print("CSV and XML created")

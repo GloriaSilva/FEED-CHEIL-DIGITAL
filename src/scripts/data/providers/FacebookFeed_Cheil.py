@@ -7,21 +7,24 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import sys
+from config import project_path
 
 class FacebookFeedCheil(FeedCheil):
-    def __init__(self):
-        country = sys.argv[1]
+    def __init__(self,country):
+        
         self.rows = ['Id', 'Title', 'Description', 'Item_Group_Id', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
-        self.csvFile = f"FacebookFeed_{self.country}.csv"
-        self.xmlFile = f"FacebookFeed_{self.country}.xml"
         self.platform = 'facebook'
 
         super().__init__(country, self.rows)
+        
+        self.csvFile = f"FacebookFeed_{self.country}.csv"
+        self.xmlFile = f"FacebookFeed_{self.country}.xml"
+        
 
     # Open file and scrap
     def openFileAndScrap(self):
         # Open file and scrap
-        with open('GoogleFeed_maestro.csv', mode='w') as archivo:
+        with open(self.Google_feed_maestroCSV, mode='w') as archivo:
             archivo = csv.writer(archivo)
             archivo.writerow(['Id', 'Title', 'Description', 'Item_Group_Id', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link'])
             url = self.url
@@ -32,7 +35,7 @@ class FacebookFeedCheil(FeedCheil):
                 x = soup.find_all('entry')
 
                 for i, y in enumerate(x):
-                    if y.find('g:id') is None:
+                    if self.filterXMLid(y.find('g:id')):
                             Id = ""
                     else:
                             Id = y.find('g:id').text
@@ -77,7 +80,7 @@ class FacebookFeedCheil(FeedCheil):
                     else:
                             Image_link = y.find('g:image_link').text
 
-                    if y.find('g:gtin') is None:
+                    if y.find('g:gtin') is None or y.find('g:gtin').text=="":
                             Gtin = ""
                     else:
                             Gtin = y.find('g:gtin').text
@@ -97,6 +100,8 @@ class FacebookFeedCheil(FeedCheil):
                     else:
                             Link = y.find('g:link').text
                     #print(titulo, modelo, modificacion, imagen, disponibilidad, precio, special_price)
+                    if not Id or not Gtin:
+                            continue
                     archivo.writerow ([Id, Title, Description, Item_Group_Id, Availability, Condition, Price, Sale_Price, Image_link, Gtin, Product_Type, Brand, Link])
 
             else:
@@ -111,17 +116,17 @@ class FacebookFeedCheil(FeedCheil):
 
     # Clean CSV
     def cleanCSV(self, df):
-        df1 = "ES_Facebook_Sheet_Template.xls"
+        df1 = f"{self.templatePath}/Facebook/ES_Facebook_Sheet_Template.xls"
         if os.path.isfile(df1):
             df1 = pd.read_excel(df1)
             if df1.empty == False:
                 col  = 'id'
                 descriptions = dict(zip(df1['id'],df1['description']))
                 titles = dict(zip(df1['id'],df1['title']))
-                tracking_plataforma = dict(zip(df1['id'],df1['tracking']))
+                self.tracking_plataforma = dict(zip(df1['id'],df1['tracking']))
 
-                conditions  = [ df1[col].str.match('SM-A') | df1[col].str.match('SM-G') | df1[col].str.match('SM-N') | df1[col].str.match('SM-F') | df1[col].str.match('SM-M'),
-                    df1[col].str.match('SM-P') | df1[col].str.match('SM-T'),
+                conditions  = [ df1[col].str.match('SM-A') | df1[col].str.match('SM-G') | df1[col].str.match('SM-N') | df1[col].str.match('SM-F') | df1[col].str.match('SM-M') | df1[col].str.match('SM-S'),
+                    df1[col].str.match('SM-P') | df1[col].str.match('SM-T') | df1[col].str.match('SM-X'),
                     df1[col].str.match('SM-R'),
                     df1[col].str.match('EF-') | df1[col].str.match('EP-') | df1[col].str.match('EB-') | df1[col].str.match('ET-') | df1[col].str.match('GP-'),
                     df1[col].str.match('DV') | df1[col].str.match('WW'),
@@ -144,7 +149,7 @@ class FacebookFeedCheil(FeedCheil):
                 df1['tracking'] = df1['tracking'].fillna('cid='+self.country+'_pd_social_facebook_'+df1['title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none')
                 df['Description'] = df['Id'].map(descriptions).fillna(df['Description'])
                 df['Title'] = df['Id'].map(titles).fillna(df['Title'])
-                df['Link'] = df['Id'].map(tracking_plataforma).fillna(df['Link'])
+                df['Link'] = df['Id'].map(self.tracking_plataforma).fillna(df['Link'])
 
             else:
                 pass
@@ -154,8 +159,9 @@ class FacebookFeedCheil(FeedCheil):
         return df
 
     def setLink(self, df, tracking_plataforma):
-        df['Link'] = df['Link']+'?'+df['Id'].map(tracking_plataforma).fillna('cid='+self.country+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
-        df['Link'] = df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
+        tracking_plataforma = self.tracking_plataforma
+        df['Link'] = df['Id'].map(tracking_plataforma).fillna(df['Link']+'?cid=pt_pd_social_facebook_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
+        df['Link'] = '<![CDATA['+df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')+']]>'
         return df
 
     def setDF(self, df):
@@ -170,5 +176,7 @@ class FacebookFeedCheil(FeedCheil):
 
         return df
 
-# Run process
-FacebookFeedCheil().run('facebook')
+if __name__ == "__main__":
+        country = sys.argv[1]
+        # Run process
+        FacebookFeedCheil(country).run()
