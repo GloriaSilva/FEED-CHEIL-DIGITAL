@@ -213,15 +213,19 @@ class FeedCheil:
         
         print(df.columns)
         print('Finished')
-        print(self.csvFile)
-        #Exporting the final result, the platform Feed, as a csv file
-        df.to_csv(os.path.join(self.resultPath,self.csvFile), sep = ",", index=False)
+        
+       
 
         #Before exporting the XML version we apply new considerations avoiding the XML break
         df['g:title'] = df['g:title'].str.replace('&','and')
         df['g:description'] = df['g:description'].str.replace('&','and')
         #We use the CDATA label for allowing literal strings wihtin the XML witout breaking.
-        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA[ '+ x +']]>')
+        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA['+ x +']]>')
+
+        #Exporting the final result, the platform Feed, as a csv file
+        print(self.csvFile)
+        df.to_csv(os.path.join(self.resultPath,self.csvFile), sep = ",", index=False)
+
         print(self.xmlFile)
         df.to_xml(filename = os.path.join(self.resultPath,self.xmlFile), country=self.country)
 

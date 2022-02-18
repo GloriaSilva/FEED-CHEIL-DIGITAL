@@ -14,19 +14,23 @@ import sys
 
 #GoogleFeedCheil class needs the feed's country and the Samsung Feed fields we want to extract
 class GoogleFeedCheil(FeedCheil):
-    def __init__(self):
+    def __init__(self,country):
         country = sys.argv[1]
         #These fields from Samsung feed are only valid for Google feed.
         self.rows = ['Id', 'Title', 'Description', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
+        self.platform = 'google'
+
+        super().__init__(country, self.rows)
+
         self.csvFile = f'GoogleFeed_{country}.csv'
         self.xmlFile = f'GoogleFeed_{country}.xml'
-        self.platform = 'google'
+        
         super().__init__(country, self.rows)
 
     #Open file and fill it with the content scrapped from Samsung Feed.
     def openFileAndScrap(self):
         # Open file
-        with open(self.dictionariesPath + 'GoogleFeed_maestro.csv', mode='w') as archivo:
+        with open(self.Google_feed_maestroCSV, mode='w') as archivo:
             #We create a csv.writer object and then we write the first row. This row will be our column names (defined above en self.rows)
             archivo = csv.writer(archivo)
             archivo.writerow(self.rows)
@@ -42,7 +46,7 @@ class GoogleFeedCheil(FeedCheil):
                     x = soup.find_all('entry')
                     for i, y in enumerate(x):
                         #In each "entry" object we have all the fields we want to extract. So, we iterate over each "entry" element for gathering all the data
-                        if y.find('g:id') is None or 'ET-' in y.find('g:id').text or 'EF-' in y.find('g:id').text:
+                        if self.filterXMLid(y.find('g:id')):
                                 Id = ""
                         else:
                                 Id = y.find('g:id').text
@@ -74,7 +78,7 @@ class GoogleFeedCheil(FeedCheil):
                                 Image_link = ""
                         else:
                                 Image_link = y.find('g:image_link').text
-                        if y.find('g:gtin') is None:
+                        if y.find('g:gtin') is None or y.find('g:gtin').text=="":
                                 Gtin = ""
                         else:
                                 Gtin = y.find('g:gtin').text
@@ -90,8 +94,9 @@ class GoogleFeedCheil(FeedCheil):
                                 Link = ""
                         else:
                                 Link = y.find('g:link').text
-                        if Id != "":
-                                archivo.writerow ([Id, Title, Description, Availability, Condition, Price, Sale_Price, Image_link, Gtin, Product_Type, Brand, Link])
+                        if not Id or not Gtin:
+                            continue
+                        archivo.writerow ([Id, Title, Description, Availability, Condition, Price, Sale_Price, Image_link, Gtin, Product_Type, Brand, Link])
             else:
                 #In case we have a different status code, we generate a file "Error file" and triggers the sendError function
                 print("Código de estado %d" % status_code)
@@ -110,7 +115,7 @@ class GoogleFeedCheil(FeedCheil):
         df.drop(index_to_drop, inplace=True)
 
         #We create the sheet template path variable
-        df1_path = self.templatePath + "ES_Google_Sheet_Template.xls"
+        df1_path = f"{self.templatePath}/Google/ES_Google_Sheet_Template.xls"
         #If the path drives to a file, we start the replacing process
         if os.path.isfile(df1_path):
             #We import the template as a dataframe
@@ -149,5 +154,7 @@ class GoogleFeedCheil(FeedCheil):
         df.dropna(subset=['g:link'], inplace=True)
         return df
 
-# Run process
-GoogleFeedCheil().run(platform='google')
+if __name__ == "__main__":
+        country = sys.argv[1]
+        # Run process
+        GoogleFeedCheil(country).run()

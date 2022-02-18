@@ -161,7 +161,7 @@ class FacebookFeedCheil(FeedCheil):
     def setLink(self, df, tracking_plataforma):
         tracking_plataforma = self.tracking_plataforma
         df['Link'] = df['Id'].map(tracking_plataforma).fillna(df['Link']+'?cid=pt_pd_social_facebook_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
-        df['Link'] = '<![CDATA['+df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')+']]>'
+        df['Link'] = df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
         return df
 
     def setDF(self, df):
