@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<rss xmlns="http://base.google.com/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-<channel>
-<title>Samsung Shop PT</title>
-<link>http://www.samsung.com/pt</link>
-<description>Feed developed by Cheil Spain (Raul Fernandez via Python) for Google Merchant provider.</description>
-<item>
+    <rss xmlns="http://base.google.com/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+    <title>Samsung Shop PT</title>
+    <link>http://www.samsung.com/pt</link>
+    <description>Feed developed by Cheil Spain (Ramón Mariño Solís via Python) for Google Merchant provider.</description>
+    <item>
   <g:id>DW60M5050FS/EC</g:id>
   <g:gtin>8801643474294</g:gtin>
   <g:title>DW60M5050FS Máquina de Lavar Loiça F</g:title>
@@ -37,7 +37,7 @@
   <g:gtin>8806088219639</g:gtin>
   <g:title>Micro-Ondas Samsung Simples 23L</g:title>
   <g:description>Compre já o Micro-Ondas Samsung Simples 23L. Envio grátis.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/microwave-ovens/solo/microwave-oven-solo-ms23k3513awec/?cid=pt_pd_ppc_google_ms23k3513aw-micro-ondas-simples-com-cer "a"mica-enamel,-23l-ms23k3513aw-ec_ongoing_da-microwave-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/microwave-ovens/solo/microwave-oven-solo-ms23k3513awec/?cid=pt_pd_ppc_google_ms23k3513aw-micro-ondas-simples-com-cer-"a"mica-enamel,-23l-ms23k3513aw-ec_ongoing_da-microwave-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-microwave-oven-solo-ms23k3513awec-ms23k3513aw-ec-frontwhite-106100666?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -51,7 +51,7 @@
   <g:gtin>8806085204829</g:gtin>
   <g:title>Frigorífico Samsung Combinado com Dispensador de Água 458L, F</g:title>
   <g:description>Compre já o Frigorífico Samsung Combinado com Dispensador de Água 458L, F. Envio gratuito.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bottom-mount-freezer/432l-ez-clean-steel-rl4363fbasl-ef/?cid=pt_pd_ppc_google_rl4363fbasl-combinado-com-dispensador-de-agua,-458-l,-f-rl4363fbasl-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bottom-mount-freezer/432l-ez-clean-steel-rl4363fbasl-ef/?cid=pt_pd_ppc_google_rl4363fbasl-combinado-com-dispensador-de--"a"gua,-458-l,-f-rl4363fbasl-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-refrigerator--bottom-freezer-rl4363fbasl-ef-frontsilver-61445848?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -59,6 +59,76 @@
   <g:price>1199.90 EUR</g:price>
   <g:sale_price>999.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
+</item>
+<item>
+  <g:id>RT29K5030S8/ES</g:id>
+  <g:gtin>8806088228143</g:gtin>
+  <g:title>Frigorífico Samsung com Twin Cooling Plus™, 299L</g:title>
+  <g:description>Compre já o Frigorífico Samsung com Twin Cooling Plus™, 299L. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/top-mount-freezer/300l-look-inox-rt29k5030s8-es/?cid=pt_pd_ppc_google_rt29k5030s8-com-twin-cooling-plus,-299-l-rt29k5030s8-es_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-top-mount-freezer-rt29k5030s8-rt29k5030s8-es-001-front-silver?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>659.90 EUR</g:price>
+  <g:sale_price>569.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Frigorificos | Frigorificos Duas Portas | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Duas Portas</g:product_type>
+</item>
+<item>
+  <g:id>RT32K5030WW/ES</g:id>
+  <g:gtin>8806088145914</g:gtin>
+  <g:title>Frigorífico Samsung com Twin Cooling Plus™, 320L</g:title>
+  <g:description>Compre já o Frigorífico Samsung com Twin Cooling Plus™, 320L. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/top-mount-freezer/321l-white-rt32k5030ww-es/?cid=pt_pd_ppc_google_rt32k5030ww-com-twin-cooling-plus,-320-l-rt32k5030ww-es_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-top-mount-freezer-rt32k5030ww-rt32k5030ww-es-001-front-white?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>724.90 EUR</g:price>
+  <g:sale_price>599.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Frigorificos | Frigorificos Duas Portas | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Duas Portas</g:product_type>
+</item>
+<item>
+  <g:id>RT38K5530S8/ES</g:id>
+  <g:gtin>8806088228068</g:gtin>
+  <g:title>Frigorífico Samsung Twin Cooling Plus 384L</g:title>
+  <g:description>Compre já o Frigorífico Samsung Twin Cooling Plus 384L. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/top-mount-freezer/384l-look-inox-rt38k5530s8-es/?cid=pt_pd_ppc_google_rt38k5530s8-com-twin-cooling-plus,-384-l-rt38k5530s8-es_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-top-mount-freezer-rt38k5530s8-rt38k5530s8-es-001-front-silver?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>879.91 EUR</g:price>
+  <g:sale_price>699.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Frigorificos | Frigorificos Duas Portas | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Duas Portas</g:product_type>
+</item>
+<item>
+  <g:id>RT29K5030WW/ES</g:id>
+  <g:gtin>8806088145433</g:gtin>
+  <g:title>Frigorífico Samsung com Twin Cooling Plus™, 299L</g:title>
+  <g:description>Compre já o Frigorífico Samsung com Twin Cooling Plus™, 299L. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/top-mount-freezer/300l-white-rt29k5030ww-es/?cid=pt_pd_ppc_google_rt29k5030ww-com-twin-cooling-plus,-299-l-rt29k5030ww-es_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-top-mount-freezer-rt29k5030ww-rt29k5030ww-es-001-front-white?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>619.90 EUR</g:price>
+  <g:sale_price>529.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Frigorificos | Frigorificos Duas Portas | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Duas Portas</g:product_type>
+</item>
+<item>
+  <g:id>RT32K5030S8/ES</g:id>
+  <g:gtin>8806088228150</g:gtin>
+  <g:title>Frigorífico Samsung com Twin Cooling Plus™, 320L</g:title>
+  <g:description>Compre já o Frigorífico Samsung com Twin Cooling Plus™, 320L. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/top-mount-freezer/321l-look-inox-rt32k5030s8-es/?cid=pt_pd_ppc_google_rt32k5030s8-com-twin-cooling-plus,-320-l-rt32k5030s8-es_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-top-mount-freezer-rt32k5030s8-rt32k5030s8-es-001-front-silver?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>774.90 EUR</g:price>
+  <g:sale_price>639.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Frigorificos | Frigorificos Duas Portas | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Duas Portas</g:product_type>
 </item>
 <item>
   <g:id>EP-TA845XBEGWW</g:id>
@@ -131,6 +201,48 @@
   <g:product_type>Produtos | Micro-ondas | Micro-ondas com Grill | Produtos | Eletrodomesticos | Micro-ondas | Micro-ondas com Grill | Produtos | Eletrodomesticos | Encastre | Micro-ondas | Micro-ondas com Grill</g:product_type>
 </item>
 <item>
+  <g:id>RT50K6335S9/ES</g:id>
+  <g:gtin>8806088228129</g:gtin>
+  <g:title>Frigorífico Samsung com Twin Cooling Plus™, 504L</g:title>
+  <g:description>Compre já o Frigorífico Samsung com Twin Cooling Plus™, 504L. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/top-mount-freezer/500l-look-inox-rt50k6335s9-es/?cid=pt_pd_ppc_google_rt50k6335s9-frigorifico-com-twin-cooling-plus,-504l-rt50k6335s9-es_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-top-mount-freezer-rt50k6335s9-rt50k6335s9-es-001-front-silver?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1099.90 EUR</g:price>
+  <g:sale_price>879.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Frigorificos | Frigorificos Duas Portas | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Duas Portas</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFM65WM/XC</g:id>
+  <g:gtin>8806088885421</g:gtin>
+  <g:title>Moldura Personalizável Samsung VG-SCFM Branca 65</g:title>
+  <g:description>Compre já online a Moldura Personalizável Samsung VG-SCFM Branca 65. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfm65-white-vg-scfm65wm-xc/?cid=pt_pd_ppc_google_moldura-the-frame-branca-65-vg-scfm65wm-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-customizable-frame-vg-scfm65-white-vg-scfm65wm-xc-dynamicwhite-219407719?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>129.99 EUR</g:price>
+  <g:sale_price>129.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFN65BM/XC</g:id>
+  <g:gtin>8801643276065</g:gtin>
+  <g:title>Moldura The Frame Preta 65”</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfm65-black-vg-scfn65bm-xc/?cid=pt_pd_ppc_google_moldura-the-frame-preta-65-vg-scfn65bm-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-customizable-frame-vg-scfm65-black-vg-scfn65bm-xc-dynamicblack-219407816?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>129.99 EUR</g:price>
+  <g:sale_price>129.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
   <g:id>VG-SCFN65DP/XC</g:id>
   <g:gtin>8801643664695</g:gtin>
   <g:title>Moldura Personalizável Samsung VG-SCFM Castanha 65''</g:title>
@@ -157,6 +269,20 @@
   <g:price>944.90 EUR</g:price>
   <g:sale_price>849.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Uma Porta | Produtos | Eletrodomesticos | Frigorificos | Uma Porta</g:product_type>
+</item>
+<item>
+  <g:id>WMN-M20EA/XC</g:id>
+  <g:gtin>8806088807775</g:gtin>
+  <g:title>Suporte de Parede “No Gap” Samsung </g:title>
+  <g:description>Compre já online o Suporte de Parede “No Gap” Samsung . Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/no-gap-wall-mount-wmn-m20e-wmn-m20ea-xc/?cid=pt_pd_ppc_google_suporte-de-parede-no-gap-wmn-m20ea-xc_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-no-gap-wall-mount-wmn-m20e-wmn-m20ea-xc-frontblack-150867066?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>out of stock</g:availability>
+  <g:price>179.00 EUR</g:price>
+  <g:sale_price>179.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
 </item>
 <item>
   <g:id>RR39M7145S9/ES</g:id>
@@ -223,7 +349,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-p615nzaephe/gallery/pt-galaxy-tab-s6-lite-p615-396465-sm-p615nzaephe-471530520?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>519.90 EUR</g:price>
   <g:sale_price>419.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
@@ -523,6 +649,20 @@
   <g:product_type>Produtos | Accessories | Acessorios Mobile</g:product_type>
 </item>
 <item>
+  <g:id>SM-T505NZSEEUB</g:id>
+  <g:gtin>8806090707261</g:gtin>
+  <g:title>Samsung Galaxy Tab A7 (10,4, 4G) Prateado 64GB</g:title>
+  <g:description>Descubra já o novo Samsung Galaxy Tab A7 4G com 64GB e 10.4 Polegadas. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a7-10-4-inch-silver-64gb-lte-sm-t505nzseeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-a7-10,4,-4g-sm-t505nzseeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-galaxy-tab-a7-t505-sm-t505nzseeub-frontsilver-297520114?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>349.90 EUR</g:price>
+  <g:sale_price>279.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy A Series</g:product_type>
+</item>
+<item>
   <g:id>SM-R220NZKAEUB</g:id>
   <g:gtin>8806090724664</g:gtin>
   <g:title>Samsung Galaxy Fit2 Preto</g:title>
@@ -579,6 +719,20 @@
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
+  <g:id>MC28M6035KS/EC</g:id>
+  <g:gtin>8806090747304</g:gtin>
+  <g:title>MC28M6035CK Micro-ondas de convecção com HotBlast™, 28L</g:title>
+  <g:description>A tecnologia HOTBLAST ™ reduz significativamente o tempo de cozedura dos alimentos. Através de vários orifícios no topo, o ar quente cai directamente nos alimentos, e a circulação de ar quente de cima para baixo, proporcionam uma cozedura uniforme dos seus alimentos, ficando estaladiços por fora e mais suculentos por dentro.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/microwave-ovens/convection/microwave-oven-convection-mc28m6055cw/?cid=pt_pd_ppc_google_mc28m6035ck-micro-ondas-de-conveccao-com-hotblast,-28l-mc28m6035ks-ec_ongoing_da-microwave-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/pt-microwave-oven-convection-mc28m6055cw-mc28m6035ks-ec-frontsilver-319904854?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>289.90 EUR</g:price>
+  <g:sale_price>239.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Micro-ondas | Micro-ondas de Conveccao | Produtos | Eletrodomesticos | Micro-ondas | Micro-ondas de Conveccao | Produtos | Eletrodomesticos | Encastre | Micro-ondas | Micro-ondas de Conveccao</g:product_type>
+</item>
+<item>
   <g:id>WW80T4040EE/EP</g:id>
   <g:gtin>8806090603235</g:gtin>
   <g:title>Máquina de Lavar Roupa Samsung Inverter, 9kg</g:title>
@@ -629,7 +783,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww90t554dan-s3/gallery/pt-front-loading-washer-ww10t554daws1-ww90t554dan-s3-333111625?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>839.91 EUR</g:price>
   <g:sale_price>589.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
@@ -687,7 +841,7 @@
   <g:condition>new</g:condition>
   <g:availability>preorder</g:availability>
   <g:price>699.89 EUR</g:price>
-  <g:sale_price>459.99 EUR</g:sale_price>
+  <g:sale_price>459.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -713,7 +867,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-front-loading-washer-ww80ta046aeef-ww90ta026te-ep-frontwhite-299187248?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>619.90 EUR</g:price>
   <g:sale_price>399.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
@@ -723,7 +877,7 @@
   <g:gtin>8806090561443</g:gtin>
   <g:title>Frigorífico Samsung Combinado c/ Dispensador Água 341L, D</g:title>
   <g:description>Compre já o Frigorífico Samsung Combinado c/ Dispensador Água 341L, D. Envio gratuito.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bottom-mount-freezer/331l-metal-graphite-rb34t632dsa-ef/?cid=pt_pd_ppc_google_rb34t632dsa,-combinado-c--dispensador-agua,-341l,-d-rb34t632dsa-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bottom-mount-freezer/331l-metal-graphite-rb34t632dsa-ef/?cid=pt_pd_ppc_google_rb34t632dsa,-combinado-c--dispensador--"a"gua,-341l,-d-rb34t632dsa-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-rb34t632-rb34t632dsa-ef-frontsilver-317389879?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -783,7 +937,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-buds-pro-r190-sm-r190nzkaeub-363262784?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>239.90 EUR</g:price>
   <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Wearables | Galaxy Buds</g:product_type>
@@ -901,20 +1055,6 @@
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
 </item>
 <item>
-  <g:id>SM-G998BZKHEUB</g:id>
-  <g:gtin>8806090886911</g:gtin>
-  <g:title>Samsung Galaxy S21 Ultra 5G</g:title>
-  <g:description>Não perca mais tempo e compre já o seu! Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G998BZKHEUB&cid=pt_pd_ppc_google_galaxy-s21-ultra-5g-sm-g998bzkheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-ultra-5g-g988-sm-g998bzkheub-368999024?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>1469.90 EUR</g:price>
-  <g:sale_price>1169.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
-</item>
-<item>
   <g:id>SM-G991BZWGEUB</g:id>
   <g:gtin>8806090886638</g:gtin>
   <g:title>Samsung Galaxy S21 5G</g:title>
@@ -965,7 +1105,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-ultra-5g-g988-sm-g998bzsgeub-368999132?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1329.90 EUR</g:price>
   <g:sale_price>1029.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
@@ -1073,7 +1213,7 @@
   <g:gtin>8806090485077</g:gtin>
   <g:title>Micro-Ondas Samsung Simples com Cerâmica Enamel 23L</g:title>
   <g:description>Compre já o Micro-Ondas Samsung Simples com Cerâmica Enamel 23L. Envio grátis.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/microwave-ovens/solo/microwave-oven-solo-ms23k3515ak/?cid=pt_pd_ppc_google_ms23k3515ak-ec-micro-ondas-simples-com-cer "a"mica-enamel,-23l-ms23k3515ak-ec_ongoing_da-microwave-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/microwave-ovens/solo/microwave-oven-solo-ms23k3515ak/?cid=pt_pd_ppc_google_ms23k3515ak-ec-micro-ondas-simples-com-cer-"a"mica-enamel,-23l-ms23k3515ak-ec_ongoing_da-microwave-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-microwave-oven-solo-ms23k3515ak-ms23k3515ak-ec-frontblack-263200181?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -1195,20 +1335,6 @@
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
-  <g:id>SM-A325FZBGEUB</g:id>
-  <g:gtin>8806092081925</g:gtin>
-  <g:title>Samsung Galaxy A32 Azul 128 GB</g:title>
-  <g:description>Compre já o Samsung Galaxy A32 Azul 128 GB. Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a32-awesome-blue-128gb-sm-a325fzbgeub/buy/?cid=pt_pd_ppc_google_galaxy-a32-sm-a325fzbgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a325fzbgeub/gallery/pt-galaxy-a32-a325-sm-a325fzbgeub-404116335?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>299.90 EUR</g:price>
-  <g:sale_price>239.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
-</item>
-<item>
   <g:id>SM-A325FZKGEUB</g:id>
   <g:gtin>8806092082649</g:gtin>
   <g:title>Samsung Galaxy A32 Preto 128 GB</g:title>
@@ -1221,6 +1347,20 @@
   <g:price>299.90 EUR</g:price>
   <g:sale_price>239.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
+</item>
+<item>
+  <g:id>LS32AM700URXEN</g:id>
+  <g:gtin>8806092182165</g:gtin>
+  <g:title>Smart Monitor Samsung UHD USB-C e Colunas Incorporadas | Samsung Portugal</g:title>
+  <g:description>Compre já o Smart Monitor Samsung UHD USB-C e Colunas Incorporadas | Samsung Portugal. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/high-resolution/smart-m7-32-inch-uhd-4k-ls32am700urxen/?cid=pt_pd_ppc_google_32-m70a-uhd-smart-monitor-com-usb-c,-colunas-incorporadas-e-telecomando-ls32am700urxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls32am700urxen/gallery/pt-smart-m7-32m70a-378404-ls32am700urxen-399696010?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>399.00 EUR</g:price>
+  <g:sale_price>229.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
   <g:id>LS32AM500NRXEN</g:id>
@@ -1289,7 +1429,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>2999.99 EUR</g:price>
-  <g:sale_price>1999.00 EUR</g:sale_price>
+  <g:sale_price>1849.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1483,7 +1623,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww10t534daw-s3/gallery/pt-front-loading-washer-ww10t534daws1-376280-ww10t534daw-s3-391119159?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>769.89 EUR</g:price>
   <g:sale_price>599.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
@@ -1501,6 +1641,286 @@
   <g:price>1999.89 EUR</g:price>
   <g:sale_price>1599.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT75BE/XC</g:id>
+  <g:gtin>8806090379956</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT75BE/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT75BE/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft75be-xc/?cid=pt_pd_ppc_google_moldura-the-frame-75-vg-scft75be-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft75be-xc/gallery/pt-customizable-frame-vg-scft-vg-scft75be-xc-404224186?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT75BL/XC</g:id>
+  <g:gtin>8806090379857</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT75BL/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT75BL/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft75bl-xc/?cid=pt_pd_ppc_google_moldura-the-frame-75-vg-scft75bl-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft75bl-xc/gallery/pt-customizable-frame-vg-scft-vg-scft75bl-xc-404224203?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT75BW/XC</g:id>
+  <g:gtin>8806090379963</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT75BW/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT75BW/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft75bw-xc/?cid=pt_pd_ppc_google_moldura-the-frame-75-vg-scft75bw-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft75bw-xc/gallery/pt-customizable-frame-vg-scft-vg-scft75bw-xc-404224220?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT75WT/XC</g:id>
+  <g:gtin>8806090379970</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT75WT/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT75WT/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft75wt-xc/?cid=pt_pd_ppc_google_moldura-the-frame-75-vg-scft75wt-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft75wt-xc/gallery/pt-customizable-frame-vg-scft-vg-scft75wt-xc-404224237?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT50BE/XC</g:id>
+  <g:gtin>8806090379796</g:gtin>
+  <g:title>Moldura The Frame Samsung TV VG-SCFT 50 polegadas</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung TV VG-SCFT 50 polegadas. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft50be-xc/?cid=pt_pd_ppc_google_moldura-the-frame-50-vg-scft50be-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft50be-xc/gallery/pt-customizable-frame-vg-scft-381397-vg-scft50be-xc-409773312?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT32BE/XC</g:id>
+  <g:gtin>8806090460357</g:gtin>
+  <g:title>Moldura The Frame Samsung 32 VG-SCFT32BE/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung 32 VG-SCFT32BE/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/the-sero-wheel-vg-scft32be-xc/?cid=pt_pd_ppc_google_moldura-the-frame-32-vg-scft32be-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft32be-xc/gallery/pt-customizable-frame-vg-scft32-vg-scft32be-xc-409849284?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT43BE/XC</g:id>
+  <g:gtin>8806090379765</g:gtin>
+  <g:title>Moldura The Frame Samsung TV VG-SCFT 43 polegadas </g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung TV VG-SCFT 43 polegadas . Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft43be-xc/?cid=pt_pd_ppc_google_moldura-the-frame-43-vg-scft43be-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft43be-xc/gallery/pt-customizable-frame-vg-scft-381394-vg-scft43be-xc-409740213?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT55BL/XC</g:id>
+  <g:gtin>8806090379840</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT55BL/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT55BL/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft55bl-xc/?cid=pt_pd_ppc_google_moldura-the-frame-55-vg-scft55bl-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft55bl-xc/gallery/pt-customizable-frame-vg-scft-vg-scft55bl-xc-404224067?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT50BL/XC</g:id>
+  <g:gtin>8806090379802</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT50BL/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT50BL/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft50bl-xc/?cid=pt_pd_ppc_google_moldura-the-frame-50-vg-scft50bl-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft50bl-xc/gallery/pt-customizable-frame-vg-scft-vg-scft50bl-xc-404223999?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT43BW/XC</g:id>
+  <g:gtin>8806090420900</g:gtin>
+  <g:title>Moldura The Frame 43”</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scft43bw-xc/?cid=pt_pd_ppc_google_moldura-the-frame-43-vg-scft43bw-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft43bw-xc/gallery/pt-customizable-frame-vg-scft-381394-381394-vg-scft43bw-xc-445674415?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT43WT/XC</g:id>
+  <g:gtin>8806090379789</g:gtin>
+  <g:title>Moldura The Frame 43”</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scft43wt-xc/?cid=pt_pd_ppc_google_moldura-the-frame-43-vg-scft43wt-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft43wt-xc/gallery/pt-customizable-frame-vg-scft-381394-381394-vg-scft43wt-xc-445847855?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT55BW/XC</g:id>
+  <g:gtin>8806090379895</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT55BW/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT55BW/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft55bw-xc/?cid=pt_pd_ppc_google_moldura-the-frame-55-vg-scft55bw-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft55bw-xc/gallery/pt-customizable-frame-vg-scft-vg-scft55bw-xc-404224084?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT32WT/XC</g:id>
+  <g:gtin>8806090458880</g:gtin>
+  <g:title>Moldura The Frame Samsung 32 VG-SCFT32WT/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung 32 VG-SCFT32WT/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/the-sero-wheel-vg-scft32wt-xc/?cid=pt_pd_ppc_google_moldura-the-frame-32-vg-scft32wt-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft32wt-xc/gallery/pt-customizable-frame-vg-scft32-vg-scft32wt-xc-409849305?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT50BW/XC</g:id>
+  <g:gtin>8806090379819</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT50BW/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT50BW/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft50bw-xc/?cid=pt_pd_ppc_google_moldura-the-frame-50-vg-scft50bw-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft50bw-xc/gallery/pt-customizable-frame-vg-scft-vg-scft50bw-xc-404224016?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT55WT/XC</g:id>
+  <g:gtin>8806090379901</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT55WT/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT55WT/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft55wt-xc/?cid=pt_pd_ppc_google_moldura-the-frame-55-vg-scft55wt-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft55wt-xc/gallery/pt-customizable-frame-vg-scft-vg-scft55wt-xc-404224101?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT50WT/XC</g:id>
+  <g:gtin>8806090379826</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT50WT/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT50WT/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft50wt-xc/?cid=pt_pd_ppc_google_moldura-the-frame-50-vg-scft50wt-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft50wt-xc/gallery/pt-customizable-frame-vg-scft-vg-scft50wt-xc-404224033?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT65BL/XC</g:id>
+  <g:gtin>8806090379925</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT65BL/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT65BL/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft65bl-xc/?cid=pt_pd_ppc_google_moldura-the-frame-65-vg-scft65bl-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft65bl-xc/gallery/pt-customizable-frame-vg-scft-vg-scft65bl-xc-404224135?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT65BE/XC</g:id>
+  <g:gtin>8806090379918</g:gtin>
+  <g:title>Moldura The Frame 65”</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft65be-xc/?cid=pt_pd_ppc_google_moldura-the-frame-65-vg-scft65be-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>nan</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT65BW/XC</g:id>
+  <g:gtin>8806090379932</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT65BW/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT65BW/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft65bw-xc/?cid=pt_pd_ppc_google_moldura-the-frame-65-vg-scft65bw-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft65bw-xc/gallery/pt-customizable-frame-vg-scft-vg-scft65bw-xc-404224152?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFT65WT/XC</g:id>
+  <g:gtin>8806090379949</g:gtin>
+  <g:title>Moldura The Frame Samsung VG-SCFT65WT/XC</g:title>
+  <g:description>Compre já online a Moldura The Frame Samsung VG-SCFT65WT/XC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-bezel-vg-scft65wt-xc/?cid=pt_pd_ppc_google_moldura-the-frame-65-vg-scft65wt-xc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scft65wt-xc/gallery/pt-customizable-frame-vg-scft-vg-scft65wt-xc-404224169?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>99.99 EUR</g:price>
+  <g:sale_price>99.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
 </item>
 <item>
   <g:id>DV90T5240AN/S3</g:id>
@@ -1569,7 +1989,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>2099.91 EUR</g:price>
-  <g:sale_price>1649.99 EUR</g:sale_price>
+  <g:sale_price>1649.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1583,7 +2003,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1799.90 EUR</g:price>
-  <g:sale_price>1459.00 EUR</g:sale_price>
+  <g:sale_price>1469.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1597,7 +2017,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1999.99 EUR</g:price>
-  <g:sale_price>1299.00 EUR</g:sale_price>
+  <g:sale_price>1199.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -1645,8 +2065,8 @@
 <item>
   <g:id>RS67A8810S9/EF</g:id>
   <g:gtin>8806090805219</g:gtin>
-  <g:title>Frigorífico Samsung Side By Side  e Sistema Twin Cooling Plus 634L, F Inox</g:title>
-  <g:description>Compre já o Frigorífico Samsung Side By Side  e Sistema Twin Cooling Plus 634L, F Inox. Envio gratuito.</g:description>
+  <g:title>Frigorífico Samsung Side By Side and Sistema Twin Cooling Plus 634L, F Inox</g:title>
+  <g:description>Compre já o Frigorífico Samsung Side By Side and Sistema Twin Cooling Plus 634L, F Inox. Envio gratuito.</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/side-by-side/rs8000nc-7-609l-silver-rs67a8810s9-ef/?cid=pt_pd_ppc_google_rs67a8810s9-side-by-side-com-sistema-twin-cooling-plus-634l,-f-rs67a8810s9-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rs67a8810s9-ef/gallery/pt-rs8000nc-7-rs67a8810s9-ef-400373339?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -1811,6 +2231,20 @@
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
+  <g:id>RT62K7115SL/ES</g:id>
+  <g:gtin>8806090792465</g:gtin>
+  <g:title>Frigorífico Samsung Frigorífico com Twin Cooling Plus™ 620L prateado</g:title>
+  <g:description>Compre já o Frigorífico Samsung Frigorífico com Twin Cooling Plus™ 620L prateado. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/top-mount-freezer/rt62k7115sl-frigorfico-com-twin-cooling-plus-618l-618l-silver-rt62k7115sl-es/?cid=pt_pd_ppc_google_rt62k7115sl-frigorifico-com-twin-cooling-plus,-620l,-f-rt62k7115sl-es_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rt62k7115sl-es/gallery/pt-rt7000k-top-freezer-with--twin-cooling-plus?-620l-rt62k7115sl-es-387314923?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1419.90 EUR</g:price>
+  <g:sale_price>1099.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
+</item>
+<item>
   <g:id>SM-M127FLBWEUB</g:id>
   <g:gtin>8806092543171</g:gtin>
   <g:title>Samsung Galaxy M12 Azul 128GB</g:title>
@@ -1891,7 +2325,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1579.90 EUR</g:price>
-  <g:sale_price>1179.99 EUR</g:sale_price>
+  <g:sale_price>1179.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1905,7 +2339,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1689.90 EUR</g:price>
-  <g:sale_price>1299.99 EUR</g:sale_price>
+  <g:sale_price>1299.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -1923,9 +2357,37 @@
   <g:product_type>Produtos | TV | Crystal UHD</g:product_type>
 </item>
 <item>
+  <g:id>LC27RG50FQRXEN</g:id>
+  <g:gtin>8806092014794</g:gtin>
+  <g:title>Monitor Curvo Gaming 27” Black 27</g:title>
+  <g:description>Compre já online o Monitor Curvo Gaming 27” Black 27. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-crg5-27-inch-240hz-gsync-curved-lc27rg50fqrxen/?cid=pt_pd_ppc_google_monitor-curvo-gaming-27-lc27rg50fqrxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc27rg50fqrxen/gallery/pt-c27rg5-lc27rg50fqrxen-444488289?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>279.00 EUR</g:price>
+  <g:sale_price>199.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
+</item>
+<item>
+  <g:id>QE43Q60AAUXXC</g:id>
+  <g:gtin>8806090985539</g:gtin>
+  <g:title>Televisão Samsung 43 Q60A Smart 4K QLED TV 2021 43 polegadas</g:title>
+  <g:description>Compre já a Televisão Samsung 43 Q60A Smart 4K QLED TV 2021 43 polegadas. Envio gratuito.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/qled-tv/q60a-43-inch-qled-4k-smart-tv-qe43q60aauxxc/?cid=pt_pd_ppc_google_43-q60a-smart-4k-qled-tv-2021-qe43q60aauxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe43q60aauxxc/gallery/pt-qled-q60a-qe43q60aauxxc-396009547?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>749.99 EUR</g:price>
+  <g:sale_price>549.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | QLED TV</g:product_type>
+</item>
+<item>
   <g:id>RB34A6B3D48/EF</g:id>
   <g:gtin>8806092313507</g:gtin>
-  <g:title>Novo Frigorífico  e Congelador Samsung BESPOKE 2021</g:title>
+  <g:title>Novo Frigorífico and Congelador Samsung BESPOKE 2021</g:title>
   <g:description>O mais inovador Frigorífico da Samsung que permite personalizar o tipo, a cor e o material utilizado. Clique já!</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-344l-cloud-blue-rb34a6b3d48-ef/?cid=pt_pd_ppc_google_rb34a6b3d48-combinado-bespoke-azul-ceu-satin,-d-rb34a6b3d48-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rb34a6b3d48-ef/gallery/pt-bespoke-rb7300-385446-rb34a6b3d48-ef-427745798?$320_320_PNG$</g:image_link>
@@ -1953,7 +2415,7 @@
 <item>
   <g:id>RB38A6B3DS9/EF</g:id>
   <g:gtin>8806092252868</g:gtin>
-  <g:title>Novo Frigorífico  e Congelador Samsung BESPOKE 2021</g:title>
+  <g:title>Novo Frigorífico and Congelador Samsung BESPOKE 2021</g:title>
   <g:description>O mais inovador Frigorífico da Samsung que permite personalizar o tipo, a cor e o material utilizado. Clique já!</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-390l-silver-rb38a6b3ds9-ef/?cid=pt_pd_ppc_google_rb38a6b3ds9-combinado-bespoke-inox-refinado,-d-rb38a6b3ds9-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rb38a6b3ds9-ef/gallery/pt-bespoke-rb7300-385441-rb38a6b3ds9-ef-427745562?$320_320_PNG$</g:image_link>
@@ -1967,7 +2429,7 @@
 <item>
   <g:id>RB34A6B1DCE/EF</g:id>
   <g:gtin>8806092313460</g:gtin>
-  <g:title>Novo Frigorífico  e Congelador Samsung BESPOKE 2021</g:title>
+  <g:title>Novo Frigorífico and Congelador Samsung BESPOKE 2021</g:title>
   <g:description>O mais inovador Frigorífico da Samsung que permite personalizar o tipo, a cor e o material utilizado. Clique já!</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-344l-clay-beige-rb34a6b1dce-ef/?cid=pt_pd_ppc_google_rb34a6b1dce-combinado-bespoke-bege-cotta,-d-rb34a6b1dce-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rb34a6b1dce-ef/gallery/pt-bespoke-rb7300-385452-rb34a6b1dce-ef-427746109?$320_320_PNG$</g:image_link>
@@ -1981,7 +2443,7 @@
 <item>
   <g:id>RB38A7B4D41/EF</g:id>
   <g:gtin>8806092313613</g:gtin>
-  <g:title>Novo Frigorífico  e Congelador Samsung BESPOKE 2021</g:title>
+  <g:title>Novo Frigorífico and Congelador Samsung BESPOKE 2021</g:title>
   <g:description>O mais inovador Frigorífico da Samsung que permite personalizar o tipo, a cor e o material utilizado. Clique já!</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-390l-navy-rb38a7b4d41-ef/?cid=pt_pd_ppc_google_rb38a7b4d41-combinado-bespoke-azul-marinho-glam,-d-rb38a7b4d41-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rb38a7b4d41-ef/gallery/pt-bespoke-rb7300-rb38a7b4d41-ef-427744613?$320_320_PNG$</g:image_link>
@@ -2003,7 +2465,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1099.99 EUR</g:price>
-  <g:sale_price>849.99 EUR</g:sale_price>
+  <g:sale_price>899.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2161,6 +2623,104 @@
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
+  <g:id>UE75AU7105KXXC</g:id>
+  <g:gtin>8806092076181</g:gtin>
+  <g:title>Televisão Samsung Smart 4K Crystal UHD TV 2021 UE75AU7105KXXC</g:title>
+  <g:description>Compre já online a Televisão Samsung Smart 4K Crystal UHD TV 2021 UE75AU7105KXXC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/uhd-4k-tv/au7000-uhd-4k-smart-tv-2021-75-inch-ue75au7105kxxc/?cid=pt_pd_ppc_google_75au7105-smart-4k-crystal-uhd-tv-2021-ue75au7105kxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue75au7105kxxc/gallery/pt-uhd-4k-tv-ue75au7105kxxc-front-gray-457553033?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1299.99 EUR</g:price>
+  <g:sale_price>899.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
+</item>
+<item>
+  <g:id>UE43AU7105KXXC</g:id>
+  <g:gtin>8806092076044</g:gtin>
+  <g:title>Televisão Samsung Smart 4K Crystal UHD TV 2021</g:title>
+  <g:description>Compre já online a Televisão Samsung Smart 4K Crystal UHD TV 2021. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/uhd-4k-tv/au7000-uhd-4k-smart-tv-2021-43-inch-ue43au7105kxxc/?cid=pt_pd_ppc_google_43-au7105-smart-4k-crystal-uhd-tv-2021-ue43au7105kxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue43au7105kxxc/gallery/pt-uhd-4k-tv-ue43au7105kxxc-front-gray-457552381?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>500.00 EUR</g:price>
+  <g:sale_price>399.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | UHD TV</g:product_type>
+</item>
+<item>
+  <g:id>UE58AU7105KXXC</g:id>
+  <g:gtin>8806092076150</g:gtin>
+  <g:title>Televisão Samsung Smart 4K Crystal UHD TV 2021 UE58AU7105KXXC</g:title>
+  <g:description>Compre já online a Televisão Samsung Smart 4K Crystal UHD TV 2021 UE58AU7105KXXC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/uhd-4k-tv/au7000-uhd-4k-smart-tv-2021-85-inch-ue85au7105kxxc/?cid=pt_pd_ppc_google_58-au7105-smart-4k-crystal-uhd-tv-2021-ue58au7105kxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue58au7105kxxc/gallery/pt-uhd-4k-tv-ue58au7105kxxc-front-gray-457552839?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>out of stock</g:availability>
+  <g:price>749.99 EUR</g:price>
+  <g:sale_price>549.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
+</item>
+<item>
+  <g:id>UE50AU7105KXXC</g:id>
+  <g:gtin>8806092076006</g:gtin>
+  <g:title>Televisão Samsung Smart 4K Crystal UHD TV 2021 UE50AU7105KXXC</g:title>
+  <g:description>Compre já online a Televisão Samsung Smart 4K Crystal UHD TV 2021 UE50AU7105KXXC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/uhd-4k-tv/au7000-uhd-4k-smart-tv-2021-50-inch-ue50au7105kxxc/?cid=pt_pd_ppc_google_50-au7105-smart-4k-crystal-uhd-tv-2021-ue50au7105kxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue50au7105kxxc/gallery/pt-uhd-4k-tv-ue50au7105kxxc-front-gray-457552597?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>599.99 EUR</g:price>
+  <g:sale_price>439.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | UHD TV</g:product_type>
+</item>
+<item>
+  <g:id>UE65AU7105KXXC</g:id>
+  <g:gtin>8806092076174</g:gtin>
+  <g:title>Televisão Samsung Smart 4K Crystal UHD TV 2021 UE65AU7105KXXC</g:title>
+  <g:description>Compre já online a Televisão Samsung Smart 4K Crystal UHD TV 2021 UE65AU7105KXXC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/uhd-4k-tv/au7000-uhd-4k-smart-tv-2021-65-inch-ue65au7105kxxc/?cid=pt_pd_ppc_google_65-au7105-smart-4k-crystal-uhd-tv-2021-ue65au7105kxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue65au7105kxxc/gallery/pt-uhd-4k-tv-ue65au7105kxxc-front-gray-457552930?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>899.99 EUR</g:price>
+  <g:sale_price>699.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
+</item>
+<item>
+  <g:id>UE85AU7105KXXC</g:id>
+  <g:gtin>8806092076471</g:gtin>
+  <g:title>Televisão Samsung Smart 4K Crystal UHD TV 2021 UE85AU7105KXXC</g:title>
+  <g:description>Compre já online a Televisão Samsung Smart 4K Crystal UHD TV 2021 UE85AU7105KXXC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/uhd-4k-tv/au7000-uhd-4k-smart-tv-2021-85-inch-ue85au7105kxxc/?cid=pt_pd_ppc_google_85-au7105-smart-4k-crystal-uhd-tv-2021-ue85au7105kxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue85au7105kxxc/gallery/pt-uhd-au7000-ue85au7105kxxc-417770923?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>1899.99 EUR</g:price>
+  <g:sale_price>1599.00 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
+</item>
+<item>
+  <g:id>UE55AU7105KXXC</g:id>
+  <g:gtin>8806092076143</g:gtin>
+  <g:title>Televisão Samsung Smart 4K Crystal UHD TV 2021 UE55AU7105KXXC</g:title>
+  <g:description>Compre já online a Televisão Samsung Smart 4K Crystal UHD TV 2021 UE55AU7105KXXC. Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tvs/uhd-4k-tv/au7000-uhd-4k-smart-tv-2021-55-inch-ue55au7105kxxc/?cid=pt_pd_ppc_google_55-au7105-smart-4k-crystal-uhd-tv-2021-ue55au7105kxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue55au7105kxxc/gallery/pt-uhd-4k-tv-ue55au7105kxxc-front-gray-457552724?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>699.99 EUR</g:price>
+  <g:sale_price>499.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
+</item>
+<item>
   <g:id>SM-T736BZKAEUB</g:id>
   <g:gtin>8806092276093</g:gtin>
   <g:title>Samsung Galaxy Tab S7 FE 5G 12.4’’</g:title>
@@ -2295,7 +2855,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77q2t0bw/gallery/pt-870-qvo-sata-3-2-5-ssd-mz-77q2t0bw-420337639?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>192.05 EUR</g:price>
   <g:sale_price>192.05 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
@@ -2311,7 +2871,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>849.99 EUR</g:price>
-  <g:sale_price>659.99 EUR</g:sale_price>
+  <g:sale_price>599.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2515,7 +3075,7 @@
   <g:gtin>8801643205379</g:gtin>
   <g:title>SSD 970 PRO 1TB </g:title>
   <g:description>Experimente o melhor. Para cargas de trabalho intensivas em computadores e estações de trabalho, o SSD 970 PRO oferece um desempenho máximo possibilitado pela liderança da Samsung em NVDe eamp;lt;small eamp;gt; eamp;lt;sup eamp;gt;TM eamp;lt;/sup eamp;gt;  eamp;lt;/small eamp;gt; SSD. A mais recente tecnologia V-NAND e o novo controlador Phoenix no formato compacto M.2 (2280) superam as exig ências dos entusiastas e profissionais de tecnologia.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/970-pro-nvme-m-2-ssd-1tb-mz-v7p1t0bw/?cid=pt_pd_ppc_google_ssd-970-pro-1tbandlt;brandgt;-mz-v7p1t0bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/970-pro-nvme-m-2-ssd-1tb-mz-v7p1t0bw/?cid=pt_pd_ppc_google_ssd-970-pro-1tb--mz-v7p1t0bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-970-pro-nvme-m2-ssd--mz-v7p1t0bw-frontblack-141468900?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -2543,7 +3103,7 @@
   <g:gtin>8806090572227</g:gtin>
   <g:title>SSD 980 PCIe 3.0 NVMe™ M.2</g:title>
   <g:description>Tire maior partido do seu PC com o SSD 980. Quer precise de um boost enquanto joga ou de trabalhar imagens pesadas, o SSD 980 é a escolha certa. </g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/980-500gb-nvme-pcie-gen-3-mz-v8v500bw/?cid=pt_pd_ppc_google_980-pcie-3.0-nvmeandlt;smallandgt;andlt;supandgt;tmandlt;-supandgt;-andlt;-smallandgt;--m.2-ssd-mz-v8v500bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/980-500gb-nvme-pcie-gen-3-mz-v8v500bw/?cid=pt_pd_ppc_google_980-pcie-3.0-nvme-"e"lt;small-"e"gt;-"e"lt;sup-"e"gt;tm-"e"lt;-sup-"e"gt;--"e"lt;-small-"e"gt;--m.2-ssd-mz-v8v500bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-v8v500bw/gallery/pt-980-nvme-m2-ssd-mz-v8v500bw-407768918?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -2557,7 +3117,7 @@
   <g:gtin>8806090572234</g:gtin>
   <g:title>SSD 980 PCIe 3.0 NVMe™ M.2</g:title>
   <g:description>Tire maior partido do seu PC com o SSD 980. Quer precise de um boost enquanto joga ou de trabalhar imagens pesadas, o SSD 980 é a escolha certa. </g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/980-250gb-nvme-pcie-gen-3-mz-v8v250bw/?cid=pt_pd_ppc_google_980-pcie-3.0-nvmeandlt;smallandgt;andlt;supandgt;tmandlt;-supandgt;-andlt;-smallandgt;--m.2-ssd-mz-v8v250bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/980-250gb-nvme-pcie-gen-3-mz-v8v250bw/?cid=pt_pd_ppc_google_980-pcie-3.0-nvme-"e"lt;small-"e"gt;-"e"lt;sup-"e"gt;tm-"e"lt;-sup-"e"gt;--"e"lt;-small-"e"gt;--m.2-ssd-mz-v8v250bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-v8v250bw/gallery/pt-980-nvme-m2-ssd-mz-v8v250bw-407768891?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -2577,7 +3137,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>4499.99 EUR</g:price>
-  <g:sale_price>3749.99 EUR</g:sale_price>
+  <g:sale_price>4499.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2599,7 +3159,7 @@
   <g:gtin>8806090572210</g:gtin>
   <g:title>SSD 980 PCIe 3.0 NVMe™ M.2</g:title>
   <g:description>Tire maior partido do seu PC com o SSD 980. Quer precise de um boost enquanto joga ou de trabalhar imagens pesadas, o SSD 980 é a escolha certa. </g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/980-1tb-nvme-pcie-gen-3-mz-v8v1t0bw/?cid=pt_pd_ppc_google_980-pcie-3.0-nvmeandlt;smallandgt;andlt;supandgt;tmandlt;-supandgt;-andlt;-smallandgt;--m.2-ssd-mz-v8v1t0bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/980-1tb-nvme-pcie-gen-3-mz-v8v1t0bw/?cid=pt_pd_ppc_google_980-pcie-3.0-nvme-"e"lt;small-"e"gt;-"e"lt;sup-"e"gt;tm-"e"lt;-sup-"e"gt;--"e"lt;-small-"e"gt;--m.2-ssd-mz-v8v1t0bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-v8v1t0bw/gallery/pt-980-nvme-m2-ssd-mz-v8v1t0bw-407768866?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -2777,6 +3337,62 @@
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
+  <g:id>LC34G55TWWRXEN</g:id>
+  <g:gtin>8806090966873</g:gtin>
+  <g:title>Monitor Gaming Curvo 34” com taxa de atualização de 165 Hz LC34G55TW</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-g5-34-inch-165hz-curved-ultra-wqhd-lc34g55twwrxen/?cid=pt_pd_ppc_google_monitor-gaming-curvo-34-com-taxa-de-atualizacao-de-165-hz-lc34g55tw-lc34g55twwrxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc34g55twwrxen/gallery/pt-odyssey-g5-34g5-lc34g55twwrxen-457922428?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>469.00 EUR</g:price>
+  <g:sale_price>339.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
+</item>
+<item>
+  <g:id>LS34A650UXUXEN</g:id>
+  <g:gtin>8806090952654</g:gtin>
+  <g:title>Monitor LED IPS 34” S34A650</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/high-resolution/s65ua-34-inch-ls34a650uxuxen/?cid=pt_pd_ppc_google_monitor-led-ips-34-s34a650-ls34a650uxuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls34a650uxuxen/gallery/pt-s65ua-ls34a650uxuxen-458308314?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>599.00 EUR</g:price>
+  <g:sale_price>429.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</g:product_type>
+</item>
+<item>
+  <g:id>LS27A600UUUXEN</g:id>
+  <g:gtin>8806090952630</g:gtin>
+  <g:title>Monitor QHD 27” con painel IPS e USB tipo-C S32A600UUU</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/high-resolution/s60ua-27-27-inch-ips-uhd-4k-ls27a600uuuxen/?cid=pt_pd_ppc_google_monitor-qhd-27-con-painel-ips-e-usb-tipo-c-s32a600uuu-ls27a600uuuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls27a600uuuxen/gallery/pt-s60ua-27quot-ls27a600uuuxen-459129202?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>419.00 EUR</g:price>
+  <g:sale_price>299.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</g:product_type>
+</item>
+<item>
+  <g:id>LS27A600NWUXEN</g:id>
+  <g:gtin>8806090952623</g:gtin>
+  <g:title>Monitor QHD 27” con painel IPS S27A600NWU</g:title>
+  <g:description>Veja os detalhes como nunca antes. Quando estiver a ver o seu filme preferido ou a trabalhar no seu mais recente projeto, aproveite os novos níveis de precisão com uma densidade de píxeis 1,7 vezes superior  à do Full HD. A resolução QHD dá-lhe mais espaço para que possa fazer multitasking ou ver imagens e vídeos incríveis.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/high-resolution/s60a-27-27-inch-ips-uhd-4k-ls27a600nwuxen/?cid=pt_pd_ppc_google_monitor-qhd-27-con-painel-ips-s27a600nwu-ls27a600nwuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls27a600nwuxen/gallery/pt-s60a-27quot-ls27a600nwuxen-458852541?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>379.00 EUR</g:price>
+  <g:sale_price>379.00 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</g:product_type>
+</item>
+<item>
   <g:id>LS27AM501NUXEN</g:id>
   <g:gtin>8806092231580</g:gtin>
   <g:title>Monitor Smart com Apps Smart TV </g:title>
@@ -2787,7 +3403,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>299.00 EUR</g:price>
-  <g:sale_price>299.00 EUR</g:sale_price>
+  <g:sale_price>214.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
@@ -2815,7 +3431,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>3999.98 EUR</g:price>
-  <g:sale_price>3999.98 EUR</g:sale_price>
+  <g:sale_price>3999.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2829,7 +3445,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>4999.99 EUR</g:price>
-  <g:sale_price>4999.99 EUR</g:sale_price>
+  <g:sale_price>4999.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -2859,6 +3475,20 @@
   <g:price>259.90 EUR</g:price>
   <g:sale_price>199.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
+</item>
+<item>
+  <g:id>QE32LS03TCUXXC</g:id>
+  <g:gtin>8806092218505</g:gtin>
+  <g:title>32” The Frame QLED 2021</g:title>
+  <g:description> eamp;lt;spam eamp;gt;</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/lifestyle-tvs/the-frame/the-frame-32-inch-4k-smart-tv-ls05t-black-qe32ls03tcuxxc/?cid=pt_pd_ppc_google_32-the-frame-qled-2021-qe32ls03tcuxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe32ls03tcuxxc/gallery/pt-the-frame-32ls03t-qe32ls03tcuxxc-401675317?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>549.99 EUR</g:price>
+  <g:sale_price>499.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | The Frame | Produtos | TV | Lifestyle TV | The Frame</g:product_type>
 </item>
 <item>
   <g:id>SM-A226BLVVEUB</g:id>
@@ -3169,20 +3799,6 @@
   <g:product_type>nan</g:product_type>
 </item>
 <item>
-  <g:id>SM-R875FZSAPHE</g:id>
-  <g:gtin>8806092614727</g:gtin>
-  <g:title>Galaxy Watch4 4G (44mm)</g:title>
-  <g:description>Track your activities and fitness scores on your watch and phone. Count steps, check calories, and stay on the grid with GPS. Galaxy Watch4 detects physical activity to track your routines and supports more than 90 exercises for a more accurate report of your workouts.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-silver-4g-sm-r875fzsaphe/buy/?cid=pt_pd_ppc_google_galaxy-watch4-4g-44mm-sm-r875fzsaphe_ongoing_im-wearables-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-watch4-400448-sm-r875fzsaphe-482282699?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>352.26 EUR</g:price>
-  <g:sale_price>299.90 EUR</g:sale_price>
-  <g:product_type>nan</g:product_type>
-</item>
-<item>
   <g:id>SM-R177NLVAPHE</g:id>
   <g:gtin>8806092662728</g:gtin>
   <g:title>Galaxy Buds2</g:title>
@@ -3261,7 +3877,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ei-t7300blegeu/gallery/pt-galaxy-smarttag-ei-t7300-ei-t7300blegeu-486001451?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>39.90 EUR</g:price>
   <g:sale_price>39.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Galaxy SmartTag | Produtos | Accessories | Acessorios Mobile | Galaxy SmartTag</g:product_type>
@@ -3617,6 +4233,20 @@
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
+  <g:id>LS27AG500NUXEN</g:id>
+  <g:gtin>8806092252110</g:gtin>
+  <g:title>Monitor Gaming QHD 27” Odyssey G5 165hz</g:title>
+  <g:description> eamp;lt;spam eamp;gt;</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-g50a-27-inch-ips---165hz-1ms-ls27ag500nuxen/?cid=pt_pd_ppc_google_monitor-gaming-qhd-27-odyssey-g5-165hz-ls27ag500nuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls27ag500nuxen/gallery/pt-odyssey-g5-g50a-ls27ag500nuxen-492432052?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>499.00 EUR</g:price>
+  <g:sale_price>359.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
+</item>
+<item>
   <g:id>LS27AG300NUXEN</g:id>
   <g:gtin>8806092278011</g:gtin>
   <g:title>Monitor Gaming FHD Odyssey G3 taxa de atualização 144hz, tempo de resposta 1ms</g:title>
@@ -3628,6 +4258,48 @@
   <g:availability>in stock</g:availability>
   <g:price>279.00 EUR</g:price>
   <g:sale_price>199.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
+</item>
+<item>
+  <g:id>LS27A800UJUXEN</g:id>
+  <g:gtin>8806092068483</g:gtin>
+  <g:title>Monitor profissional UHD 27” com painel IPS e USB tipo-C</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/high-resolution/s80ua-27-inch-ips-uhd-4k-ls27a800ujuxen/?cid=pt_pd_ppc_google_monitor-profissional-uhd-27-com-painel-ips-e-usb-tipo-c-ls27a800ujuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls27a800ujuxen/gallery/pt-s80ua-ls27a800ujuxen-492450842?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>out of stock</g:availability>
+  <g:price>499.00 EUR</g:price>
+  <g:sale_price>359.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
+</item>
+<item>
+  <g:id>LS24A600UCUXEN</g:id>
+  <g:gtin>8806090952616</g:gtin>
+  <g:title>Monitor QHD 24” com painel IPS e USB tipo-C</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/high-resolution/s60ua-24-24-inch-ips-uhd-4k-ls24a600ucuxen/?cid=pt_pd_ppc_google_monitor-qhd-24-com-painel-ips-e-usb-tipo-c-ls24a600ucuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls24a600ucuxen/gallery/pt-s60ua-24quot-ls24a600ucuxen-504135257?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>319.00 EUR</g:price>
+  <g:sale_price>229.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
+</item>
+<item>
+  <g:id>LS32A600UUUXEN</g:id>
+  <g:gtin>8806092075726</g:gtin>
+  <g:title>Monitor QHD 32” com painel IPS e USB tipo-C</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/high-resolution/s60ua-32-32-inch-uhd-4k-usb-c-ls32a600uuuxen/?cid=pt_pd_ppc_google_monitor-qhd-32-com-painel-ips-e-usb-tipo-c-ls32a600uuuxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ls32a600uuuxen/gallery/pt-s60ua-32quot-ls32a600uuuxen-503612823?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>449.00 EUR</g:price>
+  <g:sale_price>324.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
 </item>
 <item>
@@ -3724,7 +4396,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/gp-fpm325kdabw/gallery/pt-kdlab-m-cover-galaxy-m32-gp-fpm325kdabw-504094123?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>16.90 EUR</g:price>
   <g:sale_price>16.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Acessorios Mobile</g:product_type>
@@ -3912,6 +4584,286 @@
   <g:product_type>nan</g:product_type>
 </item>
 <item>
+  <g:id>WMN750M/XC</g:id>
+  <g:gtin>8801643906399</g:gtin>
+  <g:title>Mini Wall Mount (37“ endash;65“)</g:title>
+  <g:description>Pendurar a sua televisão na parede ficou ainda mais fácil. O suporte de parede WMN650M da Samsung é seguro, fácil e rápido de montar. Graças ao manual de utilizador com instruções fáceis de seguir, já não precisa de se preocupar com os parafusos errados ou outros contratempos. Para que perca menos tempo em montagens e passe mais tempo a ver televisão.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/mini-wall-mount-wmn750m-xc/?cid=pt_pd_ppc_google_mini-wall-mount-37-"e"ndash;65-wmn750m-xc_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/wmn750m-xc/gallery/pt-mini-wall-mount-wmn650m-wmn750m-xc-521927243?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA43BWBXC</g:id>
+  <g:gtin>8806092119208</g:gtin>
+  <g:title>Moldura The Frame 43”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43bwbxc/?cid=pt_pd_ppc_google_moldura-the-frame-43-vg-scfa43bwbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa43bwbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa43bwbxc-420445903?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA43TKBXC</g:id>
+  <g:gtin>8806092120600</g:gtin>
+  <g:title>Moldura The Frame 43”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43tkbxc/?cid=pt_pd_ppc_google_moldura-the-frame-43-vg-scfa43tkbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa43tkbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa43wtbxc-vg-scfa43tkbxc-front--beige-wood-488776847?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA43WTBXC</g:id>
+  <g:gtin>8806092123298</g:gtin>
+  <g:title>Moldura The Frame 43”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43wtbxc/?cid=pt_pd_ppc_google_moldura-the-frame-43-vg-scfa43wtbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa43wtbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa43wtbxc-vg-scfa43wtbxc-front--white-488777156?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA50BWBXC</g:id>
+  <g:gtin>8806092119390</g:gtin>
+  <g:title>Moldura The Frame 50”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa50bwbxc/?cid=pt_pd_ppc_google_moldura-the-frame-50-vg-scfa50bwbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa50bwbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa50bwbxc-vg-scfa50bwbxc-front--brown-463320764?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA50TKBXC</g:id>
+  <g:gtin>8806092123311</g:gtin>
+  <g:title>Moldura The Frame 50”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa50tkbxc/?cid=pt_pd_ppc_google_moldura-the-frame-50-vg-scfa50tkbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa50tkbxc/gallery/pt-customizable-frame-vg-scfa-393634-vg-scfa50tkbxc-463320567?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA50WTBXC</g:id>
+  <g:gtin>8806092122154</g:gtin>
+  <g:title>Moldura The Frame 50”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa50wtbxc/?cid=pt_pd_ppc_google_moldura-the-frame-50-vg-scfa50wtbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa50wtbxc/gallery/pt-customizable-frame-vg-scfa-393634-vg-scfa50wtbxc-463320582?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA55BWBXC</g:id>
+  <g:gtin>8806092121980</g:gtin>
+  <g:title>Moldura The Frame 55”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55bwbxc/?cid=pt_pd_ppc_google_moldura-the-frame-55-vg-scfa55bwbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa55bwbxc/gallery/pt-customizable-frame-vg-scfa-401296-vg-scfa55bwbxc-486138721?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA55TKBXC</g:id>
+  <g:gtin>8806092121416</g:gtin>
+  <g:title>Moldura The Frame 55”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55tkbxc/?cid=pt_pd_ppc_google_moldura-the-frame-55-vg-scfa55tkbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa55tkbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa55bwbxc-vg-scfa55tkbxc-front--beige-wood-489755612?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA55TRCXC</g:id>
+  <g:gtin>8806092122161</g:gtin>
+  <g:title>Moldura The Frame Biselada 55”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55trcxc/?cid=pt_pd_ppc_google_moldura-the-frame-biselada-55-vg-scfa55trcxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa55trcxc/gallery/pt-customizable-frame-vg-scfa-401796-vg-scfa55trcxc-492419679?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA55WTBXC</g:id>
+  <g:gtin>8806092123342</g:gtin>
+  <g:title>Moldura The Frame 55”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55wtbxc/?cid=pt_pd_ppc_google_moldura-the-frame-55-vg-scfa55wtbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa55wtbxc/gallery/pt-customizable-frame-vg-scfa-401296-vg-scfa55wtbxc-486138770?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA55WTCXC</g:id>
+  <g:gtin>8806092121997</g:gtin>
+  <g:title>Moldura The Frame Biselada 55”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55wtcxc/?cid=pt_pd_ppc_google_moldura-the-frame-biselada-55-vg-scfa55wtcxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>nan</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA65TKBXC</g:id>
+  <g:gtin>8806092122185</g:gtin>
+  <g:title>Moldura The Frame 65”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa65tkbxc/?cid=pt_pd_ppc_google_moldura-the-frame-65-vg-scfa65tkbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa65tkbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa65bwbxc-vg-scfa65tkbxc-front--beige-wood-489264413?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA65TRCXC</g:id>
+  <g:gtin>8806092121430</g:gtin>
+  <g:title>Moldura The Frame Biselada 65”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa65trcxc/?cid=pt_pd_ppc_google_moldura-the-frame-biselada-65-vg-scfa65trcxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa65trcxc/gallery/pt-customizable-frame-vg-scfa-401779-vg-scfa65trcxc-492373643?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA65WTBXC</g:id>
+  <g:gtin>8806092123359</g:gtin>
+  <g:title>Moldura The Frame 65”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa65wtbxc/?cid=pt_pd_ppc_google_moldura-the-frame-65-vg-scfa65wtbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa65wtbxc/gallery/pt-customizable-frame-vg-scfa-401511-vg-scfa65wtbxc-489263943?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA65WTCXC</g:id>
+  <g:gtin>8806092122192</g:gtin>
+  <g:title>Moldura The Frame Biselada 65”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa65wtcxc/?cid=pt_pd_ppc_google_moldura-the-frame-biselada-65-vg-scfa65wtcxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>nan</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA75BWBXC</g:id>
+  <g:gtin>8806092122208</g:gtin>
+  <g:title>Moldura The Frame 75”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa75bwbxc/?cid=pt_pd_ppc_google_moldura-the-frame-75-vg-scfa75bwbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa75bwbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa75bwbxc-vg-scfa75bwbxc-front--brown-489710620?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA75TKBXC</g:id>
+  <g:gtin>8806092122215</g:gtin>
+  <g:title>Moldura The Frame 75”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa75tkbxc/?cid=pt_pd_ppc_google_moldura-the-frame-75-vg-scfa75tkbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa75tkbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa75bwbxc-vg-scfa75tkbxc-front--beige-wood-489710655?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>VG-SCFA75WTBXC</g:id>
+  <g:gtin>8806092123366</g:gtin>
+  <g:title>Moldura The Frame 75”</g:title>
+  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa75wtbxc/?cid=pt_pd_ppc_google_moldura-the-frame-75-vg-scfa75wtbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa75wtbxc/gallery/pt-customizable-frame-vg-scfa-401520-vg-scfa75wtbxc-489323985?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>79.99 EUR</g:price>
+  <g:sale_price>79.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
+  <g:id>WMN4070TT/XC</g:id>
+  <g:gtin>8806090697708</g:gtin>
+  <g:title>Suporte de Parede The Terrace 55”</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/the-terrace-wall-mount-wmn4070tt-xc/?cid=pt_pd_ppc_google_suporte-de-parede-the-terrace-55-wmn4070tt-xc_ongoing_none-none-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/wmn4070tt-xc/gallery/pt-wall-mount-wmn4070tt-wmn4070tt-xc-521927191?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>129.99 EUR</g:price>
+  <g:sale_price>129.99 EUR</g:sale_price>
+  <g:product_type>Produtos | Accessories | TV Accessorios</g:product_type>
+</item>
+<item>
   <g:id>WMN-A50EB/XC</g:id>
   <g:gtin>8806092172883</g:gtin>
   <g:title>Suporte de Parede Slim Fit</g:title>
@@ -4001,7 +4953,7 @@
   <g:title>VCA-VP54T - Sacos de pó</g:title>
   <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/vacuum-cleaners/vca-vp54t-vca-vp54t/?cid=pt_pd_ppc_google_vca-vp54t---sacos-de-po-vca-vp54t_ongoing_da-vacuum-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vca-vp54t/gallery/pt-vca-vp54t---sacos-de-pó-vca-vp54t-526961382?$320_320_PNG$</g:image_link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vca-vp54t/gallery/pt-vca-vp54t---sacos-de-pÃ³-vca-vp54t-526961382?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
@@ -4472,20 +5424,6 @@
   <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
 </item>
 <item>
-  <g:id>SM-S908BDRPEUB</g:id>
-  <g:gtin>8806094210583</g:gtin>
-  <g:title>Galaxy S22 Ultra</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BDRPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bdrpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bdrpeub-530885278?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>1679.90 EUR</g:price>
-  <g:sale_price>1679.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
-</item>
-<item>
   <g:id>SM-S908BLBDEUB</g:id>
   <g:gtin>8806094306927</g:gtin>
   <g:title>Galaxy S22 Ultra (Exclusivo Loja Online)</g:title>
@@ -4584,20 +5522,6 @@
   <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
 </item>
 <item>
-  <g:id>SM-S908BZGPEUB</g:id>
-  <g:gtin>8806094210538</g:gtin>
-  <g:title>Galaxy S22 Ultra</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZGPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzgpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzgpeub-530885442?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>1679.90 EUR</g:price>
-  <g:sale_price>1679.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
-</item>
-<item>
   <g:id>SM-S908BZKDEUB</g:id>
   <g:gtin>8806092879140</g:gtin>
   <g:title>Galaxy S22 Ultra</g:title>
@@ -4637,20 +5561,6 @@
   <g:availability>preorder</g:availability>
   <g:price>1479.90 EUR</g:price>
   <g:sale_price>1479.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
-</item>
-<item>
-  <g:id>SM-S908BZKPEUB</g:id>
-  <g:gtin>8806094210491</g:gtin>
-  <g:title>Galaxy S22 Ultra</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZKPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzkpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzkpeub-530885591?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>1679.90 EUR</g:price>
-  <g:sale_price>1679.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
 </item>
 <item>
@@ -4707,20 +5617,6 @@
   <g:availability>preorder</g:availability>
   <g:price>1279.90 EUR</g:price>
   <g:sale_price>1279.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
-</item>
-<item>
-  <g:id>SM-S908BZWPEUB</g:id>
-  <g:gtin>8806094210453</g:gtin>
-  <g:title>Galaxy S22 Ultra</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZWPEUB&cid=pt_pd_ppc_google_galaxy-s22-ultra-sm-s908bzwpeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-ultra-s908-sm-s908bzwpeub-530885740?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>1679.90 EUR</g:price>
-  <g:sale_price>1679.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy S22 Series 5G</g:product_type>
 </item>
 <item>
@@ -5409,4 +6305,4 @@
   <g:sale_price>769.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | EcoBubble | Produtos | Eletrodomesticos | Maquina de roupa | EcoBubble</g:product_type>
 </item></channel>
-</rss>
+    </rss>

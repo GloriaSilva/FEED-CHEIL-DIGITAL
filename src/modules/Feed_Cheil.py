@@ -46,12 +46,12 @@ class FeedCheil:
         #Google feed maestro path
         self.Google_feed_maestroCSV = f'{self.dictionariesPath}/maestro/GoogleFeed_maestro_{self.platform}_{self.country}.csv'
         # Set result file paths
-        self.setFileNames()
+        self.setFileNames(result_name)
 
 
     def setFileNames(self,result_name):
-        self.csvFile = f"{self.result_name}Feed_{self.country}.csv"
-        self.xmlFile = f"{self.result_name}Feed_{self.country}.xml"
+        self.csvFile = f"{result_name}Feed_{self.country}.csv"
+        self.xmlFile = f"{result_name}Feed_{self.country}.xml"
 
         if defaultPTActive:
             if self.country == 'pt':
@@ -150,6 +150,7 @@ class FeedCheil:
         #Creating the dictionary object which connects the product ID with the final URL obtained after all the redirections
         dictionary = dict(zip(dic['Id'],dic['Link']))
 
+
         #Importing the file with the feed obtained from the function openFileAndScrap
         df = pd.read_csv(self.Google_feed_maestroCSV, encoding='latin')
         #The following rows clear the dataframe from any row which has no ImageLink or Price
@@ -157,6 +158,11 @@ class FeedCheil:
         df.drop(index_to_drop, inplace=True)
         #Associating the final URL with the product ID
         df['Link'] = df['Id'].map(dictionary).fillna(df['Link'])
+
+        #We import the dictionary which allows us to handle HTML entities
+        dictlan_from_csv = pd.read_csv(self.dictionariesPath + '/language/dict_language.csv', header=None, index_col=0).squeeze("columns").to_dict()
+        #We apply the dictionary to all Titles and Descriptions in our feed
+        df['Title'] = df['Title'].replace(dictlan_from_csv, regex=True)
 
         #The following logic aims to generate the field "categories" which classifies each product. This field is used for creating the "cid".
         col  = 'Id'
@@ -188,10 +194,7 @@ class FeedCheil:
         #Finaly, we create a dictionary associating the product ID with the tracking ID we have just assembled
         tracking = dict(zip(df['Id'],df['TrackingId']))
 
-        #We import the dictionary which allows us to handle HTML entities
-        dictlan_from_csv = pd.read_csv(self.dictionariesPath + '/language/dict_language.csv', header=None, index_col=0).squeeze("columns").to_dict()
         #We apply the dictionary to all Titles and Descriptions in our feed
-        df['Title'] = df['Title'].replace(dictlan_from_csv, regex=True)
         df['Description'] = df['Description'].replace(dictlan_from_csv, regex=True).fillna(df['Description'])
         df['Image_Link'] = df['Image_Link'].replace({'ORIGIN_PNG': '320_320_PNG'}, regex=True).fillna(df['Image_Link'])
 
