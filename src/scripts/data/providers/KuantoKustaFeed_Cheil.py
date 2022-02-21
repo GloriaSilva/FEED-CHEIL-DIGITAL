@@ -16,11 +16,8 @@ class KuantoKustaFeedCheil(FeedCheil):
         self.rows = ['EAN', 'Id', 'Title', 'Description', 'Availability', 'Condition', 'Stock', 'Price', 'Sale_Price', 'Shipping_price', 'Size', 'Color', 'Image_Link', 'Product_Type', 'Brand', 'Link']
         self.platform = 'kuantokusta'
 
-        super().__init__(country, self.rows)
-        
-        self.csvFile = f"KuantoKustaFeed_{self.country}.csv"
-        self.xmlFile = f"KuantoKustaFeed_{self.country}.xml"
-    
+        super().__init__(country, self.rows,'KuantoKusta')
+       
     # Open file and scrap
     def openFileAndScrap(self):
         # Open file and scrap

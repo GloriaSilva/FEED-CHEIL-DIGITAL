@@ -20,11 +20,7 @@ class GoogleFeedCheil(FeedCheil):
         self.rows = ['Id', 'Title', 'Description', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
         self.platform = 'google'
 
-        super().__init__(country, self.rows)
-
-        self.csvFile = f'GoogleFeed_{country}.csv'
-        self.xmlFile = f'GoogleFeed_{country}.xml'
-        
+        super().__init__(country, self.rows,'Google')
         
 
     #Open file and fill it with the content scrapped from Samsung Feed.

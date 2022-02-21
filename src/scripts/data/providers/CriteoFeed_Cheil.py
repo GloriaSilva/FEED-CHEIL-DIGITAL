@@ -15,11 +15,8 @@ class CriteoFeedCheil(FeedCheil):
         self.rows = ['Id', 'Title', 'Description', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
         self.platform = 'criteo'
 
-        super().__init__(country, self.rows)
-        
-        self.csvFile = f"CriteoFeed_{self.country}.csv"
-        self.xmlFile = f"CriteoFeed_{self.country}.xml"
-        
+        super().__init__(country, self.rows,'Criteo')
+    
 
     # Open file and scrap
     def openFileAndScrap(self):

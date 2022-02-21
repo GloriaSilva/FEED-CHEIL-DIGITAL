@@ -23,7 +23,8 @@ country = sys.argv[1]
 #We create a dataframe where only product ID and link are stored
 df = pd.DataFrame(columns=['Id', 'Link'])
 file_name = 'Feed_url.csv'
-dict_path = '{}/dictionaries/'.format(project_path)
+dict_path = '{}/src/dictionaries/url/'.format(project_path)
+
 url = f'https://shop.samsung.com/{country}/googleShoppingFeed?{generate_random_int(1000000)}'
 
 try:
@@ -40,16 +41,10 @@ try:
 except:
     print('Not able to reach Samsung Feed')
     sys.exit()
-try:
-    df1 = pd.read_csv(dict_path + dict_path + f'./url_dictionary_{country.upper()}.csv', index_col=False)
-except:
-    df1 = pd.read_csv(dict_path + 'url_dictionary.csv', index_col=False)
 
-dictionary = dict(zip(df1['Id'],df1['Link']))
+
 dict_from_csv = {"https://www.samsung.com/pt/smartphones/galaxy-s20/galaxy-s20-fe/buy/":"https://www.samsung.com/pt/smartphones/galaxy-s20/buy/"}
-
 df.drop(df.query('Id == "HAFIN2/EXP"| Id == "HAFEX/EXP"').index, inplace=True)
-df['Link'] = df['Id'].map(dictionary).fillna(df['Link'])
 
 enlacefinal = []
 for x in df['Link']:
@@ -76,16 +71,20 @@ df.loc[df['Final_Link'].str.contains('[0-9A-Z_]buy/$', regex=True), 'Final_Link'
 
 shit = df.loc[df['Id'].str.startswith('SM-'), 'Final_Link']
 enlacefinal2 = []
-for t in shit:
+for t  in shit:
     session = requests.Session()
-    session.max_redirects = 10000
+    session.max_redirects = 1000
     session.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'
-    r = session.get(t, allow_redirects=True)
-    if r.history:
-        link = r.url
-    else:
-        link = t
-    enlacefinal2.append(link)
+    try:
+        r = session.get(t, allow_redirects=True)
+        if r.history:
+            link = r.url
+        else:
+            link = t
+        enlacefinal2.append(link)
+    except:
+        enlacefinal.append('Error getting the final link')
+
 df.loc[df['Id'].str.startswith('SM-'), 'Final_Link'] = enlacefinal2
 
 df['Final_Link'] = df['Final_Link'].replace(dict_from_csv)

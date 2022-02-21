@@ -15,10 +15,7 @@ class AWINFeedCheil(FeedCheil):
         self.rows = ['Id', 'Title', 'Description', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
         self.platform = 'awin'
 
-        super().__init__(country, self.rows)
-        
-        self.csvFile = f"AWINFeed_{self.country}.csv"
-        self.xmlFile = f"AWINFeed_{self.country}.xml"
+        super().__init__(country, self.rows,'AWIN')
         
 
     # Open file and scrap

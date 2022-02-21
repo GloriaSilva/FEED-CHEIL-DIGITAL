@@ -21,11 +21,12 @@ from Utils import generate_random_int
 
 
 sendErrorActive = False
+defaultPTActive = True
 
 # Class
 class FeedCheil:
     # Constructor
-    def __init__(self, country, rows):
+    def __init__(self, country, rows, result_name):
         # Connect to the database
         self.mydb = create_engine('mysql+pymysql://' + database_info['user'] + ':' + database_info['passw'] + '@' + database_info['host'] + ':' + str(database_info['port']) + '/' + database_info['database'] , echo=False)
 
@@ -42,7 +43,21 @@ class FeedCheil:
         self.country = country
         #Samsung feed URL
         self.url = f'https://shop.samsung.com/{country}/googleShoppingFeed?{generate_random_int(100000)}'
+        #Google feed maestro path
         self.Google_feed_maestroCSV = f'{self.dictionariesPath}/maestro/GoogleFeed_maestro_{self.platform}_{self.country}.csv'
+        # Set result file paths
+        self.setFileNames()
+
+
+    def setFileNames(self,result_name):
+        self.csvFile = f"{self.result_name}Feed_{self.country}.csv"
+        self.xmlFile = f"{self.result_name}Feed_{self.country}.xml"
+
+        if defaultPTActive:
+            if self.country == 'pt':
+                self.csvFile = self.csvFile.replace('_pt','')
+                self.xmlFile = self.xmlFile.replace('_pt','')
+
 
     #Cheil personal "To XML" function
     def to_xml(df, country='pt', filename=None, mode='w'):
@@ -124,6 +139,7 @@ class FeedCheil:
         # Init process
         self.begin_time = datetime.datetime.now()
         print(datetime.datetime.now())
+
         # Open file and Scrap
         self.openFileAndScrap()
         #In case the url_dictionary file specific for any country is not available, the program will get the previous version. it should only work the first time

@@ -15,10 +15,7 @@ class FacebookFeedCheil(FeedCheil):
         self.rows = ['Id', 'Title', 'Description', 'Item_Group_Id', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
         self.platform = 'facebook'
 
-        super().__init__(country, self.rows)
-        
-        self.csvFile = f"FacebookFeed_{self.country}.csv"
-        self.xmlFile = f"FacebookFeed_{self.country}.xml"
+        super().__init__(country, self.rows, "Facebook")
         
 
     # Open file and scrap
