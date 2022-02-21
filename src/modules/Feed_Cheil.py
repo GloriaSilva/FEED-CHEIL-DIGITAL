@@ -18,6 +18,8 @@ from config import project_path, templates_path, result_path, database_info
 import os
 from Utils import generate_random_int
 
+
+
 sendErrorActive = False
 
 # Class
@@ -109,9 +111,6 @@ class FeedCheil:
     def filterXMLid(self,xml_id_tag):
         return xml_id_tag is None or xml_id_tag.text == "" or any([ prefix in xml_id_tag.text for prefix in ['ET-','EF-','HAF-']])
     #The following functions are all developed in the child classes
-    def openFileAndScrap(self):
-        #This function gets the specific Samsung Feed that any platform needs
-        pass
 
     def cleanCSV(self):
         #After getting the feed, the file is cleaned based on business rules.
@@ -214,13 +213,7 @@ class FeedCheil:
         print(df.columns)
         print('Finished')
         
-       
-
-        #Before exporting the XML version we apply new considerations avoiding the XML break
-        df['g:title'] = df['g:title'].str.replace('&','and')
-        df['g:description'] = df['g:description'].str.replace('&','and')
-        #We use the CDATA label for allowing literal strings wihtin the XML witout breaking.
-        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA[ '+ x +']]>')
+        df = self.avoidXMLbreak(df)
 
         #Exporting the final result, the platform Feed, as a csv file
         print(self.csvFile)
@@ -233,3 +226,12 @@ class FeedCheil:
         print("CSV and XML created")
         #Process duration
         print(datetime.datetime.now() - self.begin_time)
+
+    def avoidXMLbreak(self,df):
+        #Before exporting the XML version we apply new considerations avoiding the XML break
+        df['g:title'] = df['g:title'].str.replace('&','and')
+        df['g:description'] = df['g:description'].str.replace('&','and')
+        #We use the CDATA label for allowing literal strings wihtin the XML witout breaking.
+        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA[ '+ x +']]>')
+        
+        return df

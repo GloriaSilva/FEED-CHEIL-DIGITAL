@@ -9,16 +9,16 @@ import csv
 import sys
 from config import project_path
 
-class AWINFeedCheil(FeedCheil):
+class CriteoFeedCheil(FeedCheil):
     def __init__(self,country):
         
         self.rows = ['Id', 'Title', 'Description', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
-        self.platform = 'awin'
+        self.platform = 'criteo'
 
         super().__init__(country, self.rows)
         
-        self.csvFile = f"AWINFeed_{self.country}.csv"
-        self.xmlFile = f"AWINFeed_{self.country}.xml"
+        self.csvFile = f"CriteoFeed_{self.country}.csv"
+        self.xmlFile = f"CriteoFeed_{self.country}.xml"
         
 
     # Open file and scrap
@@ -101,7 +101,7 @@ class AWINFeedCheil(FeedCheil):
 
     # Clean CSV
     def cleanCSV(self, df):
-        df1 = f"{self.templatePath}/AWIN/ES_AWIN_Sheet_Template.xls"
+        df1 = f"{self.templatePath}/Criteo/ES_Criteo_Sheet_Template.xls"
         if os.path.isfile(df1):
             df1 = pd.read_excel(df1)
             if df1.empty == False:
@@ -131,7 +131,7 @@ class AWINFeedCheil(FeedCheil):
                 choices = [ "im-smartphone", 'im-tablet', 'im-wearables', 'im-accessories', 'da-washing', 'da-dishwasher', 'da-accessories',  'da-microwave', 'da-kitchen', 'da-refrigerator', 'da-vacuum', 'vd-television', 'vd-projector', 'vd-audio', 'vd-accessories', 'it-monitor', 'it-memory'  ]
 
                 df1['category'] = np.select(conditions, choices, default='none-none')
-                df1['tracking'] = df1['tracking'].fillna('cid='+self.country+'_pd_social_awin_'+df1['title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none')
+                df1['tracking'] = df1['tracking'].fillna('cid='+self.country+'_pd_social_criteo_'+df1['title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none')
                 df['Description'] = df['Id'].map(descriptions).fillna(df['Description'])
                 df['Title'] = df['Id'].map(titles).fillna(df['Title'])
                 df['Link'] = df['Id'].map(self.tracking_plataforma).fillna(df['Link'])
@@ -152,7 +152,7 @@ class AWINFeedCheil(FeedCheil):
     def setDF(self, df):
         df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
         df = df[['Id', 'Gtin', 'Title', 'Description', 'Link', 'Image_Link', 'Brand', 'Condition', 'Availability', 'Price', 'Sale_Price', 'Product_Type' ]]
-        df = df.rename({'Id' : 'g:id', 'Gtin' : 'g:gtin', 'Title' : 'g:title', 'Description' : 'g:description', 'Link': 'g:link', 'Image_Link' : 'g:image_link', 'Brand' : 'g:brand', 'Condition' : 'g:condition', 'Availability' : 'g:availability', 'Price' : 'g:price', 'Sale_Price' : 'g:sale_price', 'Product_Type' : 'g:product_type'}, axis=1)
+        df = df.rename({'Id' : 'g:id', 'Gtin' : 'g:gtin', 'Title' : 'g:title', 'Description' : 'g:description', 'Link': 'g:link', 'Image_Link' : 'g:image_link', 'Brand' : 'g:brand', 'Condition' : 'g:condition', 'Availability' : 'g:availability', 'Price' : 'g:price', 'Sale_Price' : 'g:sale_price', 'Product_Type' : 'g:google_product_category'}, axis=1)
         df['g:gtin'] = df['g:gtin'].astype('int64', errors='ignore')
         df['g:description'] = df['g:description'].str.replace('"', '', regex=True)
         df['g:title'] = df['g:title'].str.replace('"', '', regex=True)
@@ -164,4 +164,4 @@ class AWINFeedCheil(FeedCheil):
 if __name__ == "__main__":
         country = sys.argv[1]
         # Run process
-        AWINFeedCheil(country).run()
+        CriteoFeedCheil(country).run()
