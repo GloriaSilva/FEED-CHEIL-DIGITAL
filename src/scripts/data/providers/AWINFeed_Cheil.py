@@ -9,16 +9,16 @@ import csv
 import sys
 from config import project_path
 
-class FacebookFeedCheil(FeedCheil):
+class AWINFeedCheil(FeedCheil):
     def __init__(self,country):
         
         self.rows = ['Id', 'Title', 'Description', 'Item_Group_Id', 'Availability', 'Condition', 'Price', 'Sale_Price', 'Image_Link', 'Gtin', 'Product_Type', 'Brand', 'Link']
-        self.platform = 'facebook'
+        self.platform = 'awin'
 
         super().__init__(country, self.rows)
         
-        self.csvFile = f"FacebookFeed_{self.country}.csv"
-        self.xmlFile = f"FacebookFeed_{self.country}.xml"
+        self.csvFile = f"AWINFeed_{self.country}.csv"
+        self.xmlFile = f"AWINFeed_{self.country}.xml"
         
 
     # Open file and scrap
@@ -116,7 +116,7 @@ class FacebookFeedCheil(FeedCheil):
 
     # Clean CSV
     def cleanCSV(self, df):
-        df1 = f"{self.templatePath}/Facebook/ES_Facebook_Sheet_Template.xls"
+        df1 = f"{self.templatePath}/AWIN/ES_AWIN_Sheet_Template.xls"
         if os.path.isfile(df1):
             df1 = pd.read_excel(df1)
             if df1.empty == False:
@@ -146,7 +146,7 @@ class FacebookFeedCheil(FeedCheil):
                 choices = [ "im-smartphone", 'im-tablet', 'im-wearables', 'im-accessories', 'da-washing', 'da-dishwasher', 'da-accessories',  'da-microwave', 'da-kitchen', 'da-refrigerator', 'da-vacuum', 'vd-television', 'vd-projector', 'vd-audio', 'vd-accessories', 'it-monitor', 'it-memory'  ]
 
                 df1['category'] = np.select(conditions, choices, default='none-none')
-                df1['tracking'] = df1['tracking'].fillna('cid='+self.country+'_pd_social_facebook_'+df1['title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none')
+                df1['tracking'] = df1['tracking'].fillna('cid='+self.country+'_pd_social_awin_'+df1['title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none')
                 df['Description'] = df['Id'].map(descriptions).fillna(df['Description'])
                 df['Title'] = df['Id'].map(titles).fillna(df['Title'])
                 df['Link'] = df['Id'].map(self.tracking_plataforma).fillna(df['Link'])
@@ -160,7 +160,7 @@ class FacebookFeedCheil(FeedCheil):
 
     def setLink(self, df, tracking_plataforma):
         tracking_plataforma = self.tracking_plataforma
-        df['Link'] = df['Id'].map(tracking_plataforma).fillna(df['Link']+'?cid=pt_pd_social_facebook_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
+        df['Link'] = df['Id'].map(tracking_plataforma).fillna(df['Link']+f'?cid={self.country}_pd_social_{self.platform}_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
         df['Link'] = df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
         return df
 
@@ -179,4 +179,4 @@ class FacebookFeedCheil(FeedCheil):
 if __name__ == "__main__":
         country = sys.argv[1]
         # Run process
-        FacebookFeedCheil(country).run()
+        AWINFeedCheil(country).run()

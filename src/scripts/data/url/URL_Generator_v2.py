@@ -11,6 +11,8 @@ import requests
 from bs4 import BeautifulSoup
 import datetime
 from config import project_path, database_info
+from Utils import generate_random_int
+
 
 begin_time = datetime.datetime.now()
 print(datetime.datetime.now())
@@ -22,7 +24,7 @@ country = sys.argv[1]
 df = pd.DataFrame(columns=['Id', 'Link'])
 file_name = 'Feed_url.csv'
 dict_path = '{}/dictionaries/'.format(project_path)
-url = f'https://shop.samsung.com/{country}/googleShoppingFeed'
+url = f'https://shop.samsung.com/{country}/googleShoppingFeed?{generate_random_int(1000000)}'
 
 try:
     document = requests.get(url)

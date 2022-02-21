@@ -25,7 +25,7 @@ class GoogleFeedCheil(FeedCheil):
         self.csvFile = f'GoogleFeed_{country}.csv'
         self.xmlFile = f'GoogleFeed_{country}.xml'
         
-        super().__init__(country, self.rows)
+        
 
     #Open file and fill it with the content scrapped from Samsung Feed.
     def openFileAndScrap(self):

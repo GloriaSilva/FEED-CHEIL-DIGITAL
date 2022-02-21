@@ -191,7 +191,7 @@ class FeedCheil:
         df.loc[df['Link'].str.contains('\?modelCode='), 'Link'] = df['Link'].replace({'\?cid': '&cid'}, regex=True).fillna(df['Link'])
 
         #We import another dictionary to replace any symbol with funny characters which could break an URL.
-        inverse_dictlan_from_csv = pd.read_csv(self.dictionariesPath + '/language/inverse_dict_language.csv', header=None, index_col=0, squeeze=True).to_dict()
+        inverse_dictlan_from_csv = pd.read_csv(self.dictionariesPath + '/language/inverse_dict_language.csv', header=None, index_col=0).squeeze("columns").to_dict()
         #We use that dictionary to handle those characters
         df['Link'] = df['Link'].replace(inverse_dictlan_from_csv, regex=True)
         #The function unescape from html module cleans the URLs where some HTML entities could create problems and make the URL break
@@ -220,7 +220,7 @@ class FeedCheil:
         df['g:title'] = df['g:title'].str.replace('&','and')
         df['g:description'] = df['g:description'].str.replace('&','and')
         #We use the CDATA label for allowing literal strings wihtin the XML witout breaking.
-        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA['+ x +']]>')
+        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA[ '+ x +']]>')
 
         #Exporting the final result, the platform Feed, as a csv file
         print(self.csvFile)
