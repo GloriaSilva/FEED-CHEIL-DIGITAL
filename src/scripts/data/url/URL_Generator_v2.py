@@ -83,7 +83,7 @@ for t  in shit:
             link = t
         enlacefinal2.append(link)
     except:
-        enlacefinal.append('Error getting the final link')
+        enlacefinal2.append('Error getting the final link')
 
 df.loc[df['Id'].str.startswith('SM-'), 'Final_Link'] = enlacefinal2
 

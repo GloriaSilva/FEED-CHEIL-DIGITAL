@@ -389,22 +389,6 @@
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
 </item>
 <item>
-  <reference>SM-P615NZAEPHE</reference>
-  <upc_ean>8806090647802</upc_ean>
-  <designation>Galaxy Tab S6 Lite 4G (SM-P615) Cinzento 128 GB</designation>
-  <description>O Galaxy Tab S6 Lite é o seu super companheiro portátil e de confiança para tirar notas. Tem um ecrã grande de 10,4 polegadas num design fino e leve, One UI 2 no sistema operativo Android e uma S Pen incluída e pronta a utilizar. Quer esteja a desenhar, a estudar ou a jogar, este é o tablet perfeito para aproveitar o momento.</description>
-  <product_url><![CDATA[ https://ad.doubleclick.net/ddm/clk/506660574;313927227;k?https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s6-lite-gray-128gb-sm-p615nzaephe/buy/?cid=pt_pd_affiliate_kuantokusta_galaxy-tab-s6-lite-4g-sm-p615-cinzento-128-gb-sm-p615nzaephe_ongoing_im-tablet-automatic-feed_pla_none_none?cid=pt_pd_ppc_kuantokusta_galaxy-tab-s6-lite-4g-sm-p615-sm-p615nzaephe_ongoing_im-tablet-automatic-feed_pla_none_none]]></product_url>
-  <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-p615nzaephe/gallery/pt-galaxy-tab-s6-lite-p615-396465-sm-p615nzaephe-471530520?$320_320_PNG$</image_url>
-  <brand>Samsung</brand>
-  <condition>new</condition>
-  <availability>out of stock</availability>
-  <regular_price>519.90 EUR</regular_price>
-  <current_price>419.90 EUR</current_price>
-  <category>Produtos | Tablets | Galaxy Tab S Series</category>
-  <stock></stock>
-  <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
-</item>
-<item>
   <reference>SM-P610NZAEPHE</reference>
   <upc_ean>8806090647932</upc_ean>
   <designation>Galaxy Tab S6 Lite (Wi-Fi) Cinzento 128 GB</designation>
@@ -877,7 +861,7 @@
   <image_url>https://images.samsung.com/is/image/samsung/pt-front-loading-washer-ww10t534daws1-ww90t534daw-s3-frontwhite-319885682?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>preorder</availability>
+  <availability>in stock</availability>
   <regular_price>724.90 EUR</regular_price>
   <current_price>559.00 EUR</current_price>
   <category>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</category>
@@ -1318,22 +1302,6 @@
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
 </item>
 <item>
-  <reference>SM-G998BZTHEUB</reference>
-  <upc_ean>8806092155008</upc_ean>
-  <designation>Samsung Galaxy S21 Ultra 5G Phantom Titanium 512 GB</designation>
-  <description>Não perca mais tempo e compre já o seu! Envio gratuito e entrega até 3 dias.</description>
-  <product_url><![CDATA[ https://ad.doubleclick.net/ddm/clk/506754886;314045821;m?https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G998BZTHEUB&cid=pt_pd_affiliate_kuantokusta_samsung-galaxy-s21-ultra-5g-sm-g998bztheub_ongoing_im-smartphone-automatic-feed_pla_none_none&cid=pt_pd_ppc_kuantokusta_galaxy-s21-ultra-5g-sm-g998bztheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></product_url>
-  <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-ultra-5g-g988-sm-g998bztheub-368999230?$320_320_PNG$</image_url>
-  <brand>Samsung</brand>
-  <condition>new</condition>
-  <availability>out of stock</availability>
-  <regular_price>1469.90 EUR</regular_price>
-  <current_price>1169.90 EUR</current_price>
-  <category>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</category>
-  <stock></stock>
-  <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
-</item>
-<item>
   <reference>EP-P4300TBEGEU</reference>
   <upc_ean>8806090962905</upc_ean>
   <designation>Carregador sem Fios Duplo Samsung Preto</designation>
@@ -1552,7 +1520,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>399.00 EUR</regular_price>
-  <current_price>229.99 EUR</current_price>
+  <current_price>269.99 EUR</current_price>
   <category>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -1568,7 +1536,7 @@
   <condition>new</condition>
   <availability>out of stock</availability>
   <regular_price>299.00 EUR</regular_price>
-  <current_price>214.99 EUR</current_price>
+  <current_price>254.99 EUR</current_price>
   <category>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -2705,7 +2673,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>279.00 EUR</regular_price>
-  <current_price>199.99 EUR</current_price>
+  <current_price>229.99 EUR</current_price>
   <category>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -3107,22 +3075,6 @@
   <regular_price>699.99 EUR</regular_price>
   <current_price>499.99 EUR</current_price>
   <category>Produtos | TV | PROMO ELEVEN</category>
-  <stock></stock>
-  <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
-</item>
-<item>
-  <reference>SM-T736BZKAEUB</reference>
-  <upc_ean>8806092276093</upc_ean>
-  <designation>Samsung Galaxy Tab S7 FE 5G 12.4’’ Mystic Black 64 GB</designation>
-  <description>Compre já online o Samsung Galaxy Tab S7 FE 5G 12.4’’. Envio gratuito e entrega até 3 dias.</description>
-  <product_url><![CDATA[ https://ad.doubleclick.net/ddm/clk/506660727;313927074;k?https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s7-fe-5g-black-64gb-sm-t736bzkaeub/buy/?cid=pt_pd_affiliate_kuantokusta_samsung-galaxy-tab-s7-fe-5g-12.4-sm-t736bzkaeub_ongoing_im-tablet-automatic-feed_pla_none_none?cid=pt_pd_ppc_kuantokusta_galaxy-tab-s7-fe-5g-sm-t736bzkaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></product_url>
-  <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-t736bzkaeub/gallery/pt-galaxy-tab-s7-fe-5g-t736-sm-t736bzkaeub-453674977?$320_320_PNG$</image_url>
-  <brand>Samsung</brand>
-  <condition>new</condition>
-  <availability>preorder</availability>
-  <regular_price>679.89 EUR</regular_price>
-  <current_price>599.90 EUR</current_price>
-  <category>Produtos | Tablets | Galaxy Tab S Series</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
 </item>
@@ -3825,7 +3777,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>469.00 EUR</regular_price>
-  <current_price>339.99 EUR</current_price>
+  <current_price>399.99 EUR</current_price>
   <category>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -3841,7 +3793,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>599.00 EUR</regular_price>
-  <current_price>429.99 EUR</current_price>
+  <current_price>499.99 EUR</current_price>
   <category>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -3857,7 +3809,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>419.00 EUR</regular_price>
-  <current_price>299.99 EUR</current_price>
+  <current_price>359.99 EUR</current_price>
   <category>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -3889,7 +3841,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>299.00 EUR</regular_price>
-  <current_price>214.99 EUR</current_price>
+  <current_price>254.99 EUR</current_price>
   <category>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -3905,7 +3857,7 @@
   <condition>new</condition>
   <availability>out of stock</availability>
   <regular_price>349.00 EUR</regular_price>
-  <current_price>249.99 EUR</current_price>
+  <current_price>299.99 EUR</current_price>
   <category>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -4849,7 +4801,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>499.00 EUR</regular_price>
-  <current_price>359.99 EUR</current_price>
+  <current_price>424.99 EUR</current_price>
   <category>Produtos | Monitores | Produtos | IT | Monitores</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -4865,7 +4817,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>279.00 EUR</regular_price>
-  <current_price>199.99 EUR</current_price>
+  <current_price>239.99 EUR</current_price>
   <category>Produtos | Monitores | Produtos | IT | Monitores</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -4881,7 +4833,7 @@
   <condition>new</condition>
   <availability>out of stock</availability>
   <regular_price>499.00 EUR</regular_price>
-  <current_price>359.99 EUR</current_price>
+  <current_price>424.99 EUR</current_price>
   <category>Produtos | Monitores | Produtos | IT | Monitores</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -4897,7 +4849,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>319.00 EUR</regular_price>
-  <current_price>229.99 EUR</current_price>
+  <current_price>269.99 EUR</current_price>
   <category>Produtos | Monitores | Produtos | IT | Monitores</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -4913,7 +4865,7 @@
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>449.00 EUR</regular_price>
-  <current_price>324.99 EUR</current_price>
+  <current_price>369.99 EUR</current_price>
   <category>Produtos | Monitores | Produtos | IT | Monitores</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -4975,7 +4927,7 @@
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225fzkgeub/gallery/pt-galaxy-m22-m225-sm-m225fzkgeub-503980921?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>239.90 EUR</regular_price>
   <current_price>209.90 EUR</current_price>
   <category>Produtos | Smartphones | Galaxy M Series</category>

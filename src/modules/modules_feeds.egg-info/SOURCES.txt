@@ -1,0 +1,7 @@
+setup.py
+modules_feeds.egg-info/PKG-INFO
+modules_feeds.egg-info/SOURCES.txt
+modules_feeds.egg-info/dependency_links.txt
+modules_feeds.egg-info/not-zip-safe
+modules_feeds.egg-info/requires.txt
+modules_feeds.egg-info/top_level.txt

@@ -341,20 +341,6 @@
   <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A+++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A+++</g:product_type>
 </item>
 <item>
-  <g:id>SM-P615NZAEPHE</g:id>
-  <g:gtin>8806090647802</g:gtin>
-  <g:title>Galaxy Tab S6 Lite 4G (SM-P615)</g:title>
-  <g:description>O Galaxy Tab S6 Lite é o seu super companheiro portátil e de confiança para tirar notas. Tem um ecrã grande de 10,4 polegadas num design fino e leve, One UI 2 no sistema operativo Android e uma S Pen incluída e pronta a utilizar. Quer esteja a desenhar, a estudar ou a jogar, este é o tablet perfeito para aproveitar o momento.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s6-lite-gray-128gb-sm-p615nzaephe/buy/?cid=pt_pd_ppc_google_galaxy-tab-s6-lite-4g-sm-p615-sm-p615nzaephe_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-p615nzaephe/gallery/pt-galaxy-tab-s6-lite-p615-396465-sm-p615nzaephe-471530520?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>519.90 EUR</g:price>
-  <g:sale_price>419.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
-</item>
-<item>
   <g:id>SM-P610NZAEPHE</g:id>
   <g:gtin>8806090647932</g:gtin>
   <g:title>Galaxy Tab S6 Lite (Wi-Fi)</g:title>
@@ -769,7 +755,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-front-loading-washer-ww10t534daws1-ww90t534daw-s3-frontwhite-319885682?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>724.90 EUR</g:price>
   <g:sale_price>559.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
@@ -1153,20 +1139,6 @@
   <g:product_type>Produtos | Accessories | Carregamento</g:product_type>
 </item>
 <item>
-  <g:id>SM-G998BZTHEUB</g:id>
-  <g:gtin>8806092155008</g:gtin>
-  <g:title>Samsung Galaxy S21 Ultra 5G</g:title>
-  <g:description>Não perca mais tempo e compre já o seu! Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G998BZTHEUB&cid=pt_pd_ppc_google_galaxy-s21-ultra-5g-sm-g998bztheub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-ultra-5g-g988-sm-g998bztheub-368999230?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>1469.90 EUR</g:price>
-  <g:sale_price>1169.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
-</item>
-<item>
   <g:id>EP-P4300TBEGEU</g:id>
   <g:gtin>8806090962905</g:gtin>
   <g:title>Carregador sem Fios Duplo Samsung</g:title>
@@ -1359,7 +1331,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>399.00 EUR</g:price>
-  <g:sale_price>229.99 EUR</g:sale_price>
+  <g:sale_price>269.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
@@ -1373,7 +1345,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>299.00 EUR</g:price>
-  <g:sale_price>214.99 EUR</g:sale_price>
+  <g:sale_price>254.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
@@ -2367,7 +2339,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>279.00 EUR</g:price>
-  <g:sale_price>199.99 EUR</g:sale_price>
+  <g:sale_price>229.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
 </item>
 <item>
@@ -2719,20 +2691,6 @@
   <g:price>699.99 EUR</g:price>
   <g:sale_price>499.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
-</item>
-<item>
-  <g:id>SM-T736BZKAEUB</g:id>
-  <g:gtin>8806092276093</g:gtin>
-  <g:title>Samsung Galaxy Tab S7 FE 5G 12.4’’</g:title>
-  <g:description>Compre já online o Samsung Galaxy Tab S7 FE 5G 12.4’’. Envio gratuito e entrega até 3 dias.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s7-fe-5g-black-64gb-sm-t736bzkaeub/buy/?cid=pt_pd_ppc_google_galaxy-tab-s7-fe-5g-sm-t736bzkaeub_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-t736bzkaeub/gallery/pt-galaxy-tab-s7-fe-5g-t736-sm-t736bzkaeub-453674977?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>679.89 EUR</g:price>
-  <g:sale_price>599.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
   <g:id>SM-T736BZKEEUB</g:id>
@@ -3103,7 +3061,7 @@
   <g:gtin>8806090572227</g:gtin>
   <g:title>SSD 980 PCIe 3.0 NVMe™ M.2</g:title>
   <g:description>Tire maior partido do seu PC com o SSD 980. Quer precise de um boost enquanto joga ou de trabalhar imagens pesadas, o SSD 980 é a escolha certa. </g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/memory-storage/nvme-ssd/980-500gb-nvme-pcie-gen-3-mz-v8v500bw/?cid=pt_pd_ppc_google_980-pcie-3.0-nvme-"e"lt;small-"e"gt;-"e"lt;sup-"e"gt;tm-"e"lt;-sup-"e"gt;--"e"lt;-small-"e"gt;--m.2-ssd-mz-v8v500bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
+  <g:link><![CDATA[ https://www.samsung.com/pt/c/p/MZ-V8V500BW/?cid=pt_pd_ppc_google_980-pcie-3.0-nvme-"e"lt;small-"e"gt;-"e"lt;sup-"e"gt;tm-"e"lt;-sup-"e"gt;--"e"lt;-small-"e"gt;--m.2-ssd-mz-v8v500bw_ongoing_it-memory-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-v8v500bw/gallery/pt-980-nvme-m2-ssd-mz-v8v500bw-407768918?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
@@ -3347,7 +3305,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>469.00 EUR</g:price>
-  <g:sale_price>339.99 EUR</g:sale_price>
+  <g:sale_price>399.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
 </item>
 <item>
@@ -3361,7 +3319,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>599.00 EUR</g:price>
-  <g:sale_price>429.99 EUR</g:sale_price>
+  <g:sale_price>499.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</g:product_type>
 </item>
 <item>
@@ -3375,7 +3333,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>419.00 EUR</g:price>
-  <g:sale_price>299.99 EUR</g:sale_price>
+  <g:sale_price>359.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</g:product_type>
 </item>
 <item>
@@ -3403,7 +3361,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>299.00 EUR</g:price>
-  <g:sale_price>214.99 EUR</g:sale_price>
+  <g:sale_price>254.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Smart Monitors | Produtos | IT | Monitores | Smart Monitors</g:product_type>
 </item>
 <item>
@@ -3417,7 +3375,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>349.00 EUR</g:price>
-  <g:sale_price>249.99 EUR</g:sale_price>
+  <g:sale_price>299.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Monitores Gaming | Produtos | IT | Monitores | Monitores Gaming</g:product_type>
 </item>
 <item>
@@ -4243,7 +4201,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>499.00 EUR</g:price>
-  <g:sale_price>359.99 EUR</g:sale_price>
+  <g:sale_price>424.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
 </item>
 <item>
@@ -4257,7 +4215,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>279.00 EUR</g:price>
-  <g:sale_price>199.99 EUR</g:sale_price>
+  <g:sale_price>239.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
 </item>
 <item>
@@ -4271,7 +4229,7 @@
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>499.00 EUR</g:price>
-  <g:sale_price>359.99 EUR</g:sale_price>
+  <g:sale_price>424.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
 </item>
 <item>
@@ -4285,7 +4243,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>319.00 EUR</g:price>
-  <g:sale_price>229.99 EUR</g:sale_price>
+  <g:sale_price>269.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
 </item>
 <item>
@@ -4299,7 +4257,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>449.00 EUR</g:price>
-  <g:sale_price>324.99 EUR</g:sale_price>
+  <g:sale_price>369.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
 </item>
 <item>
@@ -4353,7 +4311,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225fzkgeub/gallery/pt-galaxy-m22-m225-sm-m225fzkgeub-503980921?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>239.90 EUR</g:price>
   <g:sale_price>209.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
