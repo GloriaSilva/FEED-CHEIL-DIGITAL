@@ -8,3 +8,5 @@ python3 -m virtualenv feeds-cheil-venv
 source feeds-cheil-venv/bin/activate
 
 pip install -r setup/requirements.txt
+
+source .env
