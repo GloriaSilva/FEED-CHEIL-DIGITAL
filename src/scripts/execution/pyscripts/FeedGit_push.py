@@ -5,6 +5,7 @@ if __name__ == '__main__':
 
     try:
         git = GitOperations()
+        git.checkout()
         git.pull()
     except:
         print('Unable/errors pulling from git')

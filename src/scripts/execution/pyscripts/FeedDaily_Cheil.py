@@ -3,7 +3,6 @@ import os
 from config import project_path, result_path
 import sys
 import argparse
-from Git_utils import GitOperations
 import subprocess
 
 base_feed_path = f'{project_path}/src/scripts/data'
@@ -14,8 +13,6 @@ def get_args():
     parser = argparse.ArgumentParser(description='Daily Cheil feed generation')
     parser.add_argument('country', type=str,
                     help='String with the code for a country')
-    parser.add_argument('--push', action='store_true',
-                    help='Flag to push to git repository')
 
     return parser.parse_args()
 
@@ -23,13 +20,6 @@ def get_args():
 if __name__ == '__main__':
 
     args = get_args()
-
-    if args.push:
-        try:
-            git = GitOperations()
-            git.pull()
-        except:
-            print('Unable/errors pulling from git')
 
     begin_time = datetime.datetime.now()
     print(datetime.datetime.now())
@@ -42,12 +32,6 @@ if __name__ == '__main__':
         subprocess.run(['python3', f'{base_feed_path}/providers/{provider}Feed_Cheil.py', args.country])
    
     print(datetime.datetime.now() - begin_time)
+    print()
     
-    if args.push:
-        try:
-            git.add([result_path,f'{project_path}/src/dictionaries'])
-            git.commit_and_push()
-        except:
-            print('Unable/errors pushing to git')
-        
 
