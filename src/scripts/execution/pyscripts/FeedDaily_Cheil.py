@@ -32,6 +32,6 @@ if __name__ == '__main__':
         subprocess.run(['python3', f'{base_feed_path}/providers/{provider}Feed_Cheil.py', args.country])
    
     print(datetime.datetime.now() - begin_time)
-    print()
+
     
 
