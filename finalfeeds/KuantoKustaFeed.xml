@@ -253,7 +253,7 @@
   <image_url>https://images.samsung.com/is/image/samsung/pt-dishwasher-dw60m6040fw-dw60m6040fw-ec-frontwhite-70664897?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>639.90 EUR</regular_price>
   <current_price>529.00 EUR</current_price>
   <category>Produtos | Maquina de loica | Eficiencia Energetica A++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A++</category>
@@ -555,7 +555,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <designation>NZ64M3707AK Placa de indução, 4 zonas</designation>
   <description>O Controlo Tátil Deslizante extremamente amplo e intuitivo da placa permite um controlo rápido e preciso das temperaturas de cozedura. Pode simplesmente tocar e deslizar o dedo através do painel de controlo LED para, com um simples movimento, configurar ou ajustar instantaneamente o nível de calor para cada zona em utilização. 
 </description>
-  <product_url><![CDATA[ https://shop.samsung.com/pt/Products/Home-Appliances/Encastre/NZ64M3707AK-Placa-de-indu%C3%A7%C3%A3o%2C-4-zonas/p/NZ64M3707AK/UR?cid=pt_pd_ppc_kuantokusta_nz64m3707ak-placa-de-inducao,-4-zonas-nz64m3707ak-ur_ongoing_da-kitchen-automatic-feed_pla_none_none]]></product_url>
+  <product_url><![CDATA[ https://www.samsung.com/pt/cooking-appliances/hobs/induction-hob-with-4-burners-nz64m3707ak-ur/?cid=pt_pd_ppc_kuantokusta_nz64m3707ak-placa-de-inducao,-4-zonas-nz64m3707ak-ur_ongoing_da-kitchen-automatic-feed_pla_none_none]]></product_url>
   <image_url>https://images.samsung.com/is/image/samsung/pt-nz64m3707ak--nz64m3707ak-ur-frontblack-227264882?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
@@ -1328,7 +1328,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/ep-ta800nbegeu/gallery/pt-wall-charger-for-super-fast-charging-25w-368677-ep-ta800nbegeu-363361609?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>out of stock</availability>
+  <availability>in stock</availability>
   <regular_price>19.90 EUR</regular_price>
   <current_price>19.90 EUR</current_price>
   <category>Produtos | Accessories | Acessorios Mobile</category>
@@ -1392,7 +1392,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/ep-p6300tbegeu/gallery/pt-wireless-charger-trio-ep-p6300tbegeu-363378174?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>99.90 EUR</regular_price>
   <current_price>99.90 EUR</current_price>
   <category>Produtos | Accessories | Carregamento</category>
@@ -1779,6 +1779,22 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <availability>in stock</availability>
   <regular_price>5999.99 EUR</regular_price>
   <current_price>3999.00 EUR</current_price>
+  <category>Produtos | TV | PROMO ELEVEN</category>
+  <stock></stock>
+  <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
+</item>
+<item>
+  <reference>QE85QN800ATXXC</reference>
+  <upc_ean>8806092020436</upc_ean>
+  <designation>QN800A Smart 8K NEO QLED TV 2021</designation>
+  <description>nan</description>
+  <product_url><![CDATA[ https://www.samsung.com/pt/tvs/qled-tv/qn800a-85-inch-neo-qled-8k-smart-tv-qe85qn800atxxc/?cid=pt_pd_ppc_kuantokusta_qn800a-smart-8k-neo-qled-tv-2021-qe85qn800atxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></product_url>
+  <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/qe85qn800atxxc/gallery/pt-qled-tv-qe85qn800atxxc-front-silver-457250653?$320_320_PNG$</image_url>
+  <brand>Samsung</brand>
+  <condition>new</condition>
+  <availability>in stock</availability>
+  <regular_price>7499.99 EUR</regular_price>
+  <current_price>5999.00 EUR</current_price>
   <category>Produtos | TV | PROMO ELEVEN</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -2305,7 +2321,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/dv90t5240an-s3/gallery/pt-dryer-dv90t5240aws3-381920-dv90t5240an-s3-412768758?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>out of stock</availability>
+  <availability>in stock</availability>
   <regular_price>999.90 EUR</regular_price>
   <current_price>799.00 EUR</current_price>
   <category>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</category>
@@ -3409,7 +3425,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77e500b-eu/gallery/pt-870-evo-sata-3-2-5-ssd-mz-77e500b-eu-407733943?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>out of stock</availability>
+  <availability>in stock</availability>
   <regular_price>69.81 EUR</regular_price>
   <current_price>69.81 EUR</current_price>
   <category>Produtos | IT | Armazenamento</category>
@@ -3425,7 +3441,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77q4t0bw/gallery/pt-870-qvo-sata-3-2-5-ssd-mz-77q4t0bw-420337658?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>out of stock</availability>
+  <availability>in stock</availability>
   <regular_price>355.64 EUR</regular_price>
   <current_price>355.64 EUR</current_price>
   <category>Produtos | IT | Armazenamento</category>
@@ -3537,7 +3553,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77e1t0b-eu/gallery/pt-870-evo-sata-3-2-5-ssd-mz-77e1t0b-eu-407733823?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>out of stock</availability>
+  <availability>in stock</availability>
   <regular_price>127.24 EUR</regular_price>
   <current_price>127.24 EUR</current_price>
   <category>Produtos | IT | Armazenamento</category>
@@ -3555,7 +3571,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>1249.99 EUR</regular_price>
-  <current_price>1249.99 EUR</current_price>
+  <current_price>999.99 EUR</current_price>
   <category>Produtos | TV | The Frame | Produtos | TV | Lifestyle TV | The Frame</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -3585,7 +3601,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77q1t0bw/gallery/pt-870-qvo-sata-3-2-5-ssd-mz-77q1t0bw-420337620?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>out of stock</availability>
+  <availability>in stock</availability>
   <regular_price>101.27 EUR</regular_price>
   <current_price>101.27 EUR</current_price>
   <category>Produtos | IT | Armazenamento</category>
@@ -3697,7 +3713,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/pt-portable-ssd-t7-touch-mu-pc1t0k-ww-frontblack-211484064?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>out of stock</availability>
+  <availability>in stock</availability>
   <regular_price>143.77 EUR</regular_price>
   <current_price>143.77 EUR</current_price>
   <category>Produtos | IT | Armazenamento</category>
@@ -3763,7 +3779,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <condition>new</condition>
   <availability>in stock</availability>
   <regular_price>1999.99 EUR</regular_price>
-  <current_price>1299.00 EUR</current_price>
+  <current_price>1299.99 EUR</current_price>
   <category>Produtos | TV | PROMO ELEVEN</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
@@ -3857,7 +3873,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-t225nzaaeub/gallery/pt-galaxy-a7-lite-t225-sm-t225nzaaeub-453598711?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>209.90 EUR</regular_price>
   <current_price>149.90 EUR</current_price>
   <category>Produtos | Tablets | Galaxy A Series</category>
@@ -3969,7 +3985,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/ls27a600nwuxen/gallery/pt-s60a-27quot-ls27a600nwuxen-458852541?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>379.00 EUR</regular_price>
   <current_price>379.00 EUR</current_price>
   <category>Produtos | Monitores | Monitores Profissionais | Produtos | IT | Monitores | Monitores Profissionais</category>
@@ -4737,7 +4753,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m325fzwgeub/gallery/pt-galaxy-m32-m325-sm-m325fzwgeub-460149843?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>289.90 EUR</regular_price>
   <current_price>239.90 EUR</current_price>
   <category>Produtos | Smartphones | Galaxy M Series</category>
@@ -4929,7 +4945,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-t733nzseeub/gallery/pt-galaxy-tab-s7-fe-t730-390533-sm-t733nzseeub-507194137?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>659.90 EUR</regular_price>
   <current_price>579.90 EUR</current_price>
   <category>Produtos | Tablets | Galaxy Tab S Series</category>
@@ -4945,7 +4961,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/lc24rg52fqrxen/gallery/pt-c24rg5-lc24rg52fqrxen-492429037?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>out of stock</availability>
   <regular_price>nan</regular_price>
   <current_price>nan</current_price>
   <category>Produtos | Monitores | Produtos | IT | Monitores</category>
@@ -7359,7 +7375,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <upc_ean>8806092211100</upc_ean>
   <designation>BRB26602EWW Combinado de Encastre 267L, E</designation>
   <description> eamp;lt;spam eamp;gt;</description>
-  <product_url><![CDATA[ https://shop.samsung.com/pt/Products/Refrigerators/Frigor%C3%ADficos-Combinados/BRB26602EWW-Combinado-de-Encastre-267L%2C-E/p/BRB26602EWW/EF?cid=pt_pd_ppc_kuantokusta_brb26602eww-combinado-de-encastre-267l,-e-brb26602eww-ef_ongoing_none-none-automatic-feed_pla_none_none]]></product_url>
+  <product_url><![CDATA[ https://www.samsung.com/pt/refrigerators/built-in-bottom-mount-freezer/brb6000-all-around-cooling-267l-white-brb26602eww-ef/?cid=pt_pd_ppc_kuantokusta_brb26602eww-combinado-de-encastre-267l,-e-brb26602eww-ef_ongoing_none-none-automatic-feed_pla_none_none]]></product_url>
   <image_url>https://images.samsung.com/is/image/samsung/p6pim/pt/brb26602eww-ef/gallery/pt-brb6000-all-around-cooling-brb26602eww-ef-448564475?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
