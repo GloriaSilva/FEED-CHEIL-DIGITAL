@@ -24,8 +24,11 @@ if __name__ == '__main__':
     args = get_args()
 
     if args.push:
-        git = GitOperations()
-        git.pull()
+        try:
+            git = GitOperations()
+            git.pull()
+        except:
+            print('Unable/errors pulling from git')
 
     begin_time = datetime.datetime.now()
     print(datetime.datetime.now())
@@ -40,6 +43,10 @@ if __name__ == '__main__':
     print(datetime.datetime.now() - begin_time)
     
     if args.push:
-        git.commit_and_push()
+        try:
+            git.add([result_path,f'{project_path}/src/dictionaries'])
+            git.commit_and_push()
+        except:
+            print('Unable/errors pushing to git')
         
 
