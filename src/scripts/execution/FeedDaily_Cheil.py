@@ -1,9 +1,9 @@
 import datetime
 import os
 from config import project_path, result_path
-import subprocess
 import sys
 import argparse
+from Git_utils import GitOperations
 
 base_feed_path = f'{project_path}/src/scripts/data'
 providers = ['Facebook','Criteo', 'Google', 'AWIN', 'KuantoKusta']
@@ -23,6 +23,10 @@ if __name__ == '__main__':
 
     args = get_args()
 
+    if args.push:
+        git = GitOperations()
+        git.pull()
+
     begin_time = datetime.datetime.now()
     print(datetime.datetime.now())
    
@@ -36,10 +40,6 @@ if __name__ == '__main__':
     print(datetime.datetime.now() - begin_time)
     
     if args.push:
-        print("Adding to git commit")
-        subprocess.run(['git','add', result_path, f'{project_path}/src/dictionaries'])
-        print("Commiting to git repository")
-        subprocess.run(['git', 'commit', '-m', 'update: new feed daily Cheil execution'])
-        print("Pushing to git repository")
-        subprocess.run(['git', 'push', 'origin', 'main'])
+        git.commit_and_push()
+        
 
