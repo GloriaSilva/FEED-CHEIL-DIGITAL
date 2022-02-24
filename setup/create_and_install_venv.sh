@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # To be executed at root project
 # Install venv
