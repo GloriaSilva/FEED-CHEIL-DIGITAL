@@ -1,9 +1,8 @@
 from config import git_branch
-from config import project_path
 import subprocess
 
 class GitOperations(object):
-    def __init__(self):
+    def __init__(self, project_path):
         self.git_branch = git_branch
         self.path_command = ["-C",project_path]
         print(self.path_command)

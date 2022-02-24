@@ -3,8 +3,9 @@ from config import project_path, result_path
 
 if __name__ == '__main__':
 
+    git = GitOperations(project_path)
+
     try:
-        git = GitOperations()
         git.checkout()
         git.pull()
     except:
