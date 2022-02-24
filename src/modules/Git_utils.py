@@ -6,6 +6,7 @@ class GitOperations(object):
     def __init__(self):
         self.git_branch = git_branch
         self.path_command = ["-C",project_path]
+        print(self.path_command)
         # self.version = version
     
     def checkout(self):
