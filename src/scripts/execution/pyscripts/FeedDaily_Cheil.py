@@ -4,6 +4,7 @@ from config import project_path, result_path
 import sys
 import argparse
 from Git_utils import GitOperations
+import subprocess
 
 base_feed_path = f'{project_path}/src/scripts/data'
 providers = ['Facebook','Criteo', 'Google', 'AWIN', 'KuantoKusta']
