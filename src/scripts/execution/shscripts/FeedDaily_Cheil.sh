@@ -9,6 +9,6 @@ source feeds-cheil-venv/bin/activate
 source .env
 
 # Execute python process
-python3 src/scripts/execution/pyscripts/FeedDaily_Cheil.py $2 
+python3 src/scripts/execution/pyscripts/FeedDaily_Cheil.py $2 --push
 
 
