@@ -97,7 +97,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-refrigerator--bottom-freezer-rl4363fbasl-ef-frontsilver-61445848?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>1199.90 EUR</g:price>
   <g:sale_price>999.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:google_product_category>
@@ -223,7 +223,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-dishwasher-dw60m6040fw-dw60m6040fw-ec-frontwhite-70664897?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>639.90 EUR</g:price>
   <g:sale_price>529.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Maquina de loica | Eficiencia Energetica A++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A++</g:google_product_category>
@@ -420,7 +420,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-p610nzaephe/gallery/pt-galaxy-tab-s6-lite-p610-396398-sm-p610nzaephe-471439057?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>439.90 EUR</g:price>
   <g:sale_price>379.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series</g:google_product_category>
@@ -785,7 +785,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww80ta046ax-ep/gallery/pt-front-loading-washer-ww80ta046aeef-351213-ww80ta046ax-ep-333111648?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>699.89 EUR</g:price>
   <g:sale_price>539.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:google_product_category>
@@ -813,7 +813,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww80t4040ee-ep/gallery/pt-front-loading-washer-ww70t4020cheo-351208-ww80t4040ee-ep-333111674?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>529.90 EUR</g:price>
   <g:sale_price>359.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:google_product_category>
@@ -912,7 +912,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ww80t554dtw-s3/gallery/pt-front-loading-washer-ww10t554daws1-359541-ww80t554dtw-s3-333189487?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>699.89 EUR</g:price>
   <g:sale_price>459.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:google_product_category>
@@ -968,7 +968,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/wd90t734dbh-s3/gallery/pt-combo-wd10t734dbhs7-wd90t734dbh-s3-337284650?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>1144.90 EUR</g:price>
   <g:sale_price>859.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:google_product_category>
@@ -998,7 +998,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>249.99 EUR</g:price>
-  <g:sale_price>249.99 EUR</g:sale_price>
+  <g:sale_price>229.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | UHD TV</g:google_product_category>
 </item>
 <item>
@@ -1108,7 +1108,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-smarttag-ei-t5300-ei-t5300bbegeu-363377781?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>29.90 EUR</g:price>
   <g:sale_price>29.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Accessories | Galaxy SmartTag | Produtos | Accessories | Acessorios Mobile | Galaxy SmartTag</g:google_product_category>
@@ -1164,7 +1164,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ep-ta800nbegeu/gallery/pt-wall-charger-for-super-fast-charging-25w-368677-ep-ta800nbegeu-363361609?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>19.90 EUR</g:price>
   <g:sale_price>19.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Accessories | Acessorios Mobile</g:google_product_category>
@@ -1318,7 +1318,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vc07k41e0vl-ep/gallery/pt-vc4100k-canister-with-more-consistent-suction-without-tangles-vc07k41e0vl-ep-396625326?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>139.90 EUR</g:price>
   <g:sale_price>129.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Aspirador | Aspirador sem saco | Produtos | Eletrodomesticos | Aspirador | Aspirador sem saco</g:google_product_category>
@@ -1474,7 +1474,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>3599.99 EUR</g:price>
-  <g:sale_price>2799.00 EUR</g:sale_price>
+  <g:sale_price>2599.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -1486,7 +1486,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe85qn85aatxxc/gallery/pt-qled-tv-qe85qn85aatxxc-front-silver-457274994?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>4799.99 EUR</g:price>
   <g:sale_price>3799.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
@@ -1502,7 +1502,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>3999.98 EUR</g:price>
-  <g:sale_price>2499.00 EUR</g:sale_price>
+  <g:sale_price>2599.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -1654,7 +1654,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rb34t672dww-ef/gallery/pt-rb7300t-375523-rb34t672dww-ef-387266668?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>769.89 EUR</g:price>
   <g:sale_price>599.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:google_product_category>
@@ -2245,14 +2245,14 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>949.99 EUR</g:price>
-  <g:sale_price>599.99 EUR</g:sale_price>
+  <g:sale_price>649.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | QLED TV</g:google_product_category>
 </item>
 <item>
   <g:id>QE55Q60AAUXXC</g:id>
   <g:gtin>8806090985553</g:gtin>
   <g:title>Q60A Smart 4K QLED TV 2021</g:title>
-  <g:description>nan</g:description>
+  <g:description>Entre mais rapidamente no jogo graças ao ALLM, que otimiza o seu ecrã para que possa ter maior controlo com um input lag quase impercetível. Uma experi ência de jogo fluida e impressionante, sem desfoque de movimento ou trepidação.</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/tvs/qled-tv/q60a-55-inch-qled-4k-smart-tv-qe55q60aauxxc/?cid=pt_pd_social_criteo_q60a-smart-4k-qled-tv-2021-qe55q60aauxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/qe55q60aauxxc/gallery/pt-qled-tv-qe55q60aauxxc-front-black-457268783?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -2287,7 +2287,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1249.99 EUR</g:price>
-  <g:sale_price>849.99 EUR</g:sale_price>
+  <g:sale_price>899.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -2299,7 +2299,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/rs6ha8891sl-ef/gallery/pt-rs8000nc--h-386414-rs6ha8891sl-ef-431811767?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>2699.90 EUR</g:price>
   <g:sale_price>1999.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:google_product_category>
@@ -2467,7 +2467,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue43tu7025kxxc/gallery/pt-uhd-tu7020-ue43tu7025kxxc-426320778?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>450.00 EUR</g:price>
   <g:sale_price>379.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | Crystal UHD</g:google_product_category>
@@ -2497,7 +2497,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>749.99 EUR</g:price>
-  <g:sale_price>549.99 EUR</g:sale_price>
+  <g:sale_price>599.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | QLED TV</g:google_product_category>
 </item>
 <item>
@@ -2525,7 +2525,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1399.99 EUR</g:price>
-  <g:sale_price>849.99 EUR</g:sale_price>
+  <g:sale_price>899.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -2581,7 +2581,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1099.99 EUR</g:price>
-  <g:sale_price>899.99 EUR</g:sale_price>
+  <g:sale_price>849.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -2595,7 +2595,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>529.99 EUR</g:price>
-  <g:sale_price>439.99 EUR</g:sale_price>
+  <g:sale_price>429.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | Crystal UHD</g:google_product_category>
 </item>
 <item>
@@ -2665,7 +2665,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1499.98 EUR</g:price>
-  <g:sale_price>1299.99 EUR</g:sale_price>
+  <g:sale_price>1199.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | Soundbars</g:google_product_category>
 </item>
 <item>
@@ -2707,7 +2707,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>799.99 EUR</g:price>
-  <g:sale_price>649.99 EUR</g:sale_price>
+  <g:sale_price>599.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | Soundbars</g:google_product_category>
 </item>
 <item>
@@ -2763,7 +2763,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>500.00 EUR</g:price>
-  <g:sale_price>399.99 EUR</g:sale_price>
+  <g:sale_price>429.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | UHD TV</g:google_product_category>
 </item>
 <item>
@@ -2777,7 +2777,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>749.99 EUR</g:price>
-  <g:sale_price>549.99 EUR</g:sale_price>
+  <g:sale_price>599.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -2791,7 +2791,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>599.99 EUR</g:price>
-  <g:sale_price>439.99 EUR</g:sale_price>
+  <g:sale_price>449.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | UHD TV</g:google_product_category>
 </item>
 <item>
@@ -2805,7 +2805,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>899.99 EUR</g:price>
-  <g:sale_price>699.99 EUR</g:sale_price>
+  <g:sale_price>679.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -2833,7 +2833,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>699.99 EUR</g:price>
-  <g:sale_price>499.99 EUR</g:sale_price>
+  <g:sale_price>519.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
 </item>
 <item>
@@ -2931,7 +2931,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>599.99 EUR</g:price>
-  <g:sale_price>439.99 EUR</g:sale_price>
+  <g:sale_price>449.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | Crystal UHD</g:google_product_category>
 </item>
 <item>
@@ -2999,7 +2999,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77e500b-eu/gallery/pt-870-evo-sata-3-2-5-ssd-mz-77e500b-eu-407733943?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>69.81 EUR</g:price>
   <g:sale_price>69.81 EUR</g:sale_price>
   <g:google_product_category>Produtos | IT | Armazenamento</g:google_product_category>
@@ -3139,7 +3139,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sp-lsp9tfaxxc/gallery/pt-the-premiere-lsp9t-sp-lsp9tfaxxc-419035785?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>7999.99 EUR</g:price>
   <g:sale_price>7999.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | PROMO ELEVEN</g:google_product_category>
@@ -3391,7 +3391,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-t225nzaaeub/gallery/pt-galaxy-a7-lite-t225-sm-t225nzaaeub-453598711?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>209.90 EUR</g:price>
   <g:sale_price>149.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy A Series</g:google_product_category>
@@ -3853,7 +3853,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-watch4-sm-r870nzkaphe-481872514?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>302.26 EUR</g:price>
   <g:sale_price>249.90 EUR</g:sale_price>
   <g:google_product_category>nan</g:google_product_category>
@@ -4161,7 +4161,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m325fzwgeub/gallery/pt-galaxy-m32-m325-sm-m325fzwgeub-460149843?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>289.90 EUR</g:price>
   <g:sale_price>239.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Smartphones | Galaxy M Series</g:google_product_category>
@@ -4335,20 +4335,6 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series</g:google_product_category>
 </item>
 <item>
-  <g:id>LC24RG52FQRXEN</g:id>
-  <g:gtin>8806092005365</g:gtin>
-  <g:title>Monitor Gaming curvo 24” com taxa de atualização 144Hz C24RG52</g:title>
-  <g:description> </g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/monitors/gaming/odyssey-crg5-24-inch-144hz-freesync-curved-lc24rg52fqrxen/?cid=pt_pd_social_criteo_monitor-gaming-curvo-24-com-taxa-de-atualizacao-144hz-c24rg52-lc24rg52fqrxen_ongoing_it-monitor-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/lc24rg52fqrxen/gallery/pt-c24rg5-lc24rg52fqrxen-492429037?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>nan</g:price>
-  <g:sale_price>nan</g:sale_price>
-  <g:google_product_category>Produtos | Monitores | Produtos | IT | Monitores</g:google_product_category>
-</item>
-<item>
   <g:id>LS27AG500NUXEN</g:id>
   <g:gtin>8806092252110</g:gtin>
   <g:title>Monitor Gaming QHD 27” Odyssey G5 165hz</g:title>
@@ -4447,20 +4433,6 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:google_product_category>Produtos | Smartphones | Galaxy A Series</g:google_product_category>
 </item>
 <item>
-  <g:id>SM-A127FZKVEUB</g:id>
-  <g:gtin>8806092684225</g:gtin>
-  <g:title>Galaxy A12 (A127)</g:title>
-  <g:description>Aumente o seu campo de visão com o ecrã Infinity-V de 6,5 polegadas do Galaxy A12 e descubra tudo o que tem estado a perder. Graças  à tecnologia HD+, pode ver os conteúdos que mais gosta de uma forma mais nítida, definida e clara.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a12-nacho-black-64gb-sm-a127fzkveub/buy/?cid=pt_pd_social_criteo_galaxy-a12-a127-sm-a127fzkveub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a127fzkveub/gallery/pt-galaxy-a12-a127-sm-a127fzkveub-479600435?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
-  <g:price>199.90 EUR</g:price>
-  <g:sale_price>154.90 EUR</g:sale_price>
-  <g:google_product_category>Produtos | Smartphones | Galaxy A Series</g:google_product_category>
-</item>
-<item>
   <g:id>SM-M225FLBGEUB</g:id>
   <g:gtin>8806092673533</g:gtin>
   <g:title>Galaxy M22</g:title>
@@ -4469,7 +4441,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225flbgeub/gallery/pt-galaxy-m22-m225-sm-m225flbgeub-503980897?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>239.90 EUR</g:price>
   <g:sale_price>209.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Smartphones | Galaxy M Series</g:google_product_category>
@@ -4667,7 +4639,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-f711blvbeub/gallery/pt-galaxy-z-flip3-f711-5g-404772-sm-f711blvbeub-515530077?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1099.90 EUR</g:price>
   <g:sale_price>949.90 EUR</g:sale_price>
   <g:google_product_category>nan</g:google_product_category>
@@ -4746,7 +4718,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>VG-SCFA43BWBXC</g:id>
   <g:gtin>8806092119208</g:gtin>
   <g:title>Moldura The Frame 43”</g:title>
-  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43bwbxc/?cid=pt_pd_social_criteo_moldura-the-frame-43-vg-scfa43bwbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa43bwbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa43bwbxc-420445903?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -4760,7 +4732,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>VG-SCFA43TKBXC</g:id>
   <g:gtin>8806092120600</g:gtin>
   <g:title>Moldura The Frame 43”</g:title>
-  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43tkbxc/?cid=pt_pd_social_criteo_moldura-the-frame-43-vg-scfa43tkbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa43tkbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa43wtbxc-vg-scfa43tkbxc-front--beige-wood-488776847?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -4774,7 +4746,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>VG-SCFA43WTBXC</g:id>
   <g:gtin>8806092123298</g:gtin>
   <g:title>Moldura The Frame 43”</g:title>
-  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43wtbxc/?cid=pt_pd_social_criteo_moldura-the-frame-43-vg-scfa43wtbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa43wtbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa43wtbxc-vg-scfa43wtbxc-front--white-488777156?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -4830,7 +4802,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>VG-SCFA55BWBXC</g:id>
   <g:gtin>8806092121980</g:gtin>
   <g:title>Moldura The Frame 55”</g:title>
-  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55bwbxc/?cid=pt_pd_social_criteo_moldura-the-frame-55-vg-scfa55bwbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa55bwbxc/gallery/pt-customizable-frame-vg-scfa-401296-vg-scfa55bwbxc-486138721?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -4844,7 +4816,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>VG-SCFA55TKBXC</g:id>
   <g:gtin>8806092121416</g:gtin>
   <g:title>Moldura The Frame 55”</g:title>
-  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55tkbxc/?cid=pt_pd_social_criteo_moldura-the-frame-55-vg-scfa55tkbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa55tkbxc/gallery/pt-customizable-frame-vg-scfa-vg-scfa55bwbxc-vg-scfa55tkbxc-front--beige-wood-489755612?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -4872,7 +4844,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>VG-SCFA55WTBXC</g:id>
   <g:gtin>8806092123342</g:gtin>
   <g:title>Moldura The Frame 55”</g:title>
-  <g:description>A The Frame permite-lhe criar um estilo  à sua maneira, através das diferentes opções de cor e estilos de moldura.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55wtbxc/?cid=pt_pd_social_criteo_moldura-the-frame-55-vg-scfa55wtbxc_ongoing_vd-accessories-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa55wtbxc/gallery/pt-customizable-frame-vg-scfa-401296-vg-scfa55wtbxc-486138770?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -5187,7 +5159,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>2499.99 EUR</g:price>
-  <g:sale_price>1499.00 EUR</g:sale_price>
+  <g:sale_price>1599.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | Neo QLED</g:google_product_category>
 </item>
 <item>
@@ -5201,7 +5173,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>3499.99 EUR</g:price>
-  <g:sale_price>1899.00 EUR</g:sale_price>
+  <g:sale_price>1999.00 EUR</g:sale_price>
   <g:google_product_category>Produtos | TV | Neo QLED</g:google_product_category>
 </item>
 <item>
@@ -5992,7 +5964,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BIDDEUB</g:id>
   <g:gtin>8806092987333</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BIDDEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901biddeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901biddeub-530879580?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6006,7 +5978,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BIDGEUB</g:id>
   <g:gtin>8806092987265</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BIDGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bidgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bidgeub-530879600?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6020,7 +5992,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BLBDEUB</g:id>
   <g:gtin>8806094305937</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BLBDEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901blbdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901blbdeub-530879619?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6034,7 +6006,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BLBGEUB</g:id>
   <g:gtin>8806094306002</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BLBGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901blbgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901blbgeub-530879638?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6048,7 +6020,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZADEUB</g:id>
   <g:gtin>8806094306187</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZADEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzadeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzadeub-530879657?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6062,7 +6034,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZAGEUB</g:id>
   <g:gtin>8806094306149</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZAGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzageub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzageub-530879676?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6076,7 +6048,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZEDEUB</g:id>
   <g:gtin>8806094306125</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZEDEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzedeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzedeub-530879695?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6090,7 +6062,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZEGEUB</g:id>
   <g:gtin>8806094306095</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZEGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzegeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzegeub-530879715?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6104,7 +6076,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZGDEUB</g:id>
   <g:gtin>8806092987203</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZGDEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzgdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzgdeub-530879734?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6118,7 +6090,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZGGEUB</g:id>
   <g:gtin>8806092987128</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZGGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzggeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzggeub-530879753?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6132,7 +6104,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZKDEUB</g:id>
   <g:gtin>8806092878624</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZKDEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzkdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzkdeub-530879772?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6146,7 +6118,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZKGEUB</g:id>
   <g:gtin>8806092878563</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZKGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzkgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzkgeub-530879791?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6160,7 +6132,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZVDEUB</g:id>
   <g:gtin>8806094306057</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZVDEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzvdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzvdeub-530879810?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6174,7 +6146,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZVGEUB</g:id>
   <g:gtin>8806094306033</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZVGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzvgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzvgeub-530879829?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6188,7 +6160,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZWDEUB</g:id>
   <g:gtin>8806092878518</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZWDEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzwdeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzwdeub-530879848?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6202,7 +6174,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:id>SM-S901BZWGEUB</g:id>
   <g:gtin>8806092878433</g:gtin>
   <g:title>Galaxy S22</g:title>
-  <g:description>Se procura algo mais compatível com o seu estilo, pode escolher a cor da coluna articulada para complementar ou criar um contraste com as cores nebulosas que cobrem o Galaxy Z Fold2.</g:description>
+  <g:description>nan</g:description>
   <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZWGEUB&cid=pt_pd_social_criteo_galaxy-s22-sm-s901bzwgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-s22-s901-sm-s901bzwgeub-530879867?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
@@ -6221,7 +6193,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-wifi-x700-sm-x700nidaeub-530874483?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>809.90 EUR</g:price>
   <g:sale_price>809.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6235,7 +6207,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-wifi-x700-sm-x700nzaaeub-530874525?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>809.90 EUR</g:price>
   <g:sale_price>809.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6263,7 +6235,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-wifi-x700-sm-x700nzsaeub-530874567?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>809.90 EUR</g:price>
   <g:sale_price>809.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6277,7 +6249,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-5g-x706-sm-x706bzaaeub-530877835?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>969.90 EUR</g:price>
   <g:sale_price>969.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6319,7 +6291,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-wifi-x800-sm-x800nzaaeub-530879050?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1019.90 EUR</g:price>
   <g:sale_price>1019.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6333,7 +6305,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-wifi-x800-sm-x800nzsaeub-530879092?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1019.90 EUR</g:price>
   <g:sale_price>1019.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6361,7 +6333,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-plus-5g-x806-sm-x806bzaaeub-530881225?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1179.90 EUR</g:price>
   <g:sale_price>1179.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6389,7 +6361,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaaeub-530870561?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1229.90 EUR</g:price>
   <g:sale_price>1229.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6431,7 +6403,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-ultra-5g-x906-sm-x906bzaaeub-530887253?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>1379.90 EUR</g:price>
   <g:sale_price>1379.90 EUR</g:sale_price>
   <g:google_product_category>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:google_product_category>
@@ -6487,7 +6459,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vg-scfa43bebxc/gallery/pt-customizable-frame-vg-scfa-383686-vg-scfa43bebxc-531282199?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>79.99 EUR</g:price>
   <g:sale_price>79.99 EUR</g:sale_price>
   <g:google_product_category>Produtos | Accessories | TV Accessorios</g:google_product_category>
