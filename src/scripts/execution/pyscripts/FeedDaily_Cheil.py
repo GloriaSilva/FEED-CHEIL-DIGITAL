@@ -1,7 +1,7 @@
 import datetime
 import os
 from config import project_path, result_path
-import Git_utils
+from Git_utils import GitOperations
 import sys
 import argparse
 import subprocess
