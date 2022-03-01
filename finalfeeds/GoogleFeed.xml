@@ -3906,7 +3906,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-buds2-r177-sm-r177nzkaphe-482311832?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>149.90 EUR</g:price>
   <g:sale_price>149.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
@@ -4410,7 +4410,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225flbgeub/gallery/pt-galaxy-m22-m225-sm-m225flbgeub-503980897?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
   <g:sale_price>239.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
@@ -4959,6 +4959,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
+  <g:price>479.90 EUR</g:price>
+  <g:sale_price>479.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-A528BZWCEUB</g:id>
+  <g:gtin>8806092957022</g:gtin>
+  <g:title>Galaxy A52s 5G (SM-A528)</g:title>
+  <g:description>Integrado no hardware e software do telefone desde o início, o Samsung Knox protege o seu telefone a partir do momento em que é ligado. Através de várias camadas de segurança, protege as suas informações mais sensíveis contra malware e ameaças maliciosas.</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a52s-5g/buy/?modelCode=SM-A528BZWCEUB&cid=pt_pd_ppc_google_galaxy-a52s-5g-sm-a528-sm-a528bzwceub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528bzwceub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528bzwceub-518156859?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
   <g:price>479.90 EUR</g:price>
   <g:sale_price>479.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
