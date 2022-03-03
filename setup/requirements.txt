@@ -5,7 +5,7 @@ charset-normalizer==2.0.12
 greenlet==1.1.2
 idna==3.3
 lxml==4.8.0
--e git+https://DataAndPerformanceCheil@github.com/DataAndPerformanceCheil/feedsCheil.git@a0820eaa833a28b1babbc7468cc124deb59a6f8f#egg=modules_feeds&subdirectory=src/modules
+-e git+https://DataAndPerformanceCheil@github.com/DataAndPerformanceCheil/feedsCheil.git@6bbffdfff011b0a82a811f130ecdb86823fd3207#egg=modules_feeds&subdirectory=src/modules
 numpy==1.22.2
 pandas==1.4.1
 PyMySQL==1.0.2
