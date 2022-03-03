@@ -34,6 +34,8 @@ if __name__ == '__main__':
 
     begin_time = datetime.datetime.now()
     print(datetime.datetime.now())
+
+    print(f'Result path: {result_path}')
    
     print('Updating URL dictionary')
     subprocess.run(['python3', f'{base_feed_path}/url/URL_Generator_v2.py', args.country])
