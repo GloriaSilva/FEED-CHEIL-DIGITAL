@@ -235,10 +235,10 @@ class FeedCheil:
         df = self.avoidXMLbreak(df)
 
         #Exporting the final result, the platform Feed, as a csv file
-        print(self.csvFile)
+        print(os.path.join(self.resultPath,self.csvFile))
         df.to_csv(os.path.join(self.resultPath,self.csvFile), sep = ",", index=False)
 
-        print(self.xmlFile)
+        print(os.path.join(self.resultPath,self.csvFile))
         df.to_xml(filename = os.path.join(self.resultPath,self.xmlFile), country=self.country)
 
         #Process finish
