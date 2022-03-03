@@ -1,24 +1,27 @@
 from config import result_path, project_path
 import os
 import yaml
+import pandas as pd
 
-division_yml = f'{project_path}/src/dictionaries/division/division_pt.yml'
+cats_yml = f'{project_path}/src/dictionaries/division/categories_pt.yml'
 
-class DivisionByCategory(object):
+class StandarizedCategory(object):
     def __init__(self):
-        self.dict_cat_div = self.get_dict_cat_div()
-        print(self.dict_cat_div)
+        self.transform_cats = self.get_transform_cats()
+        
        
 
-    def get_dict_cat_div(self):
-        with open(division_yml) as f:
+    def get_transform_cats(self):
+        with open(cats_yml) as f:
             # use safe_load instead load
-            dict_div_cat = yaml.safe_load(f)
+            tranform_cats_yaml = yaml.safe_load(f)
         
-        print(dict_div_cat)
-        return { category: division for division in dict_div_cat for category in dict_div_cat[division]  }
+        
+        return {el['IDENTIFICADOR']: (el['DIVISION'],el['CATEGORIA'],el['SUBCATEGORIA']) for el in tranform_cats_yaml}
 
-    def add_division_to_df(self,df, division_tag, category_tag):
-        pat = '|'.join(r"\b{}\b".format(x) for x in self.dict_cat_div.keys())
-        df[division_tag] = df[category_tag].str.extract('('+ pat + ')', expand=False).map(self.dict_cat_div)
+    def add_standarized_cats(self,df, sku_tag):
+        pat = '|'.join(r"^{}".format(x) for x in self.transform_cats.keys())
+        df['tk:all']= df[sku_tag].str.extract('('+ pat + ')', expand=False).map(self.transform_cats)
+        df[['tk:division','tk:category','tk:subcategory']] = pd.DataFrame(df['tk:all'].tolist(), index=df.index)
+        df.drop('tk:all', axis=1, inplace=True)
         return df

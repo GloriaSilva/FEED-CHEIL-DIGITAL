@@ -113,7 +113,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>659.90 EUR</g:price>
-  <g:sale_price>549.00 EUR</g:sale_price>
+  <g:sale_price>569.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Duas Portas | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Duas Portas</g:product_type>
 </item>
 <item>
@@ -211,7 +211,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>114.89 EUR</g:price>
-  <g:sale_price>99.90 EUR</g:sale_price>
+  <g:sale_price>114.89 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador sem saco | Produtos | Eletrodomesticos | Aspirador | Aspirador sem saco</g:product_type>
 </item>
 <item>
@@ -351,7 +351,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>124.89 EUR</g:price>
-  <g:sale_price>109.90 EUR</g:sale_price>
+  <g:sale_price>104.90 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador com Saco | Produtos | Eletrodomesticos | Aspirador | Aspirador com Saco</g:product_type>
 </item>
 <item>
@@ -379,7 +379,7 @@
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>749.89 EUR</g:price>
-  <g:sale_price>549.00 EUR</g:sale_price>
+  <g:sale_price>589.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A+++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A+++</g:product_type>
 </item>
 <item>
@@ -410,6 +410,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:price>969.86 EUR</g:price>
   <g:sale_price>969.86 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
+</item>
+<item>
+  <g:id>SM-P610NZAEPHE</g:id>
+  <g:gtin>8806090647932</g:gtin>
+  <g:title>Galaxy Tab S6 Lite (Wi-Fi) Cinzento 128 GB</g:title>
+  <g:description>O Galaxy Tab S6 Lite é o seu super companheiro portátil e de confiança para tirar notas. Tem um ecrã grande de 10,4 polegadas num design fino e leve, One UI 2 no sistema operativo Android e uma S Pen incluída e pronta a utilizar. Quer esteja a desenhar, a estudar ou a jogar, este é o tablet perfeito para aproveitar o momento.</g:description>
+  <g:link><![CDATA[ https://ad.doubleclick.net/ddm/clk/506512072;313795876;m?https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s6-lite-gray-128gb-sm-p610nzaephe/buy/?cid=pt_pd_affiliate_awin_galaxy-tab-s6-lite-wi-fi-sm-p610nzaephe_ongoing_im-tablet-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-p610nzaephe/gallery/pt-galaxy-tab-s6-lite-p610-396398-sm-p610nzaephe-471439057?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>out of stock</g:availability>
+  <g:price>439.90 EUR</g:price>
+  <g:sale_price>379.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Tablets | Galaxy Tab S Series</g:product_type>
 </item>
 <item>
   <g:id>SM-P615NZBAPHE</g:id>
@@ -450,7 +464,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>589.90 EUR</g:price>
-  <g:sale_price>499.00 EUR</g:sale_price>
+  <g:sale_price>549.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -464,7 +478,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>639.90 EUR</g:price>
-  <g:sale_price>639.90 EUR</g:sale_price>
+  <g:sale_price>619.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -479,7 +493,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>469.90 EUR</g:price>
-  <g:sale_price>399.00 EUR</g:sale_price>
+  <g:sale_price>439.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -493,7 +507,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>389.90 EUR</g:price>
-  <g:sale_price>389.90 EUR</g:sale_price>
+  <g:sale_price>369.00 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -549,7 +563,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>599.90 EUR</g:price>
-  <g:sale_price>599.90 EUR</g:sale_price>
+  <g:sale_price>589.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -563,7 +577,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>989.90 EUR</g:price>
-  <g:sale_price>989.90 EUR</g:sale_price>
+  <g:sale_price>749.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy Note Series | Galaxy Note20 | Note20 Ultra 5G</g:product_type>
 </item>
 <item>
@@ -759,7 +773,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>out of stock</g:availability>
   <g:price>268.35 EUR</g:price>
-  <g:sale_price>268.35 EUR</g:sale_price>
+  <g:sale_price>189.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
 </item>
 <item>
@@ -773,7 +787,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>699.89 EUR</g:price>
-  <g:sale_price>499.00 EUR</g:sale_price>
+  <g:sale_price>539.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -787,7 +801,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>289.90 EUR</g:price>
-  <g:sale_price>219.00 EUR</g:sale_price>
+  <g:sale_price>239.00 EUR</g:sale_price>
   <g:product_type>Produtos | Micro-ondas | Micro-ondas de Conveccao | Produtos | Eletrodomesticos | Micro-ondas | Micro-ondas de Conveccao | Produtos | Eletrodomesticos | Encastre | Micro-ondas | Micro-ondas de Conveccao</g:product_type>
 </item>
 <item>
@@ -801,7 +815,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>preorder</g:availability>
   <g:price>529.90 EUR</g:price>
-  <g:sale_price>369.00 EUR</g:sale_price>
+  <g:sale_price>359.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -872,7 +886,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>919.90 EUR</g:price>
-  <g:sale_price>649.00 EUR</g:sale_price>
+  <g:sale_price>699.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -914,7 +928,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>869.91 EUR</g:price>
-  <g:sale_price>649.00 EUR</g:sale_price>
+  <g:sale_price>639.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -974,6 +988,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
+  <g:id>UE32T4005AKXXC</g:id>
+  <g:gtin>8806090463471</g:gtin>
+  <g:title>UE32T4005AKXXC HD TV 2020 Black 32</g:title>
+  <g:description>Cores brilhantes e ricas irão deslumbrá-lo. O Otimizador de Cor melhora a qualidade de imagem e revela os detalhes com as cores corretas.</g:description>
+  <g:link><![CDATA[ https://ad.doubleclick.net/ddm/clk/506514991;313669038;o?https://www.samsung.com/pt/tvs/hd-tv/2020-32-hd-tv-ue32t4005akxxc/?cid=pt_pd_affiliate_awin_ue32t4005akxxc-hd-tv-2020-ue32t4005akxxc_ongoing_vd-television-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue32t4005akxxc/gallery/pt-hd-t4000400240034005-ue32t4005akxxc-348351588?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>249.99 EUR</g:price>
+  <g:sale_price>229.99 EUR</g:sale_price>
+  <g:product_type>Produtos | TV | UHD TV</g:product_type>
+</item>
+<item>
   <g:id>SM-R190NZKAEUB</g:id>
   <g:gtin>8806090970627</g:gtin>
   <g:title>Samsung Galaxy Buds Pro Black</g:title>
@@ -984,7 +1012,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Wearables | Galaxy Buds</g:product_type>
 </item>
 <item>
@@ -1012,7 +1040,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Wearables | Galaxy Buds</g:product_type>
 </item>
 <item>
@@ -1038,9 +1066,9 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-buds-pro-r190-sm-r190nzvaeub-363262812?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
-  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:sale_price>169.90 EUR</g:sale_price>
   <g:product_type>Produtos | Wearables | Galaxy Buds</g:product_type>
 </item>
 <item>
@@ -1136,7 +1164,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ep-ta800nbegeu/gallery/pt-wall-charger-for-super-fast-charging-25w-368677-ep-ta800nbegeu-363361609?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>19.90 EUR</g:price>
   <g:sale_price>19.90 EUR</g:sale_price>
   <g:product_type>Produtos | Accessories | Acessorios Mobile</g:product_type>
@@ -1236,7 +1264,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>789.91 EUR</g:price>
-  <g:sale_price>589.00 EUR</g:sale_price>
+  <g:sale_price>579.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -1290,9 +1318,9 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/vc07k41e0vl-ep/gallery/pt-vc4100k-canister-with-more-consistent-suction-without-tangles-vc07k41e0vl-ep-396625326?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>139.90 EUR</g:price>
-  <g:sale_price>124.90 EUR</g:sale_price>
+  <g:sale_price>129.90 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador sem saco | Produtos | Eletrodomesticos | Aspirador | Aspirador sem saco</g:product_type>
 </item>
 <item>
@@ -1306,7 +1334,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>729.89 EUR</g:price>
-  <g:sale_price>529.00 EUR</g:sale_price>
+  <g:sale_price>559.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Maquinas de secar roupa | Produtos | Eletrodomesticos | Maquina de roupa | Maquinas de secar roupa</g:product_type>
 </item>
 <item>
@@ -1320,7 +1348,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>679.89 EUR</g:price>
-  <g:sale_price>499.00 EUR</g:sale_price>
+  <g:sale_price>539.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Maquinas de secar roupa | Produtos | Eletrodomesticos | Maquina de roupa | Maquinas de secar roupa</g:product_type>
 </item>
 <item>
@@ -1334,7 +1362,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>preorder</g:availability>
   <g:price>879.91 EUR</g:price>
-  <g:sale_price>649.00 EUR</g:sale_price>
+  <g:sale_price>699.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
@@ -1348,7 +1376,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>399.00 EUR</g:price>
-  <g:sale_price>329.00 EUR</g:sale_price>
+  <g:sale_price>299.00 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador Vertical | Produtos | Eletrodomesticos | Aspirador | Aspirador Vertical</g:product_type>
 </item>
 <item>
@@ -1614,7 +1642,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>999.90 EUR</g:price>
-  <g:sale_price>779.00 EUR</g:sale_price>
+  <g:sale_price>799.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | EcoBubble | Produtos | Eletrodomesticos | Maquina de roupa | EcoBubble</g:product_type>
 </item>
 <item>
@@ -1654,9 +1682,9 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-rb30j3000ww-bottom-mount-freezer-with-no-frost-rb30j3000ww-ef-frontwhite-237162951?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>579.90 EUR</g:price>
-  <g:sale_price>579.90 EUR</g:sale_price>
+  <g:sale_price>569.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -1670,7 +1698,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1079.90 EUR</g:price>
-  <g:sale_price>849.00 EUR</g:sale_price>
+  <g:sale_price>879.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -1684,7 +1712,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>199.90 EUR</g:price>
-  <g:sale_price>159.90 EUR</g:sale_price>
+  <g:sale_price>164.90 EUR</g:sale_price>
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
@@ -2063,7 +2091,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>819.91 EUR</g:price>
-  <g:sale_price>659.00 EUR</g:sale_price>
+  <g:sale_price>669.00 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
 </item>
 <item>
@@ -2091,7 +2119,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1799.90 EUR</g:price>
-  <g:sale_price>1459.00 EUR</g:sale_price>
+  <g:sale_price>1469.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -2161,7 +2189,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1439.90 EUR</g:price>
-  <g:sale_price>1149.00 EUR</g:sale_price>
+  <g:sale_price>1129.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -2203,7 +2231,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>349.00 EUR</g:price>
-  <g:sale_price>259.00 EUR</g:sale_price>
+  <g:sale_price>269.00 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Aspirador Vertical | Produtos | Eletrodomesticos | Aspirador | Aspirador Vertical</g:product_type>
 </item>
 <item>
@@ -2329,7 +2357,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1419.90 EUR</g:price>
-  <g:sale_price>1049.00 EUR</g:sale_price>
+  <g:sale_price>1099.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -2413,7 +2441,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1579.90 EUR</g:price>
-  <g:sale_price>1199.00 EUR</g:sale_price>
+  <g:sale_price>1179.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Side by Side | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Side by Side</g:product_type>
 </item>
 <item>
@@ -2439,7 +2467,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue43tu7025kxxc/gallery/pt-uhd-tu7020-ue43tu7025kxxc-426320778?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>450.00 EUR</g:price>
   <g:sale_price>379.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | Crystal UHD</g:product_type>
@@ -2551,7 +2579,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/ue75tu7025kxxc/gallery/pt-uhd-tu7020-ue75tu7025kxxc-426321235?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>1099.99 EUR</g:price>
   <g:sale_price>849.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
@@ -2651,7 +2679,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>299.00 EUR</g:price>
-  <g:sale_price>219.00 EUR</g:sale_price>
+  <g:sale_price>239.00 EUR</g:sale_price>
   <g:product_type>Produtos | Aspirador | Produtos | Eletrodomesticos | Aspirador</g:product_type>
 </item>
 <item>
@@ -2929,7 +2957,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77q2t0bw/gallery/pt-870-qvo-sata-3-2-5-ssd-mz-77q2t0bw-420337639?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>192.05 EUR</g:price>
   <g:sale_price>192.05 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
@@ -2971,7 +2999,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/mz-77e500b-eu/gallery/pt-870-evo-sata-3-2-5-ssd-mz-77e500b-eu-407733943?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>69.81 EUR</g:price>
   <g:sale_price>69.81 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
@@ -2986,8 +3014,8 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
-  <g:price>394.13 EUR</g:price>
-  <g:sale_price>373.49 EUR</g:sale_price>
+  <g:price>355.64 EUR</g:price>
+  <g:sale_price>355.64 EUR</g:sale_price>
   <g:product_type>Produtos | IT | Armazenamento</g:product_type>
 </item>
 <item>
@@ -3113,7 +3141,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>7999.99 EUR</g:price>
-  <g:sale_price>7999.99 EUR</g:sale_price>
+  <g:sale_price>7999.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -3211,7 +3239,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>4499.99 EUR</g:price>
-  <g:sale_price>4499.99 EUR</g:sale_price>
+  <g:sale_price>4499.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -3281,7 +3309,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1999.99 EUR</g:price>
-  <g:sale_price>1299.00 EUR</g:sale_price>
+  <g:sale_price>1299.99 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -3505,7 +3533,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>3999.98 EUR</g:price>
-  <g:sale_price>3999.98 EUR</g:sale_price>
+  <g:sale_price>3999.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -3519,7 +3547,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>4999.99 EUR</g:price>
-  <g:sale_price>4999.99 EUR</g:sale_price>
+  <g:sale_price>4999.00 EUR</g:sale_price>
   <g:product_type>Produtos | TV | PROMO ELEVEN</g:product_type>
 </item>
 <item>
@@ -3909,7 +3937,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2108/gallery/pt-galaxy-buds2-r177-sm-r177nzkaphe-482311832?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>149.90 EUR</g:price>
   <g:sale_price>129.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
@@ -4413,7 +4441,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225flbgeub/gallery/pt-galaxy-m22-m225-sm-m225flbgeub-503980897?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>239.90 EUR</g:price>
   <g:sale_price>209.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
@@ -4427,7 +4455,21 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225fzkgeub/gallery/pt-galaxy-m22-m225-sm-m225fzkgeub-503980921?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
+  <g:price>239.90 EUR</g:price>
+  <g:sale_price>209.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-M225FZWGEUB</g:id>
+  <g:gtin>8806092673656</g:gtin>
+  <g:title>Galaxy M22</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m22-white-128gb-sm-m225fzwgeub/buy/?cid=pt_pd_social_awin_galaxy-m22-sm-m225fzwgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225fzwgeub/gallery/pt-galaxy-m22-m225-sm-m225fzwgeub-503980945?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
   <g:price>239.90 EUR</g:price>
   <g:sale_price>209.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
@@ -4584,6 +4626,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
+  <g:price>1099.90 EUR</g:price>
+  <g:sale_price>949.90 EUR</g:sale_price>
+  <g:product_type>nan</g:product_type>
+</item>
+<item>
+  <g:id>SM-F711BLVBEUB</g:id>
+  <g:gtin>8806092810211</g:gtin>
+  <g:title>Galaxy Z Flip3 5G (SM-F711)</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-z-flip3-5g/buy/?modelCode=SM-F711BLVBEUB&cid=pt_pd_social_awin_galaxy-z-flip3-5g-sm-f711-sm-f711blvbeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-f711blvbeub/gallery/pt-galaxy-z-flip3-f711-5g-404772-sm-f711blvbeub-515530077?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>out of stock</g:availability>
   <g:price>1099.90 EUR</g:price>
   <g:sale_price>949.90 EUR</g:sale_price>
   <g:product_type>nan</g:product_type>
@@ -4961,21 +5017,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528bzkceub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528bzkceub-518156795?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
-  <g:price>479.90 EUR</g:price>
-  <g:sale_price>479.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
-</item>
-<item>
-  <g:id>SM-A528BZWCEUB</g:id>
-  <g:gtin>8806092957022</g:gtin>
-  <g:title>Galaxy A52s 5G (SM-A528)</g:title>
-  <g:description>Integrado no hardware e software do telefone desde o início, o Samsung Knox protege o seu telefone a partir do momento em que é ligado. Através de várias camadas de segurança, protege as suas informações mais sensíveis contra malware e ameaças maliciosas.</g:description>
-  <g:link><![CDATA[ https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a52s-5g/buy/?modelCode=SM-A528BZWCEUB&cid=pt_pd_social_awin_galaxy-a52s-5g-sm-a528-sm-a528bzwceub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528bzwceub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528bzwceub-518156859?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>479.90 EUR</g:price>
   <g:sale_price>479.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
@@ -4989,7 +5031,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528bzkieub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528bzkieub-518156812?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>preorder</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>539.90 EUR</g:price>
   <g:sale_price>419.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
@@ -6151,7 +6193,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/2202/gallery/pt-galaxy-tab-s8-wifi-x700-sm-x700nidaeub-530874483?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>out of stock</g:availability>
+  <g:availability>in stock</g:availability>
   <g:price>809.90 EUR</g:price>
   <g:sale_price>809.90 EUR</g:sale_price>
   <g:product_type>Produtos | Tablets | Galaxy Tab S Series | Galaxy Tab S8 Series</g:product_type>
@@ -6391,7 +6433,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>1044.90 EUR</g:price>
-  <g:sale_price>959.00 EUR</g:sale_price>
+  <g:sale_price>989.00 EUR</g:sale_price>
   <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
 </item>
 <item>
@@ -6405,7 +6447,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
   <g:price>914.90 EUR</g:price>
-  <g:sale_price>699.00 EUR</g:sale_price>
+  <g:sale_price>769.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de roupa | EcoBubble | Produtos | Eletrodomesticos | Maquina de roupa | EcoBubble</g:product_type>
 </item>
 <item>
