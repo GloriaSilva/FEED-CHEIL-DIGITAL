@@ -50,8 +50,9 @@ class FeedCheil:
 
 
     def setFileNames(self,result_name):
-        self.csvFile = f"{result_name}Feed_{self.country}.csv"
-        self.xmlFile = f"{result_name}Feed_{self.country}.xml"
+        
+        self.csvFile = os.path.join(self.resultPath,f"{result_name}Feed_{self.country}.csv")
+        self.xmlFile = os.path.join(self.resultPath,f"{result_name}Feed_{self.country}.xml")
 
         if defaultPTActive:
             if self.country == 'pt':
@@ -235,11 +236,11 @@ class FeedCheil:
         df = self.avoidXMLbreak(df)
 
         #Exporting the final result, the platform Feed, as a csv file
-        print(os.path.join(self.resultPath,self.csvFile))
-        df.to_csv(os.path.join(self.resultPath,self.csvFile), sep = ",", index=False)
+        print(self.csvFile)
+        df.to_csv(self.csvFile, sep = ",", index=False)
 
-        print(os.path.join(self.resultPath,self.csvFile))
-        df.to_xml(filename = os.path.join(self.resultPath,self.xmlFile), country=self.country)
+        print(self.xmlFile)
+        df.to_xml(filename = self.xmlFile, country=self.country)
 
         #Process finish
         print("CSV and XML created")

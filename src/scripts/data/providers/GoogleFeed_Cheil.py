@@ -96,10 +96,11 @@ class GoogleFeedCheil(FeedCheil):
             else:
                 #In case we have a different status code, we generate a file "Error file" and triggers the sendError function
                 print("Código de estado %d" % status_code)
+                print('Hybris file error')
                 error = {'Error file'}
                 df = pd.DataFrame(error, columns = ['Error file'])
-                df.to_csv(self.resultPath + f'GoogleFeed_{self.country}.csv', sep = ",", index=False)
-                df.to_xml(self.resultPath + f'GoogleFeed_{self.country}.xml')
+                # df.to_csv(self.resultPath + f'GoogleFeed_{self.country}.csv', sep = ",", index=False)
+                # df.to_xml(self.resultPath + f'GoogleFeed_{self.country}.xml')
                 self.sendError()
                 sys.exit('Hybris file error')
             print('CSV downloaded')

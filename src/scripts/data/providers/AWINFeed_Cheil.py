@@ -88,10 +88,11 @@ class AWINFeedCheil(FeedCheil):
 
             else:
                 print("Código de estado %d" % status_code)
+                print('Hybris file error')
                 error = {'Error file'}
                 df = pd.DataFrame(error, columns = ['Error file'])
-                df.to_csv(self.csvFile, sep = ",", index=False)
-                df.to_xml(self.xmlFile)
+                # df.to_csv(self.csvFile, sep = ",", index=False)
+                # df.to_xml(self.xmlFile)
                 self.sendError()
                 sys.exit('Hybris file error')
             print('CSV downloaded')
