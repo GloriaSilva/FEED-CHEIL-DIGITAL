@@ -101,7 +101,7 @@ class GoogleFeedCheil(FeedCheil):
                 df = pd.DataFrame(error, columns = ['Error file'])
                 # df.to_csv(self.resultPath + f'GoogleFeed_{self.country}.csv', sep = ",", index=False)
                 # df.to_xml(self.resultPath + f'GoogleFeed_{self.country}.xml')
-                self.sendError()
+                #self.sendError()
                 sys.exit('Hybris file error')
             print('CSV downloaded')
 
