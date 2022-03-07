@@ -63,11 +63,11 @@ for x in df['Link']:
 
 df['Final_Link'] = enlacefinal
 df.loc[df['Id'].str.startswith('SM-'), 'Final_Link'] = df['Final_Link']+'buy/'
-df.loc[df['Id'].str.startswith('SM-R1'), 'Final_Link'] = df['Final_Link'].str.strip('/buy/')
+df.loc[df['Id'].str.startswith('SM-R1'), 'Final_Link'] = df['Final_Link'].replace({'\/buy\/$':''},regex=True)
 df['Final_Link'] = df['Final_Link'].replace(dict_from_csv)
 df['Final_Link'] = df['Final_Link'].replace({'buy/buy/': 'buy/'}, regex=True)
 #df.query('Id.str.startswith("SM-") == True & Id.str.startswith("SM-R1") == False' & Final_Link.endswith("buy/") == False)Final_Link.apply(lambda x: x+'buy/')
-df.loc[df['Final_Link'].str.contains('[0-9A-Z_]buy/$', regex=True), 'Final_Link'] = df['Final_Link'].str.strip('buy')
+df.loc[df['Final_Link'].str.contains('[0-9A-Z_]buy/$', regex=True), 'Final_Link'] = df['Final_Link'].replace({'buy$':''},regex=True)
 
 shit = df.loc[df['Id'].str.startswith('SM-'), 'Final_Link']
 enlacefinal2 = []
@@ -92,6 +92,7 @@ reg = '^https://www\.samsung\.com/'+country+'/[a-zA-Z]+/.{1,30}/buy/$'
 df.loc[df['Final_Link'].str.contains(reg, regex=True), 'Final_Link'] = df['Final_Link']+ '?modelCode='+df['Id']
 df['Final_Link'] = df['Final_Link'].replace({'buy/buy/': 'buy/'}, regex=True)
 df.loc[df['Final_Link'].str.contains('\?modelCode='), 'Final_Link'] = df['Final_Link'].str.strip('/buy/')
+df.loc[df['Id'].isin(['SM-M526BLBGEUB','SM-M526BZWGEUB']), 'Final_Link'] = df['Final_Link'].replace({'buy/':''},regex=True)
 
 del df["Link"]
 df.rename({'Final_Link': 'Link'}, axis=1, inplace=True)
