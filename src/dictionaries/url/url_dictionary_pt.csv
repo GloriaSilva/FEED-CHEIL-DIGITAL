@@ -75,21 +75,12 @@
 75,WD90T734DBH/S3,https://www.samsung.com/pt/washers-and-dryers/washer-dryer-combo/wd7300t-front-loading-9kg-white-wd90t734dbh-s3/
 76,WD10T634DBH/S3,https://www.samsung.com/pt/washers-and-dryers/washer-dryer-combo/combo-wd10t634dbhs7-wd10t634dbh-s3/
 77,UE32T4005AKXXC,https://www.samsung.com/pt/tvs/hd-tv/2020-32-inch-hd-tv-ue32t4005akxxc/
-<<<<<<< HEAD
 78,SM-R190NZKAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-black-sm-r190nzkaeub/
 79,SM-G991BZADEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZADEUB
 80,SM-R190NZSAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-silver-sm-r190nzsaeub/
 81,EF-PG991TJEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-s21-5g-silicone-cover-light-gray-ef-pg991tjegww/
 82,SM-G996BZKDEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G996BZKDEUB
 83,SM-R190NZVAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-violet-sm-r190nzvaeub/
-=======
-78,SM-R190NZKAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-black-sm-r190nzkae/
-79,SM-G991BZADEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZADEUB
-80,SM-R190NZSAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-silver-sm-r190nzsae/
-81,EF-PG991TJEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-s21-5g-silicone-cover-light-gray-ef-pg991tjegww/
-82,SM-G996BZKDEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G996BZKDEUB
-83,SM-R190NZVAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-violet-sm-r190nzvae/
->>>>>>> e72c9d0f203f02f3a6fcf616ebc59e805e640195
 84,SM-G991BZIGEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZIGEUB
 85,EF-QG991TTEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 86,SM-G998BZKDEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G998BZKDEUB
@@ -431,8 +422,8 @@
 422,SM-M526BLBDEUB,https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m52-5g-black-128gb-sm-m526bzkdeub/buy/
 423,SM-M526BZKDEUB,https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m52-5g-black-128gb-sm-m526bzkdeub/buy/
 424,SM-M526BZWDEUB,https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m52-5g-black-128gb-sm-m526bzkdeub/buy/
-425,SM-M526BLBGEUB,https://www.samsung.com/pt/smartphones/galaxy-m/buy/?modelCode=SM-M526BLBGEUB
-426,SM-M526BZWGEUB,https://www.samsung.com/pt/smartphones/galaxy-m/buy/?modelCode=SM-M526BZWGEUB
+425,SM-M526BLBGEUB,https://www.samsung.com/pt/smartphones/galaxy-m/?modelCode=SM-M526BLBGEUB
+426,SM-M526BZWGEUB,https://www.samsung.com/pt/smartphones/galaxy-m/?modelCode=SM-M526BZWGEUB
 427,SM-F711BZKBEUB,https://www.samsung.com/pt/smartphones/galaxy-z-flip3-5g/buy/?modelCode=SM-F711BZKBEUB
 428,SM-F711BZEBEUB,https://www.samsung.com/pt/smartphones/galaxy-z-flip3-5g/buy/?modelCode=SM-F711BZEBEUB
 429,SM-F711BZGBEUB,https://www.samsung.com/pt/smartphones/galaxy-z-flip3-5g/buy/?modelCode=SM-F711BZGBEUB
