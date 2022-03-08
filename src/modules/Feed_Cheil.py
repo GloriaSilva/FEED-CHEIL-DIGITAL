@@ -87,7 +87,7 @@ class FeedCheil:
 
     # Send Error fucntion. When there is a problem collecting Samsung Feed, an emails is sent.
     def sendError(self):
-        if not self.sendErrorActive:
+        if not sendErrorActive:
             return
             
         query = 'SELECT email FROM `accounts`'
