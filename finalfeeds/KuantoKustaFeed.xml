@@ -93,7 +93,7 @@
   <image_url>https://images.samsung.com/is/image/samsung/pt-microwave-oven-solo-ms23k3513awec-ms23k3513aw-ec-frontwhite-106100666?$320_320_PNG$</image_url>
   <brand>Samsung</brand>
   <condition>new</condition>
-  <availability>in stock</availability>
+  <availability>preorder</availability>
   <regular_price>134.89 EUR</regular_price>
   <current_price>114.90 EUR</current_price>
   <category>Produtos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Encastre | Micro-ondas | Micro-ondas Simples</category>
@@ -615,22 +615,6 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
 </item>
 <item>
-  <reference>RB30J3000SA/EF</reference>
-  <upc_ean>8806086725187</upc_ean>
-  <designation>Frigorífico Samsung Combinado No Frost  Prateado 311 L</designation>
-  <description>Compre já o Frigorífico Samsung Combinado No Frost 321L, F . Envio gratuito.</description>
-  <product_url><![CDATA[ https://ad.doubleclick.net/ddm/clk/506658216;314046535;f?https://www.samsung.com/pt/refrigerators/bottom-mount-freezer/311l-look-inox-rb30j3000sa-ef/?cid=pt_pd_affiliate_kuantokusta_frigorifico-samsung-combinado-no-frost-rb30j3000sa-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none?cid=pt_pd_ppc_kuantokusta_rb30j3000sa-combinado-no-frost,-321-l,-f-rb30j3000sa-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></product_url>
-  <image_url>https://images.samsung.com/is/image/samsung/pt-rb30j3000-bottom-mount-freezer-with-no-frost-rb30j3000sa-ef-frontsilver-237162877?$320_320_PNG$</image_url>
-  <brand>Samsung</brand>
-  <condition>new</condition>
-  <availability>in stock</availability>
-  <regular_price>599.90 EUR</regular_price>
-  <current_price>599.90 EUR</current_price>
-  <category>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</category>
-  <stock></stock>
-  <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
-</item>
-<item>
   <reference>SM-N980FZNGEUB</reference>
   <upc_ean>8806090596865</upc_ean>
   <designation>Samsung Galaxy Note20 Mystic Bronze 256 GB</designation>
@@ -930,7 +914,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <availability>preorder</availability>
   <regular_price>749.89 EUR</regular_price>
   <current_price>599.00 EUR</current_price>
-  <category>Produtos | Maquina de loica | Produtos | Eletrodomesticos | Maquina de loica</category>
+  <category>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</category>
   <stock></stock>
   <norma_shipping_cost>0.0 EUR</norma_shipping_cost>
 </item>

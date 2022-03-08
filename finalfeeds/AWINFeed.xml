@@ -83,7 +83,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-microwave-oven-solo-ms23k3513awec-ms23k3513aw-ec-frontwhite-106100666?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>preorder</g:availability>
   <g:price>134.89 EUR</g:price>
   <g:sale_price>114.90 EUR</g:sale_price>
   <g:product_type>Produtos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Micro-ondas | Micro-ondas Simples | Produtos | Eletrodomesticos | Encastre | Micro-ondas | Micro-ondas Simples</g:product_type>
@@ -539,20 +539,6 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:product_type>Produtos | Eletrodomesticos | Encastre</g:product_type>
 </item>
 <item>
-  <g:id>RB30J3000SA/EF</g:id>
-  <g:gtin>8806086725187</g:gtin>
-  <g:title>Frigorífico Samsung Combinado No Frost  Prateado 311 L</g:title>
-  <g:description>Compre já o Frigorífico Samsung Combinado No Frost 321L, F . Envio gratuito.</g:description>
-  <g:link><![CDATA[ https://ad.doubleclick.net/ddm/clk/506423280;313617956;g?https://www.samsung.com/pt/refrigerators/bottom-mount-freezer/311l-look-inox-rb30j3000sa-ef/?cid=pt_pd_affiliate_awin_frigorifico-samsung-combinado-no-frost-321l,-f-rb30j3000sa-ef_ongoing_da-refrigerator-automatic-feed_pla_none_none]]></g:link>
-  <g:image_link>https://images.samsung.com/is/image/samsung/pt-rb30j3000-bottom-mount-freezer-with-no-frost-rb30j3000sa-ef-frontsilver-237162877?$320_320_PNG$</g:image_link>
-  <g:brand>Samsung</g:brand>
-  <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
-  <g:price>599.90 EUR</g:price>
-  <g:sale_price>599.90 EUR</g:sale_price>
-  <g:product_type>Produtos | Frigorificos | Frigorificos Combinados | Produtos | Eletrodomesticos | Frigorificos | Frigorificos Combinados</g:product_type>
-</item>
-<item>
   <g:id>SM-N980FZNGEUB</g:id>
   <g:gtin>8806090596865</g:gtin>
   <g:title>Samsung Galaxy Note20 Mystic Bronze 256 GB</g:title>
@@ -816,7 +802,7 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:availability>preorder</g:availability>
   <g:price>749.89 EUR</g:price>
   <g:sale_price>599.00 EUR</g:sale_price>
-  <g:product_type>Produtos | Maquina de loica | Produtos | Eletrodomesticos | Maquina de loica</g:product_type>
+  <g:product_type>Produtos | Maquina de roupa | Produtos | Eletrodomesticos | Maquina de roupa</g:product_type>
 </item>
 <item>
   <g:id>WW90T534DAW/S3</g:id>
