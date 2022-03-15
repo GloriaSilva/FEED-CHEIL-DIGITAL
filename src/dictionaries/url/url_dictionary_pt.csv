@@ -32,7 +32,7 @@
 32,EF-BP610PLEGEU,https://www.samsung.com/pt/mobile-accessories/galaxy-tab-s6-lite-book-cover-ef-bp610plegeu/
 33,SM-P615NZBAPHE,https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s6-lite-blue-64gb-sm-p615nzbaphe/buy/
 34,NV75K5571RS/EC,https://www.samsung.com/pt/cooking-appliances/ovens/electric-oven-nv75k5571rs-ec/
-35,NZ64R3747BK/UR,https://www.samsung.com/pt/cooking-appliances/hobs/induction-hob-with-4-burners-nz64r3747bk-ur/
+35,NZ64R3747BK/UR,https://www.samsung.com/pt/c/p/NZ64R3747BK/UR/
 36,DW60M6050BB/EO,https://www.samsung.com/pt/dishwashers/built-in/14-place-settings-white-dw60m6050bb-eo/
 37,NZ64M3707AK/UR,https://www.samsung.com/pt/cooking-appliances/hobs/induction-hob-with-4-burners-nz64m3707ak-ur/
 38,MG22M8074CT/EC,https://www.samsung.com/pt/microwave-ovens/grill/mg22m8074ct/
@@ -73,7 +73,7 @@
 73,SM-R190NZKAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-black-sm-r190nzkaeub/
 74,SM-G991BZADEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZADEUB
 75,EF-PG991TJEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-s21-5g-silicone-cover-light-gray-ef-pg991tjegww/
-76,SM-G996BZKDEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G996BZKDEUB
+76,SM-G996BZKDEUB,https://www.samsung.com/pt/common/404/
 77,SM-R190NZVAEUB,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds-pro-violet-sm-r190nzvaeub/
 78,SM-G991BZIGEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZIGEUB
 79,EF-QG991TTEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
@@ -116,7 +116,7 @@
 116,LS32AM700URXEN,https://www.samsung.com/pt/monitors/high-resolution/smart-m7-32-inch-uhd-4k-ls32am700urxen/
 117,LS32AM500NRXEN,https://www.samsung.com/pt/monitors/flat/smart-m5-32-inch-ls32am500nrxen/
 118,QE55QN85AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn85a-55-inch-neo-qled-4k-smart-tv-qe55qn85aatxxc/
-119,QE75QN85AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn85a-75-inch-neo-qled-4k-smart-tv-qe75qn85aatxxc/
+119,QE75QN85AATXXC,https://www.samsung.com/pt/c/p/QE75QN85AATXXC/
 120,QE85QN85AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn85a-85-inch-neo-qled-4k-smart-tv-qe85qn85aatxxc/
 121,QE65QN800ATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn800a-65-inch-neo-qled-8k-smart-tv-qe65qn800atxxc/
 122,QE65QN95AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn95a-65-inch-neo-qled-4k-smart-tv-qe65qn95aatxxc/
@@ -126,7 +126,7 @@
 126,QE85QN800ATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn800a-85-inch-neo-qled-8k-smart-tv-qe85qn800atxxc/
 127,QE55QN95AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn95a-55-inch-neo-qled-4k-smart-tv-qe55qn95aatxxc/
 128,QE75QN900ATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn900a-75-inch-neo-qled-8k-smart-tv-qe75qn900atxxc/
-129,QE75QN95AATXXC,https://www.samsung.com/pt/c/p/QE75QN95AATXXC/
+129,QE75QN95AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn95a-75-inch-neo-qled-4k-smart-tv-qe75qn95aatxxc/
 130,QE65QN900ATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn900a-65-inch-neo-qled-8k-smart-tv-qe65qn900atxxc/
 131,WD90TA046BX/EP,https://www.samsung.com/pt/washers-and-dryers/washer-dryer-combo/combo-wd70ta046bx-wd90ta046bx-ep/
 132,RB34T672DWW/EF,https://www.samsung.com/pt/refrigerators/bottom-mount-freezer/rb7300t-spacemax-344l-white-rb34t672dww-ef/
@@ -190,7 +190,7 @@
 190,LC27RG50FQRXEN,https://www.samsung.com/pt/monitors/gaming/odyssey-crg5-27-inch-240hz-gsync-curved-lc27rg50fqrxen/
 191,QE43Q60AAUXXC,https://www.samsung.com/pt/tvs/qled-tv/q60a-43-inch-qled-4k-smart-tv-qe43q60aauxxc/
 192,RB34A6B3D48/EF,https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-344l-cloud-blue-rb34a6b3d48-ef/
-193,QE55Q80AATXXC,https://www.samsung.com/pt/tvs/qled-tv/q80a-55-inch-qled-4k-smart-tv-qe55q80aatxxc/
+193,QE55Q80AATXXC,https://www.samsung.com/pt/c/p/QE55Q80AATXXC/
 194,RB38A6B3DS9/EF,https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-390l-silver-rb38a6b3ds9-ef/
 195,RB34A6B1DCE/EF,https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-344l-clay-beige-rb34a6b1dce-ef/
 196,RB38A7B4D41/EF,https://www.samsung.com/pt/refrigerators/bespoke-refrigerators/rb7300-390l-navy-rb38a7b4d41-ef/
@@ -221,7 +221,7 @@
 221,MZ-76P1T0B/EU,https://www.samsung.com/pt/memory-storage/sata-ssd/ssd-860-pro-sata-3-2-5-inch-1tb-mz-76p1t0b-eu/
 222,MZ-76P512B/EU,https://www.samsung.com/pt/memory-storage/sata-ssd/ssd-860-pro-sata-3-2-5-inch-512gb-mz-76p512b-eu/
 223,UE43AU9005KXXC,https://www.samsung.com/pt/tvs/uhd-4k-tv/smart-4k-crystal-43-inch-ue43au9005kxxc/
-224,UE50AU9005KXXC,https://www.samsung.com/pt/c/p/UE50AU9005KXXC/
+224,UE50AU9005KXXC,https://www.samsung.com/pt/tvs/uhd-4k-tv/smart-4k-crystal-50-inch-ue50au9005kxxc/
 225,MZ-77Q2T0BW,https://www.samsung.com/pt/memory-storage/sata-ssd/870-qvo-2tb-sata-3-2-5-ssd-mz-77q2t0bw/
 226,UE55AU9005KXXC,https://www.samsung.com/pt/tvs/uhd-4k-tv/smart-4k-crystal-55-inch-ue55au9005kxxc/
 227,MZ-76P256B/EU,https://www.samsung.com/pt/memory-storage/sata-ssd/ssd-860-pro-sata-3-2-5-inch-256gb-mz-76p256b-eu/
@@ -231,7 +231,7 @@
 231,MZ-V7P512BW,https://www.samsung.com/pt/memory-storage/nvme-ssd/970-pro-nvme-m-2-ssd-512gb-mz-v7p512bw/
 232,UE65AU9005KXXC,https://www.samsung.com/pt/tvs/uhd-4k-tv/smart-4k-crystal-65-inch-ue65au9005kxxc/
 233,UE75AU9005KXXC,https://www.samsung.com/pt/tvs/uhd-4k-tv/smart-4k-crystal-75-inch-ue75au9005kxxc/
-234,QE50QN90AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn90a-50-inch-neo-qled-4k-smart-tv-qe50qn90aatxxc/
+234,QE50QN90AATXXC,https://www.samsung.com/pt/c/p/QE50QN90AATXXC/
 235,MZ-77E250B/EU,https://www.samsung.com/pt/memory-storage/sata-ssd/870-evo-250gb-sata-3-2-5-ssd-mz-77e250b-eu/
 236,LC27G75TQSRXEN,https://www.samsung.com/pt/monitors/gaming/odyssey-g7-27-inch-240hz-1ms-curved-lc27g75tqsrxen/
 237,MZ-77E1T0B/EU,https://www.samsung.com/pt/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/
@@ -294,7 +294,7 @@
 294,SM-R870NZSAPHE,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-silver-bluetooth-sm-r870nzsaphe/buy/
 295,SM-R875FZKAPHE,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-4g-sm-r875fzkaphe/buy/
 296,SM-R875FZSAPHE,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-silver-4g-sm-r875fzsaphe/buy/
-297,EF-FF92PCBEGEW,https://www.samsung.com/pt/smartphones/galaxy-z-fold3-5g/accessories/
+297,EF-FF92PCBEGEW,https://www.samsung.com/pt/c/p/EF-FF92PCBEGEW/
 298,SM-R177NLVAPHE,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds2-lavender-sm-r177nlvaphe/
 299,SM-R177NZGAPHE,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds2-olive-sm-r177nzgaphe/
 300,SM-R177NZKAPHE,https://www.samsung.com/pt/audio-sound/galaxy-buds/galaxy-buds2-graphite-sm-r177nzkaphe/
@@ -348,7 +348,7 @@
 348,ET-SHR88SAEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
 349,ET-SHR88SBEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
 350,ET-SHR88SNEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
-351,ET-SHR88SREGEU,https://www.samsung.com/pt/c/p/ET-SHR88SREGEU/
+351,ET-SHR88SREGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
 352,ET-SHR88SSEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
 353,SM-F711BZWBEUB,https://www.samsung.com/pt/smartphones/galaxy-z-flip3-5g/buy/?modelCode=SM-F711BZWBEUB
 354,ET-SHR88SYEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
@@ -366,7 +366,7 @@
 366,ET-SXR86SNEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
 367,ET-SXR86SPEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
 368,ET-SXR86SWEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
-369,ET-SFR88SBEGEU,https://www.samsung.com/pt/c/p/ET-SFR88SBEGEU/
+369,ET-SFR88SBEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r880nzkaphe/
 370,ET-SFR88SGEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r880nzkaphe/
 371,ET-SFR89LBEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r890nzkaphe/
 372,ET-SFR88SNEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r880nzkaphe/
@@ -380,7 +380,7 @@
 380,ET-SFR89LWEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r890nzkaphe/
 381,ET-SXR87LPEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r870nzkaphe/
 382,ET-SHR89LPEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r870nzkaphe/
-383,ET-SXR87LWEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r870nzkaphe/
+383,ET-SXR87LWEGEU,https://www.samsung.com/pt/c/p/ET-SXR87LWEGEU/
 384,ET-SHR88SWEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r860nzkaphe/
 385,ET-SFR87LWEGEU,https://www.samsung.com/pt/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r870nzkaphe/
 386,SM-M325FLBGEUB,https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m32-blue-128gb-sm-m325flbgeub/buy/
@@ -427,7 +427,7 @@
 427,VG-SCFA43BWBXC,https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43bwbxc/
 428,VG-SCFA43TKBXC,https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43tkbxc/
 429,VG-SCFA43WTBXC,https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa43wtbxc/
-430,VG-SCFA50BWBXC,https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa50bwbxc/
+430,VG-SCFA50BWBXC,https://www.samsung.com/pt/c/p/VG-SCFA50BWBXC/
 431,VG-SCFA50TKBXC,https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa50tkbxc/
 432,VG-SCFA50WTBXC,https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa50wtbxc/
 433,VG-SCFA55BWBXC,https://www.samsung.com/pt/tv-accessories/customizable-frame-vg-scfa-vg-scfa55bwbxc/
@@ -458,7 +458,7 @@
 458,MB-MC128KA/EU,https://www.samsung.com/pt/memory-storage/memory-card/evo-plus-128gb-microsd-card-2021-mb-mc128ka-eu/
 459,MB-MC256KA/EU,https://www.samsung.com/pt/memory-storage/memory-card/evo-plus-256gb-microsd-card-2021-mb-mc256ka-eu/
 460,MB-MC512KA/EU,https://www.samsung.com/pt/memory-storage/memory-card/evo-plus-512gb-microsd-card-2021-mb-mc512ka-eu/
-461,MB-MC64KA/EU,https://www.samsung.com/pt/memory-storage/memory-card/evo-plus-64gb-microsd-card-2021-mb-mc64ka-eu/
+461,MB-MC64KA/EU,https://www.samsung.com/pt/c/p/MB-MC64KA/EU/
 462,MU-PA1T0B/EU,https://www.samsung.com/pt/memory-storage/portable-ssd/portable-ssd-t5-1tb-black-mu-pa1t0b-eu/
 463,EF-GG990TNEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 464,EF-GG990TWEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
@@ -467,7 +467,7 @@
 467,EF-PG990TMEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 468,EF-PG990TPEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 469,EF-PG990TVEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
-470,EF-PG990TWEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
+470,EF-PG990TWEGWW,https://www.samsung.com/pt/c/p/EF-PG990TWEGWW/
 471,EF-XG990CBEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 472,EF-XG990CMEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 473,EF-XG990CVEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
@@ -475,12 +475,12 @@
 475,EF-ZG990CBEGEW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 476,EF-ZG990CMEGEW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 477,EF-ZG990CVEGEW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
-478,EF-ZG990CWEGEW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
+478,EF-ZG990CWEGEW,https://www.samsung.com/pt/c/p/EF-ZG990CWEGEW/
 479,SM-G990BLGDEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/buy/?modelCode=SM-G990BLGDEUB
 480,SM-G990BLVDEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/buy/?modelCode=SM-G990BLVDEUB
 481,SM-G990BZADEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/buy/?modelCode=SM-G990BZADEUB
 482,SM-G990BZAGEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/buy/?modelCode=SM-G990BZAGEUB
-483,SM-G990BZWDEUB,https://www.samsung.com/pt/common/404/
+483,SM-G990BZWDEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/buy/?modelCode=SM-G990BZWDEUB
 484,SM-G990BZWGEUB,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/buy/?modelCode=SM-G990BZWGEUB
 485,EF-QG990CTEGWW,https://www.samsung.com/pt/smartphones/galaxy-s21-5g/accessories/
 486,SM-X200NIDAEUB,https://www.samsung.com/pt/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-pink-gold-32gb-sm-x200nidaeub/buy/
@@ -520,11 +520,11 @@
 520,SM-S908BZWDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22-ultra/buy/?modelCode=SM-S908BZWDEUB
 521,SM-S906BIDDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BIDDEUB
 522,SM-S906BIDGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BIDGEUB
-523,SM-S906BLBDEUB,https://www.samsung.com/pt/common/404/
+523,SM-S906BLBDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BLBDEUB
 524,SM-S906BLBGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BLBGEUB
 525,SM-S906BZADEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZADEUB
 526,SM-S906BZAGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZAGEUB
-527,SM-S906BZEDEUB,https://www.samsung.com/pt/common/404/
+527,SM-S906BZEDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZEDEUB
 528,SM-S906BZEGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZEGEUB
 529,SM-S906BZGDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZGDEUB
 530,SM-S906BZGGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZGGEUB
@@ -534,8 +534,8 @@
 534,SM-S906BZVGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZVGEUB
 535,SM-S906BZWDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZWDEUB
 536,SM-S906BZWGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S906BZWGEUB
-537,SM-S901BIDDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BIDDEUB
-538,SM-S901BIDGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BIDGEUB
+537,SM-S901BIDDEUB,https://www.samsung.com/pt/common/404/
+538,SM-S901BIDGEUB,https://www.samsung.com/pt/common/404/
 539,SM-S901BLBDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BLBDEUB
 540,SM-S901BLBGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BLBGEUB
 541,SM-S901BZADEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZADEUB
@@ -549,10 +549,10 @@
 549,SM-S901BZVDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZVDEUB
 550,SM-S901BZVGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZVGEUB
 551,SM-S901BZWDEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZWDEUB
-552,SM-S901BZWGEUB,https://www.samsung.com/pt/smartphones/galaxy-s22/buy/?modelCode=SM-S901BZWGEUB
-553,SM-X700NIDAEUB,https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-wi-fi-pink-gold-128gb-sm-x700nidaeub/buy/
+552,SM-S901BZWGEUB,https://www.samsung.com/pt/common/404/
+553,SM-X700NIDAEUB,https://www.samsung.com/pt/common/404/
 554,SM-X700NZAAEUB,https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-wi-fi-graphite-128gb-sm-x700nzaaeub/buy/
-555,SM-X700NZABEUB,https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-wi-fi-graphite-256gb-sm-x700nzabeub/buy/
+555,SM-X700NZABEUB,https://www.samsung.com/pt/common/404/
 556,SM-X700NZSAEUB,https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-wi-fi-silver-128gb-sm-x700nzsaeub/buy/
 557,SM-X706BZAAEUB,https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-5g-graphite-128gb-sm-x706bzaaeub/buy/
 558,SM-X706BZABEUB,https://www.samsung.com/pt/tablets/galaxy-tab-s/galaxy-tab-s8-5g-graphite-256gb-sm-x706bzabeub/buy/
@@ -594,7 +594,7 @@
 594,EF-PS906TGEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 595,EF-PS906TLEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 596,EF-PS906TPEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
-597,EF-PS906TYEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
+597,EF-PS906TYEGWW,https://www.samsung.com/pt/c/p/EF-PS906TYEGWW/
 598,EF-GS906TNEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 599,EF-GS906TWEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 600,EF-ZS906CBEGEW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
@@ -610,7 +610,7 @@
 610,EF-VS901LGEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 611,EF-VS901LJEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 612,EF-PS901TBEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
-613,EF-PS901TGEGWW,https://www.samsung.com/pt/c/p/EF-PS901TGEGWW/
+613,EF-PS901TGEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 614,EF-PS901TLEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 615,EF-PS901TPEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
 616,EF-PS901TYEGWW,https://www.samsung.com/pt/smartphones/galaxy-s22/accessories/
