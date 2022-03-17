@@ -110,7 +110,7 @@
 110,SM-A325FZKGEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a32-awesome-black-128gb-sm-a325fzkgeub/buy/
 111,LS32AM700URXEN,https://www.samsung.com/pt/monitors/high-resolution/smart-m7-32-inch-uhd-4k-ls32am700urxen/
 112,LS32AM500NRXEN,https://www.samsung.com/pt/monitors/flat/smart-m5-32-inch-ls32am500nrxen/
-113,QE55QN85AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn85a-55-inch-neo-qled-4k-smart-tv-qe55qn85aatxxc/
+113,QE55QN85AATXXC,https://www.samsung.com/pt/c/p/QE55QN85AATXXC/
 114,QE75QN85AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn85a-75-inch-neo-qled-4k-smart-tv-qe75qn85aatxxc/
 115,QE85QN85AATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn85a-85-inch-neo-qled-4k-smart-tv-qe85qn85aatxxc/
 116,QE65QN800ATXXC,https://www.samsung.com/pt/tvs/qled-tv/qn800a-65-inch-neo-qled-8k-smart-tv-qe65qn800atxxc/
@@ -165,7 +165,7 @@
 165,QE75Q70AATXXC,https://www.samsung.com/pt/tvs/qled-tv/q70a-75-inch-qled-4k-smart-tv-qe75q70aatxxc/
 166,QE65Q70AATXXC,https://www.samsung.com/pt/tvs/qled-tv/q70a-65-inch-qled-4k-smart-tv-qe65q70aatxxc/
 167,VS15A6032R5/EP,https://www.samsung.com/pt/vacuum-cleaners/stick/jet60-vs6700-silver-vs15a6032r5-ep/
-168,QE50Q60AAUXXC,https://www.samsung.com/pt/c/p/QE50Q60AAUXXC/
+168,QE50Q60AAUXXC,https://www.samsung.com/pt/tvs/qled-tv/q60a-50-inch-qled-4k-smart-tv-qe50q60aauxxc/
 169,QE55Q60AAUXXC,https://www.samsung.com/pt/tvs/qled-tv/q60a-55-inch-qled-4k-smart-tv-qe55q60aauxxc/
 170,SM-M127FLBVEUB,https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127flbveub/buy/
 171,QE65Q60AAUXXC,https://www.samsung.com/pt/tvs/qled-tv/q60a-65-inch-qled-4k-smart-tv-qe65q60aauxxc/
@@ -644,6 +644,22 @@
 644,QE65QN900BTXXC,https://www.samsung.com/pt/tvs/qled-tv/qn900b-65-inch-neo-qled-8k-smart-tv-qe65qn900btxxc/
 645,QE75QN900BTXXC,https://www.samsung.com/pt/tvs/qled-tv/qn900b-75-inch-neo-qled-8k-smart-tv-qe75qn900btxxc/
 646,QE85QN900BTXXC,https://www.samsung.com/pt/tvs/qled-tv/qn900b-85-inch-neo-qled-8k-smart-tv-qe85qn900btxxc/
-647,EF-RA536CNEGWW,Error getting the final link
-648,EF-RA536CWEGWW,Error getting the final link
-649,ET-FA536TTEGWW,Error getting the final link
+647,SM-A536BLBLEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-blue-256gb-sm-a536blbleub/buy/
+648,SM-A536BLBNEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-blue-128gb-sm-a536blbneub/buy/
+649,SM-A536BZKLEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-black-256gb-sm-a536bzkleub/buy/
+650,SM-A536BZKNEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-black-128gb-sm-a536bzkneub/buy/
+651,SM-A536BZOLEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-peach-256gb-sm-a536bzoleub/buy/
+652,SM-A536BZONEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-peach-128gb-sm-a536bzoneub/buy/
+653,SM-A536BZWLEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-white-256gb-sm-a536bzwleub/buy/
+654,SM-A536BZWNEUB,https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a53-5g-awesome-white-128gb-sm-a536bzwneub/buy/
+655,EF-EA536PBEGEW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-smart-s-view-wallet-cover-black-ef-ea536pbegew/
+656,EF-EA536PWEGEW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-smart-s-view-wallet-cover-white-ef-ea536pwegew/
+657,EF-GA536TNEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-silicone-cover-with-strap-navy-ef-ga536tnegww/
+658,EF-GA536TWEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-silicone-cover-with-strap-white-ef-ga536twegww/
+659,EF-PA536TBEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-silicone-cover-black-ef-pa536tbegww/
+660,EF-PA536TPEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-silicone-cover-awesome-peach-ef-pa536tpegww/
+661,EF-QA536TBEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-soft-clear-cover-black-ef-qa536tbegww/
+662,EF-QA536TTEGWW,https://www.samsung.com/pt/mobile-accessories/galaxy-a53-5g-soft-clear-cover-transparent-ef-qa536ttegww/
+663,EF-RA536CNEGWW,Error getting the final link
+664,EF-RA536CWEGWW,Error getting the final link
+665,ET-FA536TTEGWW,Error getting the final link
