@@ -19,7 +19,7 @@ import os
 from Utils import generate_random_int
 
 
-
+print("Prueba")
 sendErrorActive = False
 defaultPTActive = True
 
@@ -41,6 +41,8 @@ class FeedCheil:
         self.rows = rows;
         #define country variable
         self.country = country
+        #define variable
+        self.channel_type= 'affiliate'
         #Samsung feed URL
         self.url = f'https://shop.samsung.com/{country}/googleShoppingFeed?{generate_random_int(100000)}'
         #Google feed maestro path
@@ -136,6 +138,64 @@ class FeedCheil:
         #Links from url_dictionary (each country has its own) are linked to the product ID. Also, the cid is added at the end of the url
         pass
 
+    def getTrackingId(self):
+
+        return 
+
+        # Clean CSV
+    def cleanCSV(self, df):
+        df1 = self.templateFile
+        if os.path.isfile(df1):
+            df1 = pd.read_excel(df1)
+            if df1.empty == False:
+                col  = 'id'
+                descriptions = dict(zip(df1['id'],df1['description']))
+                titles = dict(zip(df1['id'],df1['title']))
+
+                # Extract tracker (ad.double.click)
+                df1['tracking'] = df1['tracking'].str.extract('(https://ad.doubleclick.net/ddm/clk/[0-9]*;[0-9]*;[a-z]\?)',expand=False)
+                # Add to current url
+                df1['link'] = df1['id'].map(dict(zip(df['Id'],df['Link'])))
+                df1.dropna(subset='link')
+                df1['tracking']=df1['tracking']+df1['link']
+
+               
+
+                conditions  = [ df1[col].str.match('SM-A') | df1[col].str.match('SM-G') | df1[col].str.match('SM-N') | df1[col].str.match('SM-F') | df1[col].str.match('SM-M') | df1[col].str.match('SM-S'),
+                    df1[col].str.match('SM-P') | df1[col].str.match('SM-T') | df1[col].str.match('SM-X'),
+                    df1[col].str.match('SM-R'),
+                    df1[col].str.match('EF-') | df1[col].str.match('EP-') | df1[col].str.match('EB-') | df1[col].str.match('ET-') | df1[col].str.match('GP-'),
+                    df1[col].str.match('DV') | df1[col].str.match('WW'),
+                    df1[col].str.match('DW'),
+                    df1[col].str.match('HAF-'),
+                    df1[col].str.match('MC') | df1[col].str.match('MG') | df1[col].str.match('MS'),
+                    df1[col].str.match('NK') | df1[col].str.match('NV') | df1[col].str.match('NZ'),
+                    df1[col].str.match('RB') | df1[col].str.match('RL') | df1[col].str.match('RR') | df1[col].str.match('RS') | df1[col].str.match('RT') | df1[col].str.match('RZ'),
+                    df1[col].str.match('VC') | df1[col].str.match('VS'),
+                    df1[col].str.match('QE') | df1[col].str.match('UE'),
+                    df1[col].str.match('SP-'),
+                    df1[col].str.match('HW-'),
+                    df1[col].str.match('VG-'),
+                    df1[col].str.match('LC') | df1[col].str.match('LS') | df1[col].str.match('LF') | df1[col].str.match('LU'),
+                    df1[col].str.match('MU-') | df1[col].str.match('MZ-'),
+                    ]
+                choices = [ "im-smartphone", 'im-tablet', 'im-wearables', 'im-accessories', 'da-washing', 'da-dishwasher', 'da-accessories',  'da-microwave', 'da-kitchen', 'da-refrigerator', 'da-vacuum', 'vd-television', 'vd-projector', 'vd-audio', 'vd-accessories', 'it-monitor', 'it-memory'  ]
+
+                df1['category'] = np.select(conditions, choices, default='none-none')
+                df1['tracking'] = df1['tracking'] + f'?cid={self.country}_pd_{self.channel_type}_{self.platform}_'+df1['title'].replace({'(  | )':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none'
+                self.tracking_plataforma = dict(zip(df1['id'],df1['tracking']))
+                
+                df['Description'] = df['Id'].map(descriptions).fillna(df['Description'])
+                df['Title'] = df['Id'].map(titles).fillna(df['Title'])
+                df['Link'] = df['Id'].map(self.tracking_plataforma).fillna(df['Link'])
+
+            else:
+                pass
+        else:
+            pass
+        print("CSV cleaned")
+        return df
+
     def run(self):
         # Init process
         self.begin_time = datetime.datetime.now()
@@ -159,11 +219,15 @@ class FeedCheil:
         df.drop(index_to_drop, inplace=True)
         #Associating the final URL with the product ID
         df['Link'] = df['Id'].map(dictionary).fillna(df['Link'])
+        
 
         #We import the dictionary which allows us to handle HTML entities
         dictlan_from_csv = pd.read_csv(self.dictionariesPath + '/language/dict_language.csv', header=None, index_col=0).squeeze("columns").to_dict()
+        
         #We apply the dictionary to all Titles and Descriptions in our feed
         df['Title'] = df['Title'].replace(dictlan_from_csv, regex=True)
+        df['Description'] = df['Description'].replace(dictlan_from_csv, regex=True).fillna(df['Description'])
+        df['Image_Link'] = df['Image_Link'].replace({'ORIGIN_PNG': '320_320_PNG'}, regex=True).fillna(df['Image_Link'])
 
         #The following logic aims to generate the field "categories" which classifies each product. This field is used for creating the "cid".
         col  = 'Id'
@@ -190,14 +254,10 @@ class FeedCheil:
         
         df['category'] = np.select(conditions, choices, default='none-none')
         #Creating the cid (tracking Id) based on specific rules
-        df['TrackingId'] = 'cid='+ self.country +'_pd_ppc_'+self.platform+'_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and', '&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none'
+        df['TrackingId'] = 'cid='+ self.country +'_pd_'+self.channel_type+'_'+self.platform+'_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and', '&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none'
         df['TrackingId'] = df['TrackingId'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
         #Finaly, we create a dictionary associating the product ID with the tracking ID we have just assembled
         tracking = dict(zip(df['Id'],df['TrackingId']))
-
-        #We apply the dictionary to all Titles and Descriptions in our feed
-        df['Description'] = df['Description'].replace(dictlan_from_csv, regex=True).fillna(df['Description'])
-        df['Image_Link'] = df['Image_Link'].replace({'ORIGIN_PNG': '320_320_PNG'}, regex=True).fillna(df['Image_Link'])
 
         #We apply cleanCSV and setLink fucntions to the df we are working with
         df = self.cleanCSV(df)

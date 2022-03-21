@@ -21,6 +21,8 @@ class GoogleFeedCheil(FeedCheil):
         self.platform = 'google'
 
         super().__init__(country, self.rows,'Google')
+
+        self.channel_type= 'ppc'
         
 
     #Open file and fill it with the content scrapped from Samsung Feed.

@@ -17,6 +17,8 @@ class KuantoKustaFeedCheil(FeedCheil):
         self.platform = 'kuantokusta'
 
         super().__init__(country, self.rows,'KuantoKusta')
+        self.templateFile = os.path.join(self.templatePath,'KuantoKusta/ES_KuantoKusta_Sheet_Template.xls') 
+
        
     # Open file and scrap
     def openFileAndScrap(self):
@@ -117,49 +119,6 @@ class KuantoKustaFeedCheil(FeedCheil):
                 sys.exit('Hybris file error')
             print('CSV downloaded')
 
-    # Clean CSV
-    def cleanCSV(self, df):
-        df1 = f"{self.templatePath}/KuantoKusta/ES_KuantoKusta_Sheet_Template.xls"
-        if os.path.isfile(df1):
-            df1 = pd.read_excel(df1)
-            if df1.empty == False:
-                col  = 'id'
-                descriptions = dict(zip(df1['id'],df1['description']))
-                titles = dict(zip(df1['id'],df1['title']))
-                self.tracking_plataforma = dict(zip(df1['id'],df1['tracking']))
-
-                conditions  = [ df1[col].str.match('SM-A') | df1[col].str.match('SM-G') | df1[col].str.match('SM-N') | df1[col].str.match('SM-F') | df1[col].str.match('SM-M') | df1[col].str.match('SM-S'),
-                    df1[col].str.match('SM-P') | df1[col].str.match('SM-T') | df1[col].str.match('SM-X'),
-                    df1[col].str.match('SM-R'),
-                    df1[col].str.match('EF-') | df1[col].str.match('EP-') | df1[col].str.match('EB-') | df1[col].str.match('ET-') | df1[col].str.match('GP-'),
-                    df1[col].str.match('DV') | df1[col].str.match('WW'),
-                    df1[col].str.match('DW'),
-                    df1[col].str.match('HAF-'),
-                    df1[col].str.match('MC') | df1[col].str.match('MG') | df1[col].str.match('MS'),
-                    df1[col].str.match('NK') | df1[col].str.match('NV') | df1[col].str.match('NZ'),
-                    df1[col].str.match('RB') | df1[col].str.match('RL') | df1[col].str.match('RR') | df1[col].str.match('RS') | df1[col].str.match('RT') | df1[col].str.match('RZ'),
-                    df1[col].str.match('VC') | df1[col].str.match('VS'),
-                    df1[col].str.match('QE') | df1[col].str.match('UE'),
-                    df1[col].str.match('SP-'),
-                    df1[col].str.match('HW-'),
-                    df1[col].str.match('VG-'),
-                    df1[col].str.match('LC') | df1[col].str.match('LS') | df1[col].str.match('LF') | df1[col].str.match('LU'),
-                    df1[col].str.match('MU-') | df1[col].str.match('MZ-'),
-                    ]
-                choices = [ "im-smartphone", 'im-tablet', 'im-wearables', 'im-accessories', 'da-washing', 'da-dishwasher', 'da-accessories',  'da-microwave', 'da-kitchen', 'da-refrigerator', 'da-vacuum', 'vd-television', 'vd-projector', 'vd-audio', 'vd-accessories', 'it-monitor', 'it-memory'  ]
-
-                df1['category'] = np.select(conditions, choices, default='none-none')
-                df1['tracking'] = df1['tracking'].fillna('cid='+self.country+'_pd_social_kuantokusta_'+df1['title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none')
-                df['Description'] = df['Id'].map(descriptions).fillna(df['Description'])
-                df['Title'] = df['Id'].map(titles).fillna(df['Title'])
-                df['Link'] = df['Id'].map(self.tracking_plataforma).fillna(df['Link'])
-
-            else:
-                pass
-        else:
-            pass
-        print("CSV cleaned")
-        return df
 
     def setLink(self, df, tracking):
         df['Link'] = df['Link']+'?'+df['Id'].map(tracking).fillna(f'cid=pt_pd_affiliate_{self.platform}_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
