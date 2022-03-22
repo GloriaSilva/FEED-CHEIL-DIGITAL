@@ -121,13 +121,13 @@ class FacebookFeedCheil(FeedCheil):
         return df
 
 
-    def avoidXMLbreak(self,df):
-        #Final replace of "&" character by "and" in title and description
-        df['ns1:description'] = df['ns1:description'].str.replace('&','and')
+#     def avoidXMLbreak(self,df):
+#         #Final replace of "&" character by "and" in title and description
+#         df['ns1:description'] = df['ns1:description'].str.replace('&','and')
        
-        #"&"Character makes xml breaks so we add "CDATA block to make the xml ignore it
-        df['ns1:link'] = df['ns1:link'].apply(lambda x: '<![CDATA['+ x +']]>')
-        return df
+#         #"&"Character makes xml breaks so we add "CDATA block to make the xml ignore it
+#         df['ns1:link'] = df['ns1:link'].apply(lambda x: '<![CDATA['+ x +']]>')
+#         return df
 
     def setDF(self, df):
         df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
