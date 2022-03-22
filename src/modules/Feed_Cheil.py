@@ -312,6 +312,6 @@ class FeedCheil:
         df['g:title'] = df['g:title'].str.replace('&','and')
         df['g:description'] = df['g:description'].str.replace('&','and')
         #We use the CDATA label for allowing literal strings wihtin the XML witout breaking.
-        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA[ '+ x +']]>')
+        df['g:link'] = df['g:link'].apply(lambda x: '<![CDATA['+ x +']]>')
         
         return df
