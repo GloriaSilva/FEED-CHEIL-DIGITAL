@@ -152,7 +152,7 @@ class KuantoKustaFeedCheil(FeedCheil):
         df['designation'] = df['designation'].str.replace('&','and')
         df['description'] = df['description'].str.replace('&','and')
         #"&"Character makes xml breaks so we add "CDATA block to make the xml ignore it
-        df['product_url'] = df['product_url'].apply(lambda x: '<![CDATA[ '+ x +']]>')
+        df['product_url'] = df['product_url'].apply(lambda x: '<![CDATA['+ x +']]>')
         return df
 
 

@@ -120,15 +120,24 @@ class FacebookFeedCheil(FeedCheil):
         df['Link'] = df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
         return df
 
+
+    def avoidXMLbreak(self,df):
+        #Final replace of "&" character by "and" in title and description
+        df['ns1:description'] = df['ns1:description'].str.replace('&','and')
+       
+        #"&"Character makes xml breaks so we add "CDATA block to make the xml ignore it
+        df['ns1:link'] = df['ns1:link'].apply(lambda x: '<![CDATA['+ x +']]>')
+        return df
+
     def setDF(self, df):
         df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
         df = df[['Id', 'Gtin', 'Title', 'Description', 'Item_Group_Id', 'Link', 'Image_Link', 'Brand', 'Condition', 'Availability', 'Price', 'Sale_Price', 'Product_Type' ]]
-        df = df.rename({'Id' : 'g:id', 'Gtin' : 'g:gtin', 'Title' : 'g:title', 'Description' : 'g:description', 'Item_Group_Id' : 'g:item_group_id', 'Link': 'g:link', 'Image_Link' : 'g:image_link', 'Brand' : 'g:brand', 'Condition' : 'g:condition', 'Availability' : 'g:availability', 'Price' : 'g:price', 'Sale_Price' : 'g:sale_price', 'Product_Type' : 'g:google_product_category'}, axis=1)
-        df['g:gtin'] = df['g:gtin'].astype('int64', errors='ignore')
-        df['g:description'] = df['g:description'].str.replace('"', '', regex=True)
-        df['g:title'] = df['g:title'].str.replace('"', '', regex=True)
-        df['g:description'] = df['g:description'].str.replace(" õ", "õ", regex=False)
-        df['g:title'] = df['g:title'].str.replace(" õ", "õ", regex=False)
+        df = df.rename({'Id' : 'ns1:id', 'Gtin' : 'ns1:gtin', 'Title' : 'ns1:title', 'Description' : 'ns1:description', 'Item_Group_Id' : 'ns1:item_group_id', 'Link': 'ns1:link', 'Image_Link' : 'ns1:image_link', 'Brand' : 'ns1:brand', 'Condition' : 'ns1:condition', 'Availability' : 'ns1:availability', 'Price' : 'ns1:price', 'Sale_Price' : 'ns1:sale_price', 'Product_Type' : 'ns1:google_product_category'}, axis=1)
+        df['ns1:gtin'] = df['ns1:gtin'].astype('int64', errors='ignore')
+        df['ns1:description'] = df['ns1:description'].str.replace('"', '', regex=True)
+        df['ns1:title'] = df['ns1:title'].str.replace('"', '', regex=True)
+        df['ns1:description'] = df['ns1:description'].str.replace(" õ", "õ", regex=False)
+        df['ns1:title'] = df['ns1:title'].str.replace(" õ", "õ", regex=False)
 
         return df
 
