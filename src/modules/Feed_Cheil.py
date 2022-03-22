@@ -19,7 +19,7 @@ import os
 from Utils import generate_random_int
 
 
-print("Prueba")
+
 sendErrorActive = False
 defaultPTActive = True
 
@@ -63,9 +63,10 @@ class FeedCheil:
 
 
     #Cheil personal "To XML" function
-    def to_xml(df, country='pt', filename=None, mode='w'):
+    def to_xml(df, platform='facebook',country='pt',filename=None, mode='w'):
+        defaultXmlNamespace = 'xmlns="http://base.google.com/ns/1.0" ' if platform != 'facebook' else ''
         header=f"""<?xml version="1.0"?>
-    <rss xmlns="http://base.google.com/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <rss {defaultXmlNamespace}xmlns:g="http://base.google.com/ns/1.0" version="2.0">
     <channel>
     <title>Samsung Shop {country.upper()}</title>
     <link>http://www.samsung.com/{country}</link>
@@ -300,7 +301,7 @@ class FeedCheil:
         df.to_csv(self.csvFile, sep = ",", index=False)
 
         print(self.xmlFile)
-        df.to_xml(filename = self.xmlFile, country=self.country)
+        df.to_xml(filename = self.xmlFile, country=self.country, platform= self.platform)
 
         #Process finish
         print("CSV and XML created")
