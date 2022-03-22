@@ -19,6 +19,9 @@ class KuantoKustaFeedCheil(FeedCheil):
         super().__init__(country, self.rows,'KuantoKusta')
         self.templateFile = os.path.join(self.templatePath,'KuantoKusta/ES_KuantoKusta_Sheet_Template.xls') 
 
+        self.csvFile = os.path.join(self.resultPath,f"KuantoKustaFeed2.csv")
+        self.xmlFile = os.path.join(self.resultPath,f"KuantoKustaFeed2.xml")
+
        
     # Open file and scrap
     def openFileAndScrap(self):
