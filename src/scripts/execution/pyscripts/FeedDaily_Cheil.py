@@ -36,21 +36,21 @@ if __name__ == '__main__':
     print(datetime.datetime.now())
 
     print(f'Result path: {result_path}')
-   
+
     print('Updating URL dictionary')
     subprocess.run(['python3', f'{base_feed_path}/url/URL_Generator_v2.py', args.country])
 
     for provider in providers:
         print(f'Generating {provider} feed')
         subprocess.run(['python3', f'{base_feed_path}/providers/{provider}Feed_Cheil.py', args.country])
-   
+
     print(datetime.datetime.now() - begin_time)
-    
+
     if args.push:
         try:
             git.add([result_path,f'{project_path}/src/dictionaries'])
             git.commit_and_push()
         except:
             print('Unable/errors pushing to git')
-        
+
 
