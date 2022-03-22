@@ -121,8 +121,9 @@ class KuantoKustaFeedCheil(FeedCheil):
 
 
     def setLink(self, df, tracking):
-        df['Link'] = df['Link']+'?'+df['Id'].map(tracking).fillna(f'cid=pt_pd_affiliate_{self.platform}_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
-        df['Link'] = df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')  
+        tracking_plataforma = self.tracking_plataforma
+        df['Link'] = df['Id'].map(tracking_plataforma).fillna(df['Link']+f'?cid={self.country}_pd_affiliate_{self.platform}_'+df['Title'].replace({' ':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df['Id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df['category']+'-automatic-feed_pla_none_none')
+        df['Link'] = df['Link'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
         return df
 
     def setDF(self, df):
