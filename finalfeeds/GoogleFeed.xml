@@ -349,7 +349,7 @@
   <g:image_link>https://images.samsung.com/is/image/samsung/pt-dw60r7050fs-dw60r7050fs-ec-frontsilver-219762783?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
-  <g:availability>in stock</g:availability>
+  <g:availability>out of stock</g:availability>
   <g:price>849.91 EUR</g:price>
   <g:sale_price>659.00 EUR</g:sale_price>
   <g:product_type>Produtos | Maquina de loica | Eficiencia Energetica A+++ | Produtos | Eletrodomesticos | Maquina de loica | Eficiencia Energetica A+++</g:product_type>
@@ -927,6 +927,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:availability>preorder</g:availability>
   <g:price>879.91 EUR</g:price>
   <g:sale_price>679.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-G991BZAGEUB</g:id>
+  <g:gtin>8806090892349</g:gtin>
+  <g:title>Samsung Galaxy S21 5G</g:title>
+  <g:description>Não perca mais tempo e compre já o seu! Envio gratuito e entrega até 3 dias.</g:description>
+  <g:link><![CDATA[https://www.samsung.com/pt/smartphones/galaxy-s21-5g/buy/?modelCode=SM-G991BZAGEUB&cid=pt_pd_ppc_google_galaxy-s21-5g-sm-g991bzageub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/galaxy-s21/gallery/pt-galaxy-s21-5g-g991-sm-g991bzageub-368964740?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>929.90 EUR</g:price>
+  <g:sale_price>729.90 EUR</g:sale_price>
   <g:product_type>Produtos | Smartphones | Galaxy S21 Series | Produtos | Smartphones | Galaxy S Series | Galaxy S21 Series</g:product_type>
 </item>
 <item>
@@ -3940,6 +3954,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
+  <g:id>SM-M325FZKGEUB</g:id>
+  <g:gtin>8806092646292</g:gtin>
+  <g:title>Galaxy M32</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m32-black-128gb-sm-m325fzkgeub/buy/?cid=pt_pd_ppc_google_galaxy-m32-sm-m325fzkgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m325fzkgeub/gallery/pt-galaxy-m32-m325-sm-m325fzkgeub-460149825?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>289.90 EUR</g:price>
+  <g:sale_price>229.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
+</item>
+<item>
   <g:id>SM-M325FZWGEUB</g:id>
   <g:gtin>8806092646827</g:gtin>
   <g:title>Galaxy M32</g:title>
@@ -4204,6 +4232,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:price>449.00 EUR</g:price>
   <g:sale_price>399.99 EUR</g:sale_price>
   <g:product_type>Produtos | Monitores | Produtos | IT | Monitores</g:product_type>
+</item>
+<item>
+  <g:id>SM-M225FLBGEUB</g:id>
+  <g:gtin>8806092673533</g:gtin>
+  <g:title>Galaxy M22</g:title>
+  <g:description>nan</g:description>
+  <g:link><![CDATA[https://www.samsung.com/pt/smartphones/galaxy-m/galaxy-m22-blue-128gb-sm-m225flbgeub/buy/?cid=pt_pd_ppc_google_galaxy-m22-sm-m225flbgeub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-m225flbgeub/gallery/pt-galaxy-m22-m225-sm-m225flbgeub-503980897?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>239.90 EUR</g:price>
+  <g:sale_price>179.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy M Series</g:product_type>
 </item>
 <item>
   <g:id>SM-M225FZKGEUB</g:id>
@@ -4773,6 +4815,20 @@ Com um inovador rácio de aspeto 32:9, este monitor curvo é equivalente a dois 
   <g:description>Integrado no hardware e software do telefone desde o início, o Samsung Knox protege o seu telefone a partir do momento em que é ligado. Através de várias camadas de segurança, protege as suas informações mais sensíveis contra malware e ameaças maliciosas.</g:description>
   <g:link><![CDATA[https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a52s-5g/buy/?modelCode=SM-A528BZKCEUB&cid=pt_pd_ppc_google_galaxy-a52s-5g-sm-a528-sm-a528bzkceub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
   <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528bzkceub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528bzkceub-518156795?$320_320_PNG$</g:image_link>
+  <g:brand>Samsung</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>in stock</g:availability>
+  <g:price>479.90 EUR</g:price>
+  <g:sale_price>369.90 EUR</g:sale_price>
+  <g:product_type>Produtos | Smartphones | Galaxy A Series</g:product_type>
+</item>
+<item>
+  <g:id>SM-A528BZWCEUB</g:id>
+  <g:gtin>8806092957022</g:gtin>
+  <g:title>Galaxy A52s 5G (SM-A528)</g:title>
+  <g:description>Integrado no hardware e software do telefone desde o início, o Samsung Knox protege o seu telefone a partir do momento em que é ligado. Através de várias camadas de segurança, protege as suas informações mais sensíveis contra malware e ameaças maliciosas.</g:description>
+  <g:link><![CDATA[https://www.samsung.com/pt/smartphones/galaxy-a/galaxy-a52s-5g/buy/?modelCode=SM-A528BZWCEUB&cid=pt_pd_ppc_google_galaxy-a52s-5g-sm-a528-sm-a528bzwceub_ongoing_im-smartphone-automatic-feed_pla_none_none]]></g:link>
+  <g:image_link>https://images.samsung.com/is/image/samsung/p6pim/pt/sm-a528bzwceub/gallery/pt-galaxy-a52s-5g-a528-405023-sm-a528bzwceub-518156859?$320_320_PNG$</g:image_link>
   <g:brand>Samsung</g:brand>
   <g:condition>new</g:condition>
   <g:availability>in stock</g:availability>
