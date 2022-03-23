@@ -37,7 +37,7 @@ if __name__ == '__main__':
     print(datetime.datetime.now())
 
     print(f'Result path: {result_path}')
-   
+
     print('Updating URL dictionary')
     subprocess.run(['python3', f'{base_feed_path}/url/URL_Generator_v2.py', args.country])
 
@@ -49,12 +49,12 @@ if __name__ == '__main__':
     shutil.copy2(os.path.join(result_path,'KuantoKustaFeed.xml'),os.path.join(result_path,'KuantoKustaFeed2.xml'))
 
     print(datetime.datetime.now() - begin_time)
-    
+
     if args.push:
         try:
             git.add([result_path,f'{project_path}/src/dictionaries'])
             git.commit_and_push()
         except:
             print('Unable/errors pushing to git')
-        
+
 
