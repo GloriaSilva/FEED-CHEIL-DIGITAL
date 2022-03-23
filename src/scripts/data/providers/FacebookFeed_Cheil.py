@@ -17,7 +17,7 @@ class FacebookFeedCheil(FeedCheil):
 
         super().__init__(country, self.rows, "Facebook")
         self.channel_type = 'social'
-        self.templateFile = os.path.join(self.templatePath,'Facebook/ES_Facebook_Sheet_Template.xls') 
+        self.templateFile = os.path.join(self.templatePath,'Facebook/ES_Facebook_Sheet_Template.xlsx') 
         
 
     # Open file and scrap

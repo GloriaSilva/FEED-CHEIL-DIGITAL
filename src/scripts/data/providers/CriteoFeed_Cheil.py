@@ -16,7 +16,7 @@ class CriteoFeedCheil(FeedCheil):
         self.platform = 'criteo'
 
         super().__init__(country, self.rows,'Criteo')
-        self.templateFile = os.path.join(self.templatePath,'Criteo/ES_Criteo_Sheet_Template.xls') 
+        self.templateFile = os.path.join(self.templatePath,'Criteo/ES_Criteo_Sheet_Template.xlsx') 
         
     
 

@@ -114,7 +114,7 @@ class GoogleFeedCheil(FeedCheil):
         df.drop(index_to_drop, inplace=True)
 
         #We create the sheet template path variable
-        df1_path = f"{self.templatePath}/Google/ES_Google_Sheet_Template.xls"
+        df1_path = f"{self.templatePath}/Google/ES_Google_Sheet_Template.xlsx"
         #If the path drives to a file, we start the replacing process
         if os.path.isfile(df1_path):
             #We import the template as a dataframe

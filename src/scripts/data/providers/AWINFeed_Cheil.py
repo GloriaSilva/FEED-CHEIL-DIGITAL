@@ -16,7 +16,7 @@ class AWINFeedCheil(FeedCheil):
         self.platform = 'awin'
 
         super().__init__(country, self.rows,'AWIN')
-        self.templateFile = os.path.join(self.templatePath,'AWIN/ES_AWIN_Sheet_Template.xls') 
+        self.templateFile = os.path.join(self.templatePath,'AWIN/ES_AWIN_Sheet_Template.xlsx') 
         
 
     # Open file and scrap

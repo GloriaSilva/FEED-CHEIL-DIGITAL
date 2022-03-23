@@ -17,7 +17,7 @@ class KuantoKustaFeedCheil(FeedCheil):
         self.platform = 'kuantokusta'
 
         super().__init__(country, self.rows,'KuantoKusta')
-        self.templateFile = os.path.join(self.templatePath,'KuantoKusta/ES_KuantoKusta_Sheet_Template.xls') 
+        self.templateFile = os.path.join(self.templatePath,'KuantoKusta/ES_KuantoKusta_Sheet_Template.xlsx') 
 
        
     # Open file and scrap
