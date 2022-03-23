@@ -5,6 +5,7 @@ from Git_utils import GitOperations
 import sys
 import argparse
 import subprocess
+import shutil
 
 base_feed_path = f'{project_path}/src/scripts/data'
 providers = ['Facebook','Criteo', 'Google', 'AWIN', 'KuantoKusta']
@@ -44,6 +45,9 @@ if __name__ == '__main__':
         print(f'Generating {provider} feed')
         subprocess.run(['python3', f'{base_feed_path}/providers/{provider}Feed_Cheil.py', args.country])
    
+    print('Copying KK feed')
+    shutil.copy2(os.path.join(result_path,'KuantoKustaFeed.xml'),os.path.join(result_path,'KuantoKustaFeed2.xml'))
+
     print(datetime.datetime.now() - begin_time)
     
     if args.push:
