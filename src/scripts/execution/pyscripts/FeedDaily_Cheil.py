@@ -1,6 +1,6 @@
 import datetime
 import os
-from config import project_path, result_path
+from config import project_path, result_path,templates_path
 from Git_utils import GitOperations
 import sys
 import argparse

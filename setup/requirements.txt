@@ -2,11 +2,13 @@ beautifulsoup4==4.10.0
 bs4==0.0.1
 certifi==2021.10.8
 charset-normalizer==2.0.12
+et-xmlfile==1.1.0
 greenlet==1.1.2
 idna==3.3
 lxml==4.8.0
--e git+https://DataAndPerformanceCheil@github.com/DataAndPerformanceCheil/feedsCheil.git@85b15d4aa5e43b9e7f92643ae321a04e8e1dfdf1#egg=modules_feeds&subdirectory=src/modules
+-e git+https://carmenfcheil@github.com/DataAndPerformanceCheil/feedsCheil.git@f1f1b144628fe205f0f24f74b4b500b4cf3a79e7#egg=modules_feeds&subdirectory=src/modules
 numpy==1.22.2
+openpyxl==3.0.9
 pandas==1.4.1
 PyMySQL==1.0.2
 python-dateutil==2.8.2
