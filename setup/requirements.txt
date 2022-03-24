@@ -6,7 +6,7 @@ et-xmlfile==1.1.0
 greenlet==1.1.2
 idna==3.3
 lxml==4.8.0
--e git+https://DataAndPerformanceCheil@github.com/DataAndPerformanceCheil/feedsCheil.git@f1f1b144628fe205f0f24f74b4b500b4cf3a79e7#egg=modules_feeds&subdirectory=src/modules
+-e git+https://carmenfcheil@github.com/DataAndPerformanceCheil/feedsCheil.git@4b711534c1304afbd2f1ac99613fb3418a9baef6#egg=modules_feeds&subdirectory=src/modules
 numpy==1.22.2
 openpyxl==3.0.9
 pandas==1.4.1
