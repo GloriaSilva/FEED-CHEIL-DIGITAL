@@ -131,10 +131,6 @@ class FeedCheil:
         return xml_id_tag is None or xml_id_tag.text == "" or any([ prefix in xml_id_tag.text for prefix in ['ET-','EF-','HAF-']])
     #The following functions are all developed in the child classes
 
-    def cleanCSV(self):
-        #After getting the feed, the file is cleaned based on business rules.
-        pass
-
     def setLink(self, df):
         #Links from url_dictionary (each country has its own) are linked to the product ID. Also, the cid is added at the end of the url
         pass
@@ -186,8 +182,8 @@ class FeedCheil:
                 df1['tracking'] = df1['tracking'] + f'?cid={self.country}_pd_{self.channel_type}_{self.platform}_'+df1['title'].replace({'(  | )':'-', '\/':'-', '\&':'and'}, regex=True).str.lower()+'-'+df1['id'].replace({'/':'-'}, regex=True).str.lower()+'_ongoing_'+df1['category']+'-automatic-feed_pla_none_none'
                 self.tracking_plataforma = dict(zip(df1['id'],df1['tracking']))
                 
-                df['Description'] = df['Id'].map(descriptions).fillna(df['Description'])
-                df['Title'] = df['Id'].map(titles).fillna(df['Title'])
+                # df['Description'] = df['Id'].map(descriptions).fillna(df['Description'])
+                # df['Title'] = df['Id'].map(titles).fillna(df['Title'])
                 df['Link'] = df['Id'].map(self.tracking_plataforma).fillna(df['Link'])
 
             else:
