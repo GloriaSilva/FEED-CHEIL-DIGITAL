@@ -13,6 +13,6 @@ if __name__ == '__main__':
         df = pd.read_csv(f'{result_path}/{provider}Feed.csv')
         df.rename(columns={'g:id':'id','reference':'id','designation':'title','g:title':'title','g:description':'description','g:link':'tracking','product_url':'tracking'},inplace=True)
         df = get_new_categories.add_standarized_cats(df,'id')
-        df.replace({r'https://www.samsung.com.*':'', '\<\!\[CDATA\[':'' },regex = True, inplace=True)
+        df.replace({r'https://www.samsung.com.*':'', '\<\!\[CDATA\[':'', r'https://shop.samsung.com.*':'' },regex = True, inplace=True)
         df[['id','title','description','tracking','tk:division','tk:category','tk:subcategory']].to_excel(f'{result_path}/division/{provider}FeedDivision_Cheil.xlsx',index=False)
 
